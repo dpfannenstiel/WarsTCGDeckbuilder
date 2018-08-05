@@ -174,9 +174,7 @@ Tactics: 2
 Defense: 8
 Game Text: You cause attrition +1 here for each related site where you have a vehicle.
 Lore: Escort cruisers accompany battleships to provide protection for the more expensive ships. ILLUSTRATOR: JEFFCARLISLE
-2
-
-  Title: F.L.I.C.
+Title: F.L.I.C.
 Collector’s Number: 1 U 19
 Faction: Earther
 Card Type: WEAPON (Character) • Ranged
@@ -256,9 +254,7 @@ Defense: 5
 Game Text: Size 2 (This vehicle counts twice against a ship’s capacity.) Transport 1 (Each time this vehicle moves, you may move with it one of your characters.) When this vehicle enters play, dismiss a unit here.
 Lore: FedGrav originally designed juggernauts in response to losses Earthers suffered at the hands of Gongen NoBots.
 ILLUSTRATOR: PAUL BURROW
-3
-
-  Title: *Horatio Hicks
+Title: *Horatio Hicks
 Collector’s Number: 1 R 27
 Faction: Earther
 Card Type: CHARACTER • Kizen • iCom • Unit Cost: 5
@@ -345,9 +341,7 @@ Game Text: As an additional cost for your opponent to use a support icon here, h
 Lore: McCarr mastered his craft as a Gongen agent. The Coordination and Intelligence Syndicate proved that his loyalty could be bought.
 ILLUSTRATOR: MATTIAS SNYGG
 1 Earther
-4
-
-  Title: *James Howler
+Title: *James Howler
 Collector’s Number: 1 R 35
 Faction: Earther
 Card Type: CHARACTER • Kizen • CGC • Unit
@@ -434,9 +428,7 @@ Destiny: 5
 Support Cost: 1 Earther
 Game Text: You may play this interrupt only during a battle, before the battle destiny step. The next time you would reveal a card for battle destiny, make your battle destiny +X instead, where X is the tactics of target unit you have in this battle.
 Lore: “Abort Attack Plan Foxtrot. Move to the left of the landing pad – and hit them hard!” ILLUSTRATOR: PETERFERGUSON
-5
-
-  Title: Sidearm
+Title: Sidearm
 Collector’s Number: 1 R 44
 Faction: Earther
 Card Type: WEAPON (Character) • Ranged
@@ -526,9 +518,7 @@ Tactics: 1
 Defense: 5
 Game Text: As long as this ship is at a sector that has "Venus" in its title, this ship is power +2, tactics +1, and defense +2.
 Lore: Most Earther colonies contract with iCom for protection, but XeLabs uses this custom garrison fighter to protect their classified work on Venus. ILLUSTRATOR: STEPHENCROWE
-6
-
-  Title: Veteran Pilot
+Title: Veteran Pilot
 Collector’s Number: 1 U 54
 Faction: Earther
 Card Type: CHARACTER • iCom • Unit
@@ -613,9 +603,7 @@ Destiny: 1
 Support Cost: 1 Gongen
 Game Text: Each time a player’s unit is damaged by an ability of a weapon, if any of that player’s other units is damaged, he or she loses 2 energy. Lore: “We learn little in victory, much in defeat.” – Traditional
 ILLUSTRATOR: GLENOSTERBERGER
-7
-
-  Title: Dauntless Defense Collector’s Number: 1 C 63 Faction: Gongen
+Title: Dauntless Defense Collector’s Number: 1 C 63 Faction: Gongen
 Card Type: INTERRUPT (Used) Cost: 1
 Destiny: 5
 Support Cost: 1 Gongen
@@ -712,9 +700,7 @@ Tactics: 3
 Defense: 5
 Game Text: Transport 4 (Each time this ship moves, you may move with it up to four of your fighters.)
 Lore: When accompanied by a fighter group, grav drives ablaze, it evokes the image of an Asian junk alight with hundreds of paper lanterns. ILLUSTRATOR: CHRISTIANSCHWAGER
-8
-
-  Title: *Hamon of Ikazuchi Collector’s Number: 1 C 72 Faction: Gongen
+Title: *Hamon of Ikazuchi Collector’s Number: 1 C 72 Faction: Gongen
 Card Type: VEHICLE • Ikazuchi • Unit Cost: 4
 Destiny: 4
 Support Cost: 1 Gongen
@@ -812,9 +798,7 @@ Defense: 4
 Game Text: As long as you have at least two other Gongen fighters here, this ship is defense +2.
 Lore: Gongen fighters are designed to create an overlapping field of electronic noise when flying in close formation, disrupting enemy targeting systems.
 ILLUSTRATOR: ROBBURNS
-9
-
-  Title: Junshi
+Title: Junshi
 Collector’s Number: 1 U 81
 Faction: Gongen
 Card Type: INTERRUPT (Lost)
@@ -902,9 +886,7 @@ Support Cost: 2 Gongen
 Game Text: You can’t play more than one of this asset beneath the same kizen. • Pay 2 energy ≈ If your opponent’s [D] < this kizen’s tactics, your opponent causes attrition –4 here until end of turn.
 Lore: Acuity in battle is much admired by the kokata units which follow the NoBots. The leaders of such units seem almost unnaturally attuned to the flow of the fight.
 ILLUSTRATOR: MICHELLESPALDING
-10
-
-  Title: NoBot Battle Sword Collector’s Number: 1 R 90 Faction: Gongen
+Title: NoBot Battle Sword Collector’s Number: 1 R 90 Faction: Gongen
 Card Type: WEAPON (NoBot) • Melee Cost: 1
 Destiny: 5
 Support Cost: 1 Gongen
@@ -988,9 +970,7 @@ Tactics: 3
 Defense: 6
 Game Text: Size 3 (This NoBot counts three times against a ship’s capacity.) As long as you have at least two other Gongen units here, this NoBot is power +2.
 Lore: The vengeful Shikami was the first NoBot to appear and defend the people of Gongen. ILLUSTRATOR: CHRISTIANPEARCE
-11
-
-  Title: Shikami Follower
+Title: Shikami Follower
 Collector’s Number: 1 U 99
 Faction: Gongen
 Card Type: CHARACTER • Shikami • Warrior • Unit Cost: 2
@@ -1088,9 +1068,7 @@ Lore: “As the North wind brings the chill of war and death so Tamon will stand s
 ILLUSTRATOR: CHRISTIANSCHWAGER
 ILLUSTRATOR:
 ROB BURNS
-12
-
-  Title: Tamon Fighter
+Title: Tamon Fighter
 Collector’s Number: 1 C 108
 Faction: Gongen
 Card Type: SHIP (Capacity 1) • Tenno • Fighter Cost: 3
@@ -1186,9 +1164,7 @@ Destiny: 5
 Support Cost: 1 Maverick
 Game Text: Target pending unit doesn’t add its power to a player’s total power until end of turn. Lore: Worse than getting into a fistfight with a Quay is getting into a game of chicken with a Cog driver.
 ILLUSTRATOR: JOHN KONG
-13
-
-  Title: Clanton Grav Grenade
+Title: Clanton Grav Grenade
 Collector’s Number: 1 R 117
 Faction: Maverick
 Card Type: WEAPON (Character) • Explosive Cost: 1
@@ -1270,9 +1246,7 @@ Support Cost: 1 Maverick
 Game Text: Put two cards from your hand on top of your reserve in any order.
 Lore: There are always four aces in a deck, but beyond the Belt there are usually several more in the game.
 ILLUSTRATOR: KIERANYANNER
-14
-
-  Title: *Flinger Battery
+Title: *Flinger Battery
 Collector’s Number: 1 U 126
 Faction: Maverick
 Card Type: VEHICLE • Cartel • Unit
@@ -1372,9 +1346,7 @@ Tactics: 2
 Defense: 3
 Game Text: Piloting 2 (As long as this character is aboard a ship, that ship is power +2 and tactics +2.) Each time you win a sector battle here, activate up to 3 energy.
 Lore: Hellcat ships are either the fastest in the Belt or waiting for parts. It’s often the latter. ILLUSTRATOR: rkpost
-15
-
-  Title: M44 Heavy Plasma Gun
+Title: M44 Heavy Plasma Gun
 Collector’s Number: 1 R 135
 Faction: Maverick
 Card Type: WEAPON (Character) • Ranged Cost: 1
@@ -1466,9 +1438,7 @@ Support Cost: 2 Maverick
 Game Text: Cancel target pending interrupt or pending order unless your opponent pays 1 energy.
 Lore: Hellcats overcome a lack of resources with ingenuity and temerity.
 ILLUSTRATOR: LORIN WOOD
-16
-
-  Title: Plundering Bandit
+Title: Plundering Bandit
 Collector’s Number: 1 C 144
 Faction: Maverick
 Card Type: SHIP (Capacity 2) • Knaves • Inverter • Fighter
@@ -1568,9 +1538,7 @@ Game Text: Size 2, Transport 2 Each time a site battle ends here, if your battle
 Lore: Defeating an enemy isn’t enough. When resources are low, you’ve also got to be able to bring home the spoils.
 ILLUSTRATOR: BRYANHEYBOER
 LORIN WOOD
-17
-
-  Title: Spassky Quickfire II
+Title: Spassky Quickfire II
 Collector’s Number: 1 C 153
 Faction: Maverick
 Card Type: WEAPON (Character) • Ranged Cost: 0
@@ -1661,9 +1629,7 @@ Destiny: 5
 Support Cost: 2 Maverick
 Game Text: You can’t play this interrupt unless you have a kizen at a location. Cancel target pending interrupt or pending order.
 Lore: Jessup realized too late the folly of trying to double-cross the Gambler’s Cartel. ILLUSTRATOR: LORIN WOOD
-18
-
-  Title: *”Two-Way” Berson
+Title: *”Two-Way” Berson
 Collector’s Number: 1 R 162
 Faction: Maverick
 Card Type: CHARACTER • Cartel • Tech • Unit Cost: 4
@@ -1764,9 +1730,7 @@ Destiny: 6
 Support Cost: 2 Shi
 Game Text: Your opponent has total tactics –4 here unless he or she has a kizen here.
 Lore: “Why conquer the physical when you can conquer the mental?” – Seyalshi proverb ILLUSTRATOR: JEREMYMcHUGH
-19
-
-  Title: Clone Reserves
+Title: Clone Reserves
 Collector’s Number: 1 U 172
 Faction: Shi
 Card Type: INTERRUPT (Lost)
@@ -1851,9 +1815,7 @@ Cost: 0
 Destiny: 6
 Support Cost: 1 Shi
 Game Text: Choose target character in a site battle where you have a character that has a weapon beneath it. Until end of turn, make target power –3 and defense –3, and its tactics aren’t added to a player’s total tactics during a battle. Lore: Compared to dueling a fellow Shi, most human opponents offer little challenge. ILLUSTRATOR: ERIC LOFGREN
-20
-
-  Title: Energy Conduit
+Title: Energy Conduit
 Collector’s Number: 1 R 181
 Faction: Shi
 Card Type: INTERRUPT (Lost)
@@ -1944,9 +1906,7 @@ Tactics: 2
 Defense: 2
 Game Text: As long as you have another kizen here, this character is power +2.
 Lore: Travellers among the Tilak family are often tasked with guarding the most sacred Shi locations. ILLUSTRATOR: JEREMYMcHUGH
-21
-
-  Title: Martial Interrogation Collector’s Number: 1 C 190 Faction: Shi
+Title: Martial Interrogation Collector’s Number: 1 C 190 Faction: Shi
 Card Type: INTERRUPT (Used) Cost: 2
 Destiny: 2
 Support Cost: 1 Shi
@@ -2027,9 +1987,7 @@ Support Cost: 2 Shi
 Game Text: • Reveal a ship from your hand and put it on top of your used pile ≈ Your opponent chooses one of his or her ships in a sector battle here and destroys it, unless he or she reveals a ship from his or her hand and puts it on top of his or her used pile.
 Lore: Type IV armor specs predate the arrival of the Shi. Quarrels exploit this in battle.
 ILLUSTRATOR: ROBBURNS
-22
-
-  Title: Reconnoiterer
+Title: Reconnoiterer
 Collector’s Number: 1 R 199
 Faction: Shi
 Card Type: CHARACTER • Kizen • Sudeva • Warrior • Unit
@@ -2133,9 +2091,7 @@ Defense: 3
 Game Text: Each time you use an activated ability of a weapon beneath this character, draw up to three cards from your reserve. You may draw no more than three cards using this ability each battle.
 Lore: “Never back a Shi into a corner unless you outnumber it at least 5 to 1. Or you have a way out.” – CGC Infantry Manual
 ILLUSTRATOR: ALICEDUKE
-23
-
-  Title: Sudeva Quarrel
+Title: Sudeva Quarrel
 Collector’s Number: 1 C 208
 Faction: Shi
 Card Type: SHIP (Capacity 1) • Sudeva • Fighter Cost: 3
@@ -2239,9 +2195,7 @@ Power: 3
 Tactics: 1
 Defense: 6
 Game Text: As long as you have no other ships here, this ship is tactics +3 and defense +3. Lore: Vishal’s fighters are maneuverable, even through the most crowded of asteroid fields. ILLUSTRATOR: ROBBURNS
-24
-
-  Title: Vishal Scout
+Title: Vishal Scout
 Collector’s Number: 1 U 217
 Faction: Shi
 Card Type: CHARACTER • Vishal • Merchant • Unit Cost: 2
@@ -2325,9 +2279,7 @@ Support Cost: 3 Quay
 Game Text: When you play this asset, stack the top card of your opponent’s reserve face up on this asset. No player can play a card that has the same title as the card stacked on this asset. When this asset leaves play, put each card stacked on this asset on top of its owner’s used pile.
 Lore: Battlefield intelligence is key to countering the enemy’s movements. The methods used to obtain it are irrelevant.
 ILLUSTRATOR: KIERANYANNER
-25
-
-  Title: Chuluktika
+Title: Chuluktika
 Collector’s Number: 1 U 226
 Faction: Quay
 Card Type: SHIP (Capacity 5) • Makal • Capital Cost: 1
@@ -2414,9 +2366,7 @@ Cost: 4
 Destiny: 5
 Support Cost: 2 Quay
 Game Text: The next time one of your characters moves to a site this turn, destroy target unit at that site if its power < that character’s power. Lore: “There... did you hear that? I swear that was a scuttling noise...” – Short-lived Gongen guard ILLUSTRATOR: BRITT MARTIN
-26
-
-  Title: Ilna Hekaton
+Title: Ilna Hekaton
 Collector’s Number: 1 C 235
 Faction: Quay
 Card Type: SHIP (Capacity 1) • Qurim • Fighter Cost: 1
@@ -2514,9 +2464,7 @@ Destiny: 4
 Support Cost: 1 Quay
 Game Text: • Pay 0 energy ≈ You may pay [D] energy. If you do, damage target unit your opponent has in a site battle here that has defense <5.
 Lore: Secondary spurs expand when a Quay becomes enraged, inflicting grievous wounds. ILLUSTRATOR: BRITTMARTIN
-27
-
-  Title: Luhus Mauler
+Title: Luhus Mauler
 Collector’s Number: 1 C 244
 Faction: Quay
 Card Type: CHARACTER • Luhus • Inverter • Unit Cost: 2
@@ -2612,9 +2560,7 @@ Tactics: 2
 Defense: 3
 Game Text: Piloting 1 (As long as this character is aboard a ship, that ship is power +1 and tactics +1.) Each time your opponent drains at a related location, you may put this character on top of its owner’s used pile. If you do, cancel that drain. Lore: Qantana, like most Quay pilots, uses his ships as he uses his own armored physique – with fierce, reckless abandon.
 ILLUSTRATOR: JOHN HOWE; COLOR: MATTIAS SNYGG
-28
-
-  Title: Qurim Ahmak
+Title: Qurim Ahmak
 Collector’s Number: 1 R 253
 Faction: Quay
 Card Type: CHARACTER • Qurim • Predator • Unit Cost: 1
@@ -2706,9 +2652,7 @@ Support Cost: 2 Quay
 Game Text: Your opponent chooses one of his or her units to put in its owner’s hand.
 Lore: The Quay’s four armored legs allow for a versatile range of motion. Chuluk squads are masters of intimidation.
 ILLUSTRATOR: JEREMYMcHUGH
-29
-
-  Title: *Seyaltika
+Title: *Seyaltika
 Collector’s Number: 1 U 262
 Faction: Quay
 Card Type: SHIP (Capacity 1) • Tahka • Infiltrator • Fighter
@@ -2806,9 +2750,7 @@ Cost: 0
 Destiny: 4
 Support Cost: 1 Quay
 Game Text: Search your used pile for an inverter, put it in your hand, then shuffle your used pile. Lore: In times of distress, Quay call for aid through minute vibrations of their carapace. ILLUSTRATOR: ERICWILKERSON
-30
-
-  Title: Torrid Katal
+Title: Torrid Katal
 Collector’s Number: 1 C 271
 Faction: Quay
 Card Type: CHARACTER • Katal • Inverter • Unit Cost: 1
@@ -2897,9 +2839,7 @@ Tactics: 1
 Defense: 1
 Game Text: Put this character on top if its owner's used pile ≈ Your side gains an [Earther] support icon until end of turn. You may use this ability only during your deploy phase.
 Lore: Madison Positronics sold over 20 million of their popular Domesti-bot last year. ILLUSTRATOR: JOSHUATHEJAMESSHAW
-31
-
-  Title: Expansion
+Title: Expansion
 Collector’s Number: 1 C 280
 Faction: Independent
 Card Type: INTERRUPT (Lost)
@@ -2988,9 +2928,7 @@ Cost: 0
 Destiny: 4
 Game Text: Until end of turn, your opponent can’t attack at target location where four or more of his or her units have entered play this turn. Lore: Avoiding a bad beat is an important skill beyond the Belt.
 ILLUSTRATOR: CHRISDIEN
-32
-
-  Title: Salvaged Transport Collector’s Number: 1 C 289 Faction: Independent
+Title: Salvaged Transport Collector’s Number: 1 C 289 Faction: Independent
 Card Type: SHIP (Capacity 3) • Capital Cost: 3
 Destiny: 3
 Power: 2
@@ -3080,9 +3018,7 @@ Destiny: 0
 Support: 1 Maverick
 Energy: 1/0
 Game Text: Pay 2 energy ≈ Move target fighter you have here to a moon sector where a battle is taking place. Any player may use this ability. ILLUSTRATOR: ROB ALEXANDER
-33
-
-  Title: *Ganymede/Core Shaft Collector’s Number: 1 R 300 Faction: Independent
+Title: *Ganymede/Core Shaft Collector’s Number: 1 R 300 Faction: Independent
 Card Type: LOCATION (Site) Cost: 0
 Destiny: 3
 Support: None
@@ -3162,9 +3098,7 @@ Destiny: 0
 Support: 1 Gongen
 Energy: 2/1
 Game Text: As long as you have a unit here, your side of this location gains a [Gongen] support icon. ILLUSTRATOR: FRANCIS TSAI
-34
-
-  Title: *Ganymede/Unstable Ground Collector’s Number: 1 C 312 Faction: Independent
+Title: *Ganymede/Unstable Ground Collector’s Number: 1 C 312 Faction: Independent
 Card Type: LOCATION (Site)
 Cost: 0
 Destiny: 3
@@ -3252,9 +3186,7 @@ Support: 1 Maverick
 Energy: 2/1
 Game Text: As long as you have a ship here, your side of this location gains a [Maverick] support icon.
 ILLUSTRATOR: JEFFDEGENHARDT
-35
-
-  Title: *Titan/Raving Red’s Refuge Collector’s Number: 1 R 324 Faction: Independent
+Title: *Titan/Raving Red’s Refuge Collector’s Number: 1 R 324 Faction: Independent
 Card Type: LOCATION (Sector) • Moon Cost: 0
 Destiny: 0
 Support: 1 Maverick
@@ -3324,5 +3256,3 @@ Tactics: 5
 Defense: 3
 Game Text: Piloting 3 (As long as this character is aboard a ship, that ship is power +3 and tactics +3.) • Dismiss target other unit you have here ≈ This character is immune to attrition until end of turn. • Pay 2 energy ≈ If this character is aboard a ship,movethatshiptoasectorbattleatanother sector.
 Lore: A consummate pilot and wayfarer, Ranarti favors exploration over conflict. Its skills have brought it tremendous success in both endeavors. ILLUSTRATOR: KAYALLEN
-TM, ®, & © 2004 Decipher, Inc., P.O. Box 56, Norfolk, Virginia U.S.A. 23501. All Rights Reserved. Printed in the U.S.A. The information in this document is copyrighted by Decipher, Inc. 2004; however, it can be freely disseminated online or by traditional publishing means as long as it is not altered and all copyright notices are attached.
-36

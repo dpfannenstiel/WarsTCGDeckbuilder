@@ -80,10 +80,7 @@ Tactics: 1
 Defense: 5
 Game Text: When this ship enters play, you may put target unit here that doesn’t have piloting on top of its owner’s used pile.
 Lore: Type IVs from Inca squadron routinely patrol areas near the rift, alert for any developments. ILLUSTRATOR: STEPHEN CROWE
-1
-
-WARS TCG‘ Nowhere to Hide Text Spoiler
-  Title: Informational Advantage Collector’s Number: 2 R 10
+Title: Informational Advantage Collector’s Number: 2 R 10
 Faction: Earther
 Card Type: ASSET (Character Infiltrator) Cost: 3
 Destiny: 2
@@ -174,10 +171,7 @@ Defense: 4
 Game Text: Quickdraw 1 (Add a • to each activated ability on a weapon beneath this character that already has at least one.) Each time the attrition step ends here and your opponent has attrition remaining, this character is power +3 until end of turn.
 Lore: When watching Hallard’s back, Vesuvian Ranger Jerlen Krae relies on his quick wits as often as his fast hands.
 ILLUSTRATOR: MICHELLE SPALDING
-2
-
-WARS TCG‘ Nowhere to Hide Text Spoiler
-  Title: Remote Coordinator
+Title: Remote Coordinator
 Collector’s Number: 2 U 19
 Faction: Earther
 Card Type: CHARACTER • Kizen • CISyn • Unit Cost: 3
@@ -268,10 +262,7 @@ Defense: 5
 Game Text: • Lose 3 energy ≈ Put target ship here in its owner’s hand. You may use this ability only during your move phase. You can’t use this ability the turn this ship comes into play.
 Lore: She’s got the scanners and sampling equipment as well as enough firepower for a standup fight.
 ILLUSTRATOR: JOSHUA theJAMES SHAW
-3
-
-WARS TCG‘ Nowhere to Hide Text Spoiler
-  Title: XeRacer
+Title: XeRacer
 Collector’s Number: 2 C 28
 Faction: Earther
 Card Type: SHIP (Capacity 2) • XeLabs • Fighter Cost: 3
@@ -365,10 +356,7 @@ Support Cost: 3 Gongen
 Game Text: This NoBot is defense +4.
 •• Pay 2 energy ≈ Choose target unit your opponent has in a site battle here. Reveal the top two cards of your reserve, choose one and note its destiny, and put them on top of your used pile in any order. Damage target if its defense < that destiny.
 Lore: “The Shi taught the Quay to hate water. The NoBot kouhyou weapon taught them to fear it.” ILLUSTRATOR: CHRISTIAN PEARCE
-4
-
-WARS TCG‘ Nowhere to Hide Text Spoiler
-  Title: *Hannya
+Title: *Hannya
 Collector’s Number: 2 R 37
 Faction: Gongen
 Card Type: NOBOT• Deigan • Inverter • Bot • Unit Cost: 5
@@ -463,10 +451,7 @@ Support Cost: 1 Gongen
 Game Text: This character is defense +2. If this character doesn’t have quickdraw, this character gains Quickdraw 1.
 Lore: Medium range plasma cannons are deployed to clear the way for NoBots as they rush into battle.
 ILLUSTRATOR: PAUL BURROW
-5
-
-WARS TCG‘ Nowhere to Hide Text Spoiler
-  Title: Strength of Arms Collector’s Number: 2 R 46 Faction: Gongen
+Title: Strength of Arms Collector’s Number: 2 R 46 Faction: Gongen
 Card Type: ASSET
 Cost: 1
 Destiny: 5
@@ -559,10 +544,7 @@ Support Cost: 2 Gongen
 Game Text: • Pay 1 energy ≈ If you have two fighters at the same sector and there are fewer than two cards stacked here, your opponent loses 1 energy and stacks that card face down on this asset. You may use this ability only during your deploy phase.
 Lore: Once the needs of the NoBots became evident, the Gongen began to covet other traginium sources.
 ILLUSTRATOR: CHRISTIAN SCHWAGER
-6
-
-WARS TCG‘ Nowhere to Hide Text Spoiler
-  Title: Transport Aide
+Title: Transport Aide
 Collector’s Number: 2 C 55
 Faction: Gongen
 Card Type: CHARACTER • Ikazuchi • Tech • Unit Cost: 4
@@ -658,10 +640,7 @@ Tactics: 1/1
 Defense: 5/5
 Game Text: Each time you play a character who has piloting aboard this ship, you may invert this ship./ Captain – Killer Cait Grimalkin • Pay 3 energy ≈ Draw two cards from your reserve.
 Lore: No Earther convoy wants to see the Claw show up with Killer Cait mousing around. ILLUSTRATOR: MIKE BRUINSMA
-7
-
-WARS TCG‘ Nowhere to Hide Text Spoiler
-  Title: Chameleon
+Title: Chameleon
 Collector’s Number: 2 R 64
 Faction: Maverick
 Card Type: ASSET
@@ -760,10 +739,7 @@ Defense: 3
 Game Text: Quickdraw 1 (Add a • to each activated ability on a weapon beneath this character that already has one.) When this character enters play, you may reveal the top card of your used pile. If you do, you may put that card on top of your reserve.
 Lore: Need a gun? Fuel? Air? Slick Tommy Jianbua can help you out. He asks only a nominal fee to cover expenses.
 ILLUSTRATOR: BRIAN ROOD
-8
-
-WARS TCG‘ Nowhere to Hide Text Spoiler
-  Title: *Inquiry
+Title: *Inquiry
 Collector’s Number: 2 U 73
 Faction: Maverick
 Card Type: ASSET • Evidence
@@ -855,10 +831,7 @@ Support Cost: 1 Maverick
 Game Text: Until end of turn, switch tactics and defense of target character at same location as your kizen . (Effects that alter target’s tactics alter its defense instead, and vice versa, until end of turn.)
 Lore: “Is that even possible?”
 ILLUSTRATOR: KIERAN YANNER
-9
-
-WARS TCG‘ Nowhere to Hide Text Spoiler
-  Title: Synched Up
+Title: Synched Up
 Collector’s Number: 2 U 82
 Faction: Maverick
 Card Type: ORDER (Used)
@@ -943,10 +916,7 @@ Destiny: 4
 Support Cost: 2 Shi
 Game Text: You can’t play this interrupt unless you have a kizen at a location. Your opponent reveals his or her hand and chooses a destiny number on one of the revealed cards. Choose a revealed card with that destiny number and put it on top of his or her used pile.
 Lore: “Ability HX45: Active disruption of cognitive processes.” – Expanded Awareness Journal ILLUSTRATOR: KIERAN YANNER
-10
-
-WARS TCG‘ Nowhere to Hide Text Spoiler
-  Title: Carabinier
+Title: Carabinier
 Collector’s Number: 2 C 91
 Faction: Shi
 Card Type: CHARACTER • Anant • Warrior • Unit Cost: 2
@@ -1043,10 +1013,7 @@ Tactics: 1
 Defense: 6
 Game Text: This ship costs 1 less energy to play at a sector for each of your opponent’s inverters at locations related to that sector.
 Lore: Hastecurrents sent to support Reaper Craft above Ganymede chased off Hellcat ships contracted to defend the Maverick mine. ILLUSTRATOR: JOE BOULDEN
-11
-
-WARS TCG‘ Nowhere to Hide Text Spoiler
-  Title: Key Keeper
+Title: Key Keeper
 Collector’s Number: 2 C 100
 Faction: Shi
 Card Type: CHARACTER • Anant • Warrior • Unit Cost: 2
@@ -1143,10 +1110,7 @@ Defense: 6
 Game Text: Captain – Ashmahi-Anant (As long as Ashmahi-Anant is aboard this ship, this ship and each unit aboard it is immune to attrition.) Each character aboard this ship who has piloting gains Piloting 2.
 Lore: A veteran Swiftwave squadron provided protection for Anant capital ships.
 ILLUSTRATOR: JOE BOULDEN
-12
-
-WARS TCG‘ Nowhere to Hide Text Spoiler
-  Title: Target of Opportunity Collector’s Number: 2 U 109 Faction: Shi
+Title: Target of Opportunity Collector’s Number: 2 U 109 Faction: Shi
 Card Type: ASSET
 Cost: 1
 Destiny: 5
@@ -1238,10 +1202,7 @@ Defense: 5
 Game Text: Each time you win a battle here, you may damage target other unit here. If you do, you may undamage this character.
 Lore: “Though we are new to the Council, the impact of the Qurim will soon resonate throughout this system.”
 ILLUSTRATOR: JOHN HOWE, COLOR BY KIERAN YANNER
-13
-
-WARS TCG‘ Nowhere to Hide Text Spoiler
-  Title: Breaching
+Title: Breaching
 Collector’s Number: 2 U 118
 Faction: Quay
 Card Type: INTERRUPT (Used)
@@ -1334,10 +1295,7 @@ Support Cost: 1 Quay
 Game Text: This ship is power +1 for each related location you control. • Pay 1 energy ≈ Choose target ship your opponent has in a sector battle here. Damage target if its defense < [D].
 Lore: Although shorter in range than most shipboard weapons, the Flametongue is lethally effective.
 ILLUSTRATOR: JIM PAVELEC
-14
-
-WARS TCG‘ Nowhere to Hide Text Spoiler
-  Title: Hullripper
+Title: Hullripper
 Collector’s Number: 2 C 127
 Faction: Quay
 Card Type: CHARACTER • Tahka • Inverter • Unit Cost: 2
@@ -1439,10 +1397,7 @@ Tactics: 1
 Defense: 3
 Game Text: Piloting 1 (As long as this character is aboard a ship, that ship is power +1 and tactics +1.) When this character is destroyed, you may pay 2 energy. If you do, put this character in its owner’s hand.
 Lore: “I have advised our chieftain that we should pursue an alliance with the Tahka.” ILLUSTRATOR: JOHN HOWE- COLOR BY KIERAN YANNER
-15
-
-WARS TCG‘ Nowhere to Hide Text Spoiler
-  Title: Ravagers
+Title: Ravagers
 Collector’s Number: 2 C 136
 Faction: Quay
 Card Type: CHARACTER • Tahka • Predator • Unit Cost: 2
@@ -1533,10 +1488,7 @@ Tactics: 1
 Defense: 1
 Game Text: • Reveal a Quay card from your hand and put it on top of your used pile ≈ Target location gains a [Quay] support icon until end of turn.
 Lore: Quay bots are built for warfare, not servitude. ILLUSTRATOR: JOSHUA theJAMES SHAW
-16
-
-WARS TCG‘ Nowhere to Hide Text Spoiler
-  Title: Long Way Down
+Title: Long Way Down
 Collector’s Number: 2 R 145
 Faction: Independent
 Card Type: ASSET (Location)
@@ -1630,10 +1582,7 @@ Support Cost: 1 Shi
 Energy: 2/1
 Game Text: Each ship here is tactics –1, unless that ship is a Shi ship.
 ILLUSTRATOR: JOE BOULDEN
-17
-
-WARS TCG‘ Nowhere to Hide Text Spoiler
-  Title: *Ganymede/Subterranean Passage Collector’s Number:
+Title: *Ganymede/Subterranean Passage Collector’s Number:
 Faction: Independent
 Card Type: LOCATION (Site) • Underground Destiny: 0
 Support Cost: 1 Quay
@@ -1717,5 +1666,3 @@ Tactics: 5
 Defense: 4
 Game Text: Piloting 3 (As long as this character is aboard a ship, that ship is power +3 and tactics +3) • Pay 4 energy ≈ If this character is at a sector, your opponent can’t reveal cards for battle destiny during battles at target other sector until end of turn.
 Lore: After all the cards are dealt, Killer Cait on your wing is better than pocket rockets. ILLUSTRATOR: KIERAN YANNER
-‘, “, & ” 2004 Decipher, Inc., P.O. Box 56, Norfolk, Virginia U.S.A. 23501. All Rights Reserved. Printed in the U.S.A. The information in this document is copyrighted by Decipher, Inc. 2004; however, it can be freely disseminated online or by traditional publishing means as long as it is not altered and all copyright notices are attached.
-18
