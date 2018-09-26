@@ -18,17 +18,21 @@ Support Cost: 2 Earther
 Game Text: Make target kizen defense +3 until end of turn for each of your locations that has “Earth” in its title.
 Lore: Kizen power is characterized by enhanced awareness. At times, this manifests itself in subtle premonitions.
 ILLUSTRATOR: ATHENAHUDDLESTON
-Title: Armor Penetrating Collector’s Number: 1 U 3 Faction: Earther
+Title: Armor Penetrating
+Collector’s Number: 1 U 3
+Faction: Earther
 Card Type: INTERRUPT (Lost)
 Cost: 0
 Destiny: 2
 Support Cost: 2 Earther
-Game Text: The next time an ability of one of your weapons damages a unit this turn, damage up to two target units at that weapon’s location. Lore: FedGrav manufactured weaponry far exceeds expectations, having the potential to pierce multiple targets at once.
+Game Text: The next time an ability of one of your weapons damages a unit this turn, damage up to two target units at that weapon’s location.
+Lore: FedGrav manufactured weaponry far exceeds expectations, having the potential to pierce multiple targets at once.
 ILLUSTRATOR: KIERANYANNER
 Title: Assault Guru
 Collector’s Number: 1 C 4
 Faction: Earther
-Card Type: CHARACTER • CISyn • Tech • Unit Cost: 2
+Card Type: CHARACTER • CISyn • Tech • Unit
+Cost: 2
 Destiny: 4
 Support Cost: 1 Earther
 Power: 1
@@ -40,7 +44,8 @@ ILLUSTRATOR: PAMELINA H
 Title: *Atlantis
 Collector’s Number: 1 R 5
 Faction: Earther
-Card Type: SHIP (Capacity 3) • iCom • Capital Cost: 6
+Card Type: SHIP (Capacity 3) • iCom • Capital
+Cost: 6
 Destiny: 4
 Support Cost: 3 Earther
 Power: 6
@@ -63,7 +68,8 @@ ILLUSTRATOR: STEPHEN CROWE
 Title: CGC Grunt
 Collector’s Number: 1 C 7
 Faction: Earther
-Card Type: CHARACTER • CGC • Warrior • Unit Cost: 1
+Card Type: CHARACTER • CGC • Warrior • Unit
+Cost: 1
 Destiny: 4
 Support Cost: 1 Earther
 Power: 1
@@ -75,7 +81,8 @@ ILLUSTRATOR: SEDONE THONGVILAY
 Title: *Chan Whitmer
 Collector’s Number: 1 R 8
 Faction: Earther
-Card Type: CHARACTER • CISyn • Infiltrator • Unit Cost: 1
+Card Type: CHARACTER • CISyn • Infiltrator • Unit
+Cost: 1
 Destiny: 4
 Support Cost: 2 Earther
 Power: 1
@@ -84,16 +91,21 @@ Defense: 3
 Game Text: • Lose 1 energy ≈ Choose target vehicle in a site battle here. Damage target if its defense < [D].
 Lore: A former FedGrav technician, Whitmer is the ideal candidate to head CISyn’s sabotage operations.
 ILLUSTRATOR: KIERAN YANNER
-Title: CISyn Retaliation Collector’s Number: 1 R 9 Faction: Earther
+Title: CISyn Retaliation
+Collector’s Number: 1 R 9
+Faction: Earther
 Card Type: INTERRUPT (Lost)
 Cost: 2
 Destiny: 3
 Support Cost: 2 Earther
-Game Text: When you play this interrupt, if you have a kizen at a battleground location, you may pay 1 energy. If you do, this interrupt is used instead of lost. Cancel target pending drain. Lore: CISyn controllers ensure the proper tool is selected for each task.
+Game Text: When you play this interrupt, if you have a kizen at a battleground location, you may pay 1 energy. If you do, this interrupt is used instead of lost. Cancel target pending drain.
+Lore: CISyn controllers ensure the proper tool is selected for each task.
 ILLUSTRATOR: GLENOSTERBERGER
 Title: Close Support Pilot
-Collector’s Number: 1 C 10 Faction: Earther
-Card Type: CHARACTER • iCom • Unit Cost: 2
+Collector’s Number: 1 C 10
+Faction: Earther
+Card Type: CHARACTER • iCom • Unit
+Cost: 2
 Destiny: 3
 Support Cost: 2 Earther
 Power: 1
@@ -102,7 +114,9 @@ Defense: 3
 Game Text: Piloting 1 (As long as this character is aboard a ship, that ship is power +1 and tactics +1.) Each time a ship moves from here, if this character is aboard a fighter, you may move that fighter to the same location.
 Lore: Hank Cates, much like most of his fellow Earther pilots, will go into battle anywhere with the feeling his cause is righteous and just.
 ILLUSTRATOR: MARIANNEPLUMRIDGE
-Title: Collaborative Strike Collector’s Number: 1 C 11 Faction: Earther
+Title: Collaborative Strike
+Collector’s Number: 1 C 11
+Faction: Earther
 Card Type: INTERRUPT (Used)
 Cost: 0
 Destiny: 5
@@ -110,20 +124,24 @@ Support Cost: 1 Earther
 Game Text: Until end of turn, make target unit that has a weapon beneath it you have in a site battle power +4 and defense +4.
 Lore: “On my count – engage and fire!”
 ILLUSTRATOR: KIERANYANNER
-Title: Commerce Authority Fighter Collector’s Number: 1 U 12
+Title: Commerce Authority Fighter
+Collector’s Number: 1 U 12
 Faction: Earther
-Card Type: SHIP (Capacity 1) • iCom • Fighter Cost: 3
+Card Type: SHIP (Capacity 1) • iCom • Fighter
+Cost: 3
 Destiny: 4
 Support Cost: 1 Earther
 Power: 2
 Tactics: 1
 Defense: 5
-Game Text: Each interrupt your opponent plays during a battle here costs 1 more energy to play. Lore: The Commerce Authority division of iCom ensures that Earther merchant ships are well- protected – and taxed accordingly.
+Game Text: Each interrupt your opponent plays during a battle here costs 1 more energy to play.
+Lore: The Commerce Authority division of iCom ensures that Earther merchant ships are well- protected – and taxed accordingly.
 ILLUSTRATOR: STEPHENCROWE
 Title: Consigned Trooper
 Collector’s Number: 1 C 13
 Faction: Earther
-Card Type: CHARACTER • CGC • Warrior • Unit Cost: 2
+Card Type: CHARACTER • CGC • Warrior • Unit
+Cost: 2
 Destiny: 4
 Support Cost: 1 Earther
 Power: 1
@@ -164,7 +182,8 @@ ILLUSTRATOR: JOE BOULDEN
 Title: Entrenched Infantry
 Collector’s Number: 1 U 17
 Faction: Earther
-Card Type: CHARACTER • CGC • Warrior • Unit Cost: 3
+Card Type: CHARACTER • CGC • Warrior • Unit
+Cost: 3
 Destiny: 3
 Support Cost: 3 Earther
 Power: 3
@@ -235,7 +254,8 @@ ILLUSTRATOR: CHRISTIANPEARCE
 Title: Grav Operator
 Collector’s Number: 1 U 24
 Faction: Earther
-Card Type: CHARACTER • FedGrav • Warrior • Unit Cost: 2
+Card Type: CHARACTER • FedGrav • Warrior • Unit
+Cost: 2
 Destiny: 5
 Support Cost: 2 Earther
 Power: 1
@@ -258,7 +278,8 @@ Game Text: Size 2 (This vehicle counts twice against a ship’s capacity.) Transpo
 Lore: Earther infantry is escorted by close support craft. These Blades are able to maneuver quickly and deliver heavy firepower.
 ILLUSTRATOR: CHRISTIAN PEARCE
 Title: Heavy Juggernaut Collector’s Number: 1 U 26 Faction: Earther
-Card Type: VEHICLE • FedGrav • Unit Cost: 3
+Card Type: VEHICLE • FedGrav • Unit
+Cost: 3
 Destiny: 1
 Support Cost: 2 Earther
 Power: 7
@@ -270,7 +291,8 @@ ILLUSTRATOR: PAUL BURROW
 Title: *Horatio Hicks
 Collector’s Number: 1 R 27
 Faction: Earther
-Card Type: CHARACTER • Kizen • iCom • Unit Cost: 5
+Card Type: CHARACTER • Kizen • iCom • Unit
+Cost: 5
 Destiny: 3
 Support Cost: 3 Earther
 Power: 4
@@ -290,7 +312,8 @@ Lore: “Victory belongs to the most persevering.”
 ILLUSTRATOR: DENNISCALERO
 Title: *Howler’s Blades
 Collector’s Number: 1 R 29 Faction: Earther
-Card Type: VEHICLE • FedGrav • Unit Cost: 4
+Card Type: VEHICLE • FedGrav • Unit
+Cost: 4
 Destiny: 2
 Support Cost: 2 Earther
 Power: 8
@@ -326,7 +349,8 @@ ILLUSTRATOR: STEPHEN CROWE
 Faction: Earther
 Collector’s Number: 1 C 32
 Title: Infantry Officer
-Card Type: CHARACTER • CGC • Warrior • Unit Cost: 3
+Card Type: CHARACTER • CGC • Warrior • Unit
+Cost: 3
 Destiny: 3
 Support Cost: 1 Earther
 Power: 1
@@ -336,7 +360,8 @@ Game Text: As long as this character is at a site where you have a character tha
 Lore: The mantra of officers such as Rayne Leclere: “Those who don’t follow orders are traitors to the cause.”
 ILLUSTRATOR: PAMELINAH
 Title: Infantry Support Vehicle Collector’s Number: 1 C 33 Faction: Earther
-Card Type: VEHICLE • FedGrav • Unit Cost: 3
+Card Type: VEHICLE • FedGrav • Unit
+Cost: 3
 Destiny: 2
 Support Cost: 1 Earther
 Power: 3
@@ -348,7 +373,8 @@ ILLUSTRATOR: PAUL BURROW
 Title: *Ivan McCarr
 Collector’s Number: 1 U 34
 Faction: Earther
-Card Type: CHARACTER • CISyn • Infiltrator • Unit Cost: 4
+Card Type: CHARACTER • CISyn • Infiltrator • Unit
+Cost: 4
 Destiny: 4
 Support Cost: 3 Earther
 Power: 0
@@ -433,7 +459,8 @@ ILLUSTRATOR: STEPHENCROWE
 Title: *Pavel Royerk
 Collector’s Number: 1 U 42
 Faction: Earther
-Card Type: CHARACTER • CISyn • Infiltrator • Unit Cost: 1
+Card Type: CHARACTER • CISyn • Infiltrator • Unit
+Cost: 1
 Destiny: 1
 Support Cost: 2 Earther
 Power: 2
@@ -526,7 +553,8 @@ ILLUSTRATOR: KIERANYANNER
 Title: Vanguard Trooper
 Collector’s Number: 1 R 52
 Faction: Earther
-Card Type: CHARACTER • CGC • Warrior • Unit Cost: 3
+Card Type: CHARACTER • CGC • Warrior • Unit
+Cost: 3
 Destiny: 4
 Support Cost: 1 Earther
 Power: 1
@@ -563,7 +591,8 @@ ILLUSTRATOR: SEDONE THONGVILAY
 Title: Zealous Squad
 Collector’s Number: 1 C 55
 Faction: Earther
-Card Type: CHARACTER • CGC • Warrior • Unit Cost: 2
+Card Type: CHARACTER • CGC • Warrior • Unit
+Cost: 2
 Destiny: 3
 Support Cost: 2 Earther
 Power: 6
@@ -610,7 +639,8 @@ ILLUSTRATOR: KIERANYANNER
 Title: Chijo Warrior
 Collector’s Number: 1 C 60
 Faction: Gongen
-Card Type: CHARACTER • Chijo • Warrior • Unit Cost: 1
+Card Type: CHARACTER • Chijo • Warrior • Unit
+Cost: 1
 Destiny: 4
 Support Cost: 2 Gongen
 Power: 1
@@ -672,7 +702,8 @@ ILLUSTRATOR: CHRISTIANPEARCE
 Title: Deigan Follower
 Collector’s Number: 1 U 66
 Faction: Gongen
-Card Type: CHARACTER • Deigan • Warrior • Unit Cost: 2
+Card Type: CHARACTER • Deigan • Warrior • Unit
+Cost: 2
 Destiny: 4
 Support Cost: 2 Gongen
 Power: 2
@@ -739,7 +770,8 @@ Game Text: Transport 4 (Each time this ship moves, you may move with it up to fo
 Lore: When accompanied by a fighter group, grav drives ablaze, it evokes the image of an Asian junk alight with hundreds of paper lanterns.
 ILLUSTRATOR: CHRISTIANSCHWAGER
 Title: *Hamon of Ikazuchi Collector’s Number: 1 C 72 Faction: Gongen
-Card Type: VEHICLE • Ikazuchi • Unit Cost: 4
+Card Type: VEHICLE • Ikazuchi • Unit
+Cost: 4
 Destiny: 4
 Support Cost: 1 Gongen
 Power: 2
@@ -751,7 +783,8 @@ ILLUSTRATOR: CORTNEYSKINNER
 Title: *Higen Orochito
 Collector’s Number: 1 R 73
 Faction: Gongen
-Card Type: CHARACTER • Kizen • Deigan • Unit Cost: 4
+Card Type: CHARACTER • Kizen • Deigan • Unit
+Cost: 4
 Destiny: 5
 Support Cost: 3 Gongen
 Power: 2
@@ -784,7 +817,8 @@ ILLUSTRATOR: CHRISTIANPEARCE
 Title: Ikazuchi Leader
 Collector’s Number: 1 U 76
 Faction: Gongen
-Card Type: CHARACTER • Ikazuchi • Warrior • Unit Cost: 3
+Card Type: CHARACTER • Ikazuchi • Warrior • Unit
+Cost: 3
 Destiny: 2
 Support Cost: 2 Gongen
 Power: 1
@@ -853,7 +887,8 @@ ILLUSTRATOR: CHRISTIANPEARCE
 Title: *Kano Masako
 Collector’s Number: 1 R 82
 Faction: Gongen
-Card Type: CHARACTER • Kizen • Ikazuchi • Unit Cost: 1
+Card Type: CHARACTER • Kizen • Ikazuchi • Unit
+Cost: 1
 Destiny: 6
 Support Cost: 3 Gongen
 Power: 1
@@ -889,7 +924,8 @@ ILLUSTRATOR: ROB BURNS
 Title: Loremaster
 Collector’s Number: 1 U 85
 Faction: Gongen
-Card Type: CHARACTER • Chijo • Warrior • Unit Cost: 2
+Card Type: CHARACTER • Chijo • Warrior • Unit
+Cost: 2
 Destiny: 4
 Support Cost: 2 Gongen
 Power: 1
@@ -964,7 +1000,8 @@ ILLUSTRATOR: PAULBURROW
 Title: Resource Technician
 Collector’s Number: 1 C 93
 Faction: Gongen
-Card Type: CHARACTER • Chijo • Tech • Unit Cost: 4
+Card Type: CHARACTER • Chijo • Tech • Unit
+Cost: 4
 Destiny: 2
 Support Cost: 1 Gongen
 Power: 2
@@ -1027,7 +1064,8 @@ ILLUSTRATOR: CHRISTIANPEARCE
 Title: Shikami Follower
 Collector’s Number: 1 U 99
 Faction: Gongen
-Card Type: CHARACTER • Shikami • Warrior • Unit Cost: 2
+Card Type: CHARACTER • Shikami • Warrior • Unit
+Cost: 2
 Destiny: 2
 Support Cost: 1 Gongen
 Power: 2
@@ -1052,7 +1090,8 @@ ILLUSTRATOR: CORTNEYSKINNER
 Title: Shikami Warrior
 Collector’s Number: 1 C 101
 Faction: Gongen
-Card Type: CHARACTER • Shikami • Warrior • Unit Cost: 2
+Card Type: CHARACTER • Shikami • Warrior • Unit
+Cost: 2
 Destiny: 4
 Support Cost: 2 Gongen
 Power: 2
@@ -1090,7 +1129,8 @@ Support Cost: 1 Gongen
 Game Text: Target pending ship can’t move until end of turn.
 Lore: The Gongen A.I. wastes little time in responding to threats to its people. Tenno assets are ever at its disposal.
 Title: T.S.V. Command Post Collector’s Number: 1 U 105 Faction: Gongen
-Card Type: VEHICLE • Shikami • Unit Cost: 2
+Card Type: VEHICLE • Shikami • Unit
+Cost: 2
 Destiny: 1
 Support Cost: 1 Gongen
 Power: 2
@@ -1169,7 +1209,8 @@ ILLUSTRATOR: KIERANYANNER
 Title: *Ace McCallister
 Collector’s Number: 1 R 112
 Faction: Maverick
-Card Type: CHARACTER • Kizen • Nest • Unit Cost: 0
+Card Type: CHARACTER • Kizen • Nest • Unit
+Cost: 0
 Destiny: 6
 Support Cost: 3 Maverick
 Power: 1
@@ -1181,7 +1222,8 @@ ILLUSTRATOR: PETER FERGUSON 112
 Title: Bean Counter
 Collector’s Number: 1 C 113
 Faction: Maverick
-Card Type: CHARACTER • Cartel • Merchant • Unit Cost: 2
+Card Type: CHARACTER • Cartel • Merchant • Unit
+Cost: 2
 Destiny: 4
 Support Cost: 2 Maverick
 Power: 1
@@ -1205,7 +1247,8 @@ ILLUSTRATOR: SEAN McNALLY
 Title: Cartel Legate
 Collector’s Number: 1 R 115
 Faction: Maverick
-Card Type: CHARACTER • Cartel • Tech • Unit Cost: 3
+Card Type: CHARACTER • Cartel • Tech • Unit
+Cost: 3
 Destiny: 2
 Support Cost: 2 Maverick
 Power: 1
@@ -1261,7 +1304,8 @@ ILLUSTRATOR: JOE BOULDEN
 Title: Dubious Contact
 Collector’s Number: 1 C 121
 Faction: Maverick
-Card Type: CHARACTER • Nest • Rogue • Unit Cost: 2
+Card Type: CHARACTER • Nest • Rogue • Unit
+Cost: 2
 Destiny: 2
 Support Cost: 1 Maverick
 Power: 1
@@ -1335,7 +1379,8 @@ ILLUSTRATOR: ALICEDUKE
 Title: General Bots NAV4
 Collector’s Number: 1 U 128
 Faction: Maverick
-Card Type: CHARACTER • Knaves • Bot • Unit Cost: 3
+Card Type: CHARACTER • Knaves • Bot • Unit
+Cost: 3
 Destiny: 1
 Support Cost: 3 Maverick
 Power: 1
@@ -1392,7 +1437,8 @@ ILLUSTRATOR: KIERANYANNER
 Title: *Jack Wilgress
 Collector’s Number: 1 R 133
 Faction: Maverick
-Card Type: CHARACTER • Kizen • Knaves • Unit Cost: 7
+Card Type: CHARACTER • Kizen • Knaves • Unit
+Cost: 7
 Destiny: 5
 Support Cost: 3 Maverick
 Power: 7
@@ -1444,7 +1490,8 @@ ILLUSTRATOR: JOEBOULDEN
 Title: *Misty Miller
 Collector’s Number: 1 U 138
 Faction: Maverick
-Card Type: CHARACTER • Nest • Rogue • Unit Cost: 1
+Card Type: CHARACTER • Nest • Rogue • Unit
+Cost: 1
 Destiny: 6
 Support Cost: 2 Maverick
 Power: 2
@@ -1494,7 +1541,8 @@ ILLUSTRATOR: MICHELLESPALDING
 Title: Ore Hound
 Collector’s Number: 1 C 142
 Faction: Maverick
-Card Type: CHARACTER • Cartel • Tech • Unit Cost: 3
+Card Type: CHARACTER • Cartel • Tech • Unit
+Cost: 3
 Destiny: 2
 Support Cost: 1 Maverick
 Power: 1
@@ -1637,7 +1685,8 @@ ILLUSTRATOR: KIERANYANNER
 Title: *Starhawk
 Collector’s Number: 1 U 155
 Faction: Maverick
-Card Type: CHARACTER • Accord • Rogue • Unit Cost: 4
+Card Type: CHARACTER • Accord • Rogue • Unit
+Cost: 4
 Destiny: 3
 Support Cost: 2 Maverick
 Power: 4
@@ -1662,7 +1711,8 @@ ILLUSTRATOR: BRYANHEYBOER
 Title: Sultry Opportunist
 Collector’s Number: 1 U 157
 Faction: Maverick
-Card Type: CHARACTER • Nest • Rogue • Unit Cost: 1
+Card Type: CHARACTER • Nest • Rogue • Unit
+Cost: 1
 Destiny: 3
 Support Cost: 1 Maverick
 Power: 1
@@ -1674,7 +1724,8 @@ ILLUSTRATOR: MICHELLE SPALDING
 Title: *The Gambler
 Collector’s Number: 1 R 158
 Faction: Maverick
-Card Type: CHARACTER • Kizen • Cartel • Unit Cost: 3
+Card Type: CHARACTER • Kizen • Cartel • Unit
+Cost: 3
 Destiny: 5
 Support Cost: 3 Maverick
 Power: 3
@@ -1715,7 +1766,8 @@ ILLUSTRATOR: LORIN WOOD
 Title: *”Two-Way” Berson
 Collector’s Number: 1 R 162
 Faction: Maverick
-Card Type: CHARACTER • Cartel • Tech • Unit Cost: 4
+Card Type: CHARACTER • Cartel • Tech • Unit
+Cost: 4
 Destiny: 2
 Support Cost: 2 Maverick
 Power: 2
@@ -1763,7 +1815,8 @@ ILLUSTRATOR: JOHN KONG
 Title: Anant Aeronaut
 Collector’s Number: 1 C 166
 Faction: Shi
-Card Type: CHARACTER • Crown • Anant • Unit Cost: 4
+Card Type: CHARACTER • Crown • Anant • Unit
+Cost: 4
 Destiny: 4
 Support Cost: 2 Shi
 Power: 1
@@ -1775,7 +1828,8 @@ ILLUSTRATOR: SEAN MURRAY
 Title: Anant Attendant
 Collector’s Number: 1 C 167
 Faction: Shi
-Card Type: CHARACTER • Anant • Tech • Unit Cost: 2
+Card Type: CHARACTER • Anant • Tech • Unit
+Cost: 2
 Destiny: 1
 Support Cost: 2 Shi
 Power: 1
@@ -1852,7 +1906,8 @@ ILLUSTRATOR: MATTIASSNYGG
 Title: Damir Aeronaut
 Collector’s Number: 1 U 175
 Faction: Shi
-Card Type: CHARACTER • Crown • Damir • Unit Cost: 2
+Card Type: CHARACTER • Crown • Damir • Unit
+Cost: 2
 Destiny: 4
 Support Cost: 2 Shi
 Power: 1
@@ -1884,7 +1939,8 @@ ILLUSTRATOR: JOEBOULDEN
 Title: *Devanar-Damir
 Collector’s Number: 1 U 178
 Faction: Shi
-Card Type: CHARACTER • Crown • Damir • Unit Cost: 4
+Card Type: CHARACTER • Crown • Damir • Unit
+Cost: 4
 Destiny: 1
 Support Cost: 2 Shi
 Power: 4
@@ -2033,7 +2089,8 @@ ILLUSTRATOR: DREWBAKER
 Title: Ordnance Master
 Collector’s Number: 1 C 193
 Faction: Shi
-Card Type: CHARACTER • Sudeva • Warrior • Unit Cost: 1
+Card Type: CHARACTER • Sudeva • Warrior • Unit
+Cost: 1
 Destiny: 6
 Support Cost: 1 Shi
 Power: 1
@@ -2129,7 +2186,8 @@ ILLUSTRATOR: ROBBURNS
 Title: Selfless Protector
 Collector’s Number: 1 C 202
 Faction: Shi
-Card Type: CHARACTER • Damir • Warrior • Unit Cost: 1
+Card Type: CHARACTER • Damir • Warrior • Unit
+Cost: 1
 Destiny: 5
 Support Cost: 3 Shi
 Power: 2
@@ -2187,7 +2245,8 @@ ILLUSTRATOR: ROBBURNS
 Title: Sudeva Legionnaire
 Collector’s Number: 1 U 207
 Faction: Shi
-Card Type: CHARACTER • Sudeva • Warrior • Unit Cost: 2
+Card Type: CHARACTER • Sudeva • Warrior • Unit
+Cost: 2
 Destiny: 5
 Support Cost: 2 Shi
 Power: 2
@@ -2210,7 +2269,8 @@ ILLUSTRATOR: ROBBURNS
 Title: Sudeva Warrior
 Collector’s Number: 1 U 209
 Faction: Shi
-Card Type: CHARACTER • Sudeva • Warrior • Unit Cost: 1
+Card Type: CHARACTER • Sudeva • Warrior • Unit
+Cost: 1
 Destiny: 1
 Support Cost: 2 Shi
 Power: 2
@@ -2235,7 +2295,8 @@ ILLUSTRATOR: LIZDANFORTH
 Title: *Tavang-Damir
 Collector’s Number: 1 R 211
 Faction: Shi
-Card Type: CHARACTER • Damir • Warrior • Unit Cost: 3
+Card Type: CHARACTER • Damir • Warrior • Unit
+Cost: 3
 Destiny: 2
 Support Cost: 2 Shi
 Power: 0
@@ -2305,7 +2366,8 @@ ILLUSTRATOR: ROBBURNS
 Title: Vishal Scout
 Collector’s Number: 1 U 217
 Faction: Shi
-Card Type: CHARACTER • Vishal • Merchant • Unit Cost: 2
+Card Type: CHARACTER • Vishal • Merchant • Unit
+Cost: 2
 Destiny: 3
 Support Cost: 1 Shi
 Power: 1
@@ -2340,7 +2402,8 @@ Lore: His weapon fell to the ground. Fear washed over him as he began to realize
 ILLUSTRATOR: PHILIPPE “HPX1” GUYENNE
 Title: *Alnak
 Collector’s Number: 1 R 221
-Card Type: CHARACTER • Luhus • Predator • Unit Cost: 2
+Card Type: CHARACTER • Luhus • Predator • Unit
+Cost: 2
 Destiny: 2
 Faction: Quay
 Support Cost: 2 Quay
@@ -2363,7 +2426,8 @@ ILLUSTRATOR: MATTIASSNYGG
 Title: *Arhnaknak
 Collector’s Number: 1 R 223
 Faction: Quay
-Card Type: CHARACTER • Katal • Inverter • Unit Cost: 1
+Card Type: CHARACTER • Katal • Inverter • Unit
+Cost: 1
 Destiny: 4
 Support Cost: 2 Quay
 Power: 1/0
@@ -2445,7 +2509,8 @@ ILLUSTRATOR: ERIC WILKERSON
 Title: Frenzied Luhus
 Collector’s Number: 1 U 231
 Faction: Quay
-Card Type: CHARACTER • Luhus • Inverter • Unit Cost: 1
+Card Type: CHARACTER • Luhus • Inverter • Unit
+Cost: 1
 Destiny: 3
 Support Cost: 1 Quay
 Power: 0/7
@@ -2507,7 +2572,8 @@ ILLUSTRATOR: BRITTMARTIN
 Title: Katal Inciter
 Collector’s Number: 1 C 237
 Faction: Quay
-Card Type: CHARACTER • Katal • Predator • Unit Cost: 1
+Card Type: CHARACTER • Katal • Predator • Unit
+Cost: 1
 Destiny: 3
 Support Cost: 1 Quay
 Power: 2
@@ -2531,7 +2597,8 @@ ILLUSTRATOR: ROBBURNS
 Title: *Kayaldi
 Collector’s Number: 1 R 239
 Faction: Quay
-Card Type: CHARACTER • Tahka • Predator • Unit Cost: 0
+Card Type: CHARACTER • Tahka • Predator • Unit
+Cost: 0
 Destiny: 6
 Support Cost: 2 Quay
 Power: 0
@@ -2543,7 +2610,8 @@ ILLUSTRATOR: RANDY ASPLUND
 Title: Kucha
 Collector’s Number: 1 U 240
 Faction: Quay
-Card Type: CHARACTER • Makal • Predator • Unit Cost: 3
+Card Type: CHARACTER • Makal • Predator • Unit
+Cost: 3
 Destiny: 3
 Support Cost: 2 Quay
 Power: 0
@@ -2554,7 +2622,8 @@ ILLUSTRATOR: SEANMURRAY
 Title: *Kulak
 Collector’s Number: 1 R 241
 Faction: Quay
-Card Type: CHARACTER • Kizen • Makal • Unit Cost: 4
+Card Type: CHARACTER • Kizen • Makal • Unit
+Cost: 4
 Destiny: 4
 Support Cost: 3 Quay
 Power: 5
@@ -2566,7 +2635,8 @@ ILLUSTRATOR: MATTIAS SNYGG
 Title: Luhus Commander
 Collector’s Number: 1 C 242
 Faction: Quay
-Card Type: CHARACTER • Luhus • Predator • Unit Cost: 3
+Card Type: CHARACTER • Luhus • Predator • Unit
+Cost: 3
 Destiny: 4
 Support Cost: 2 Quay
 Power: 1
@@ -2587,7 +2657,8 @@ ILLUSTRATOR: BRITTMARTIN
 Title: Luhus Mauler
 Collector’s Number: 1 C 244
 Faction: Quay
-Card Type: CHARACTER • Luhus • Inverter • Unit Cost: 2
+Card Type: CHARACTER • Luhus • Inverter • Unit
+Cost: 2
 Destiny: 2
 Support Cost: 1 Quay
 Power: 2/1
@@ -2611,7 +2682,8 @@ ILLUSTRATOR: ROBBURNS
 Title: Makal Claw Beast
 Collector’s Number: 1 C 246
 Faction: Quay
-Card Type: CHARACTER • Makal • Predator • Unit Cost: 1
+Card Type: CHARACTER • Makal • Predator • Unit
+Cost: 1
 Destiny: 3
 Support Cost: 1 Quay
 Power: 2
@@ -2633,7 +2705,8 @@ ILLUSTRATOR: BRITT MARTIN
 Title: Makal Shrieker
 Collector’s Number: 1 C 248
 Faction: Quay
-Card Type: CHARACTER • Makal • Predator • Unit Cost: 1
+Card Type: CHARACTER • Makal • Predator • Unit
+Cost: 1
 Destiny: 6
 Support Cost: 2 Quay
 Power: 1
@@ -2675,7 +2748,8 @@ ILLUSTRATOR: ERIC DESCHAMPS
 Title: Quay Navigator
 Collector’s Number: 1 U 252
 Faction: Quay
-Card Type: CHARACTER • Qurim • Predator • Unit Cost: 4
+Card Type: CHARACTER • Qurim • Predator • Unit
+Cost: 4
 Destiny: 6
 Support Cost: 1 Quay
 Power: 1
@@ -2686,7 +2760,8 @@ ILLUSTRATOR: JOHN HOWE; COLOR: MATTIAS SNYGG
 Title: Qurim Ahmak
 Collector’s Number: 1 R 253
 Faction: Quay
-Card Type: CHARACTER • Qurim • Predator • Unit Cost: 1
+Card Type: CHARACTER • Qurim • Predator • Unit
+Cost: 1
 Destiny: 5
 Support Cost: 2 Quay
 Power: 1
@@ -2720,7 +2795,8 @@ ILLUSTRATOR: ROBBURNS
 Title: Qurim Rager
 Collector’s Number: 1 C 256
 Faction: Quay
-Card Type: CHARACTER • Qurim • Predator • Unit Cost: 2
+Card Type: CHARACTER • Qurim • Predator • Unit
+Cost: 2
 Destiny: 3
 Support Cost: 2 Quay
 Power: 2
@@ -2793,7 +2869,8 @@ ILLUSTRATOR: ROBBURNS
 Title: *Sitka
 Collector’s Number: 1 R 263
 Faction: Quay
-Card Type: CHARACTER • Kizen • Tahka • Unit Cost: 2
+Card Type: CHARACTER • Kizen • Tahka • Unit
+Cost: 2
 Destiny: 5
 Support Cost: 3 Quay
 Power: 0
@@ -2826,7 +2903,8 @@ ILLUSTRATOR: KIERAN YANNER
 Title: Tahka Chuluk Squad
 Collector’s Number: 1 U 266
 Faction: Quay
-Card Type: CHARACTER • Tahka • Predator • Unit Cost: 4
+Card Type: CHARACTER • Tahka • Predator • Unit
+Cost: 4
 Destiny: 4
 Support Cost: 2 Quay
 Power: 4
@@ -2838,7 +2916,8 @@ ILLUSTRATOR: TREVOR CLAXTON
 Title: Tahka Disruptor
 Collector’s Number: 1 R 267
 Faction: Quay
-Card Type: CHARACTER • Tahka • Predator • Unit Cost: 2
+Card Type: CHARACTER • Tahka • Predator • Unit
+Cost: 2
 Destiny: 4
 Support Cost: 2 Quay
 Power: 1
@@ -2882,7 +2961,8 @@ ILLUSTRATOR: ERICWILKERSON
 Title: Torrid Katal
 Collector’s Number: 1 C 271
 Faction: Quay
-Card Type: CHARACTER • Katal • Inverter • Unit Cost: 1
+Card Type: CHARACTER • Katal • Inverter • Unit
+Cost: 1
 Destiny: 3
 Support Cost: 1 Quay
 Power: 1/3
@@ -2905,7 +2985,8 @@ ILLUSTRATOR: TOBIASBRENNER
 Title: Volt Scrounge
 Collector’s Number: 1 U 273
 Faction: Quay
-Card Type: CHARACTER • Katal • Inverter • Unit Cost: 4
+Card Type: CHARACTER • Katal • Inverter • Unit
+Cost: 4
 Destiny: 2
 Support Cost: 2 Quay
 Power: 2/1
@@ -3374,7 +3455,8 @@ ILLUSTRATOR: KIERANYANNER
 Title: *Jossel Swin
 Collector’s Number: 1 PF 1
 Faction: Earther
-Card Type: CHARACTER • Kizen • CISyn • Unit Cost: 2
+Card Type: CHARACTER • Kizen • CISyn • Unit
+Cost: 2
 Destiny: 5
 Support Cost: 3 Earther
 Power: 3
@@ -3386,7 +3468,8 @@ ILLUSTRATOR: KIERANYANNER
 Title: *Kujiko Torako
 Collector’s Number: 1 PF 2
 Faction: Gongen
-Card Type: CHARACTER • Kizen • Shikami • Unit Cost: 4
+Card Type: CHARACTER • Kizen • Shikami • Unit
+Cost: 4
 Destiny: 5
 Support Cost: 3 Gongen
 Power: 3
@@ -3398,7 +3481,8 @@ ILLUSTRATOR: KIERAN YANNER
 Title: *Talkan
 Collector’s Number: 1 PF 3
 Faction: Quay
-Card Type: CHARACTER • Kizen • Qurim • Unit Cost: 4
+Card Type: CHARACTER • Kizen • Qurim • Unit
+Cost: 4
 Destiny: 4
 Support Cost: 3 Quay
 Power: 3

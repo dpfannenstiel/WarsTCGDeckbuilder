@@ -5,12 +5,14 @@ Card Type: INTERRUPT (Lost)
 Cost: 1
 Destiny: 5
 Support Cost: 2 Earther
-Game Text: Destroy target weapon at a site where you have a character who has tactics of 3 or more. Lore: Howler has always hated fighting the Gongen. It’s easier to kill a Quay or Shi – they don’t have the same blood.
+Game Text: Destroy target weapon at a site where you have a character who has tactics of 3 or more.
+Lore: Howler has always hated fighting the Gongen. It’s easier to kill a Quay or Shi – they don’t have the same blood.
 ILLUSTRATOR: ROBERTO CAMPUS
 Title: *Chindon Relk
 Collector’s Number: 2 U 2
 Faction: Earther
-Card Type: CHARACTER • Kizen • CISyn • Unit Cost: 2
+Card Type: CHARACTER • Kizen • CISyn • Unit
+Cost: 2
 Destiny: 5
 Support Cost: 2 Earther
 Power: 1
@@ -22,7 +24,8 @@ ILLUSTRATOR: GUY GENTRY
 Title: CISyn Coordinators
 Collector’s Number: 2 C 3
 Faction: Earther
-Card Type: CHARACTER • Kizen • CISyn • Unit Cost: 3
+Card Type: CHARACTER • Kizen • CISyn • Unit
+Cost: 3
 Destiny: 5
 Support Cost: 2 Earther
 Power: 3
@@ -34,7 +37,8 @@ ILLUSTRATOR: ERIC DESCHAMPS
 Title: Dagger Juggernaut
 Collector’s Number: 2 C 4
 Faction: Earhter
-Card Type: VEHICLE • FedGrav • Inverter • Unit Cost: 3
+Card Type: VEHICLE • FedGrav • Inverter • Unit
+Cost: 3
 Destiny: 1
 Support Cost: 2 Earther
 Power: 3/6
@@ -100,7 +104,8 @@ ILLUSTRATOR: ERIC DESCHAMPS
 Title: *Jylan Rathe
 Collector’s Number: 2 R 11
 Faction: Earther
-Card Type: CHARACTER • CISyn • Infiltrator • Unit Cost: 1
+Card Type: CHARACTER • CISyn • Infiltrator • Unit
+Cost: 1
 Destiny: 4
 Support Cost: 3 Earther
 Power: 3
@@ -122,7 +127,8 @@ ILLUSTRATOR: PAMELINA H
 Title: Mouthpiece
 Collector’s Number: 2 C 13
 Faction: Earther
-Card Type: CHARACTER • XeLabs • Merchant • Unit Cost: 3
+Card Type: CHARACTER • XeLabs • Merchant • Unit
+Cost: 3
 Destiny: 3
 Support Cost: 1 Earther
 Power: 2
@@ -174,7 +180,8 @@ ILLUSTRATOR: DENNIS CALERO
 Title: Ranger Watchman
 Collector’s Number: 2 U 18
 Faction: Earther
-Card Type: CHARACTER • XeLabs • Warrior • Unit Cost: 2
+Card Type: CHARACTER • XeLabs • Warrior • Unit
+Cost: 2
 Destiny: 2
 Support Cost: 2 Earther
 Power: 3
@@ -186,7 +193,8 @@ ILLUSTRATOR: MICHELLE SPALDING
 Title: Remote Coordinator
 Collector’s Number: 2 U 19
 Faction: Earther
-Card Type: CHARACTER • Kizen • CISyn • Unit Cost: 3
+Card Type: CHARACTER • Kizen • CISyn • Unit
+Cost: 3
 Destiny: 2
 Support Cost: 2 Earther
 Power: 2
@@ -198,7 +206,8 @@ ILLUSTRATOR: LIZ DANFORTH
 Title: Rev A Shrouds
 Collector’s Number: 2 C 20
 Faction: Earther
-Card Type: CHARACTER • XeLabs • Warrior • Unit Cost: 4
+Card Type: CHARACTER • XeLabs • Warrior • Unit
+Cost: 4
 Destiny: 1
 Support Cost: 1 Earther
 Power: 5
@@ -313,7 +322,8 @@ Lore: “The manual says, ‘If you cannot repair the vehicle as well as you drive i
 ILLUSTRATOR: DREW BAKER
 Title: Combat Support T.S.V. Collector’s Number: 2 U 31
 Faction: Gongen
-Card Type: VEHICLE • Ikazuchi • Unit Cost: 3
+Card Type: VEHICLE • Ikazuchi • Unit
+Cost: 3
 Destiny: 4
 Support Cost: 2 Gongen
 Power: 2
@@ -345,7 +355,8 @@ ILLUSTRATOR: CHRISTIAN SCHWAGER
 Title: Gishi Combat Tech
 Collector’s Number: 2 U 34
 Faction: Gongen
-Card Type: CHARACTER • Deigan • Tech • Unit Cost: 2
+Card Type: CHARACTER • Deigan • Tech • Unit
+Cost: 2
 Destiny: 1
 Support Cost: 1 Gongen
 Power: 1
@@ -357,7 +368,8 @@ ILLUSTRATOR: APRIL LEE
 Title: Gunso Squad Leader
 Collector’s Number: 2 C 35
 Faction: Gongen
-Card Type: CHARACTER • Deigan • Warrior • Unit Cost: 3
+Card Type: CHARACTER • Deigan • Warrior • Unit
+Cost: 3
 Destiny: 3
 Support Cost: 1 Gongen
 Power: 3
@@ -378,7 +390,8 @@ ILLUSTRATOR: CHRISTIAN PEARCE
 Title: *Hannya
 Collector’s Number: 2 R 37
 Faction: Gongen
-Card Type: NOBOT• Deigan • Inverter • Bot • Unit Cost: 5
+Card Type: NOBOT• Deigan • Inverter • Bot • Unit
+Cost: 5
 Destiny: 4
 Support Cost: 3 Gongen
 Power: 4/10
@@ -390,7 +403,8 @@ ILLUSTRATOR: CHRISTIAN PEARCE
 Title: Ikazuchi Follower
 Collector’s Number: 2 C 38
 Faction: Gongen
-Card Type: CHARACTER • Ikazuchi • Warrior • Unit Cost: 3
+Card Type: CHARACTER • Ikazuchi • Warrior • Unit
+Cost: 3
 Destiny: 3
 Support Cost: 2 Gongen
 Power: 2
@@ -402,7 +416,8 @@ ILLUSTRATOR: PAUL TOBIN
 Title: Ikazuchi Technician
 Collector’s Number: 2 C 39
 Faction: Gongen
-Card Type: CHARACTER • Ikazuchi • Tech • Unit Cost: 3
+Card Type: CHARACTER • Ikazuchi • Tech • Unit
+Cost: 3
 Destiny: 3
 Support Cost: 2 Gongen
 Power: 1
@@ -433,7 +448,8 @@ ILLUSTRATOR: THOMAS DENMARK
 Title: *Kayu Gekkane
 Collector’s Number: 2 U 42
 Faction: Gongen
-Card Type: CHARACTER • Deigan • Warrior • Unit Cost: 3
+Card Type: CHARACTER • Deigan • Warrior • Unit
+Cost: 3
 Destiny: 3
 Support Cost: 1 Gongen
 Power: 3
@@ -507,7 +523,8 @@ ILLUSTRATOR: CHRISTIAN SCHWAGER
 Title: Takumi Shadow Warriors
 Collector’s Number: 2 R 49
 Faction: Gongen
-Card Type CHARACTER • Deigan • Warrior • Unit Cost: 4
+Card Type CHARACTER • Deigan • Warrior • Unit
+Cost: 4
 Destiny: 1
 Support Cost: 3 Gongen
 Power: 5
@@ -531,7 +548,8 @@ ILLUSTRATOR: THOMAS DENMARK
 Title: Tataki Commander
 Collector’s Number: 2 U 51
 Faction: Gongen
-Card Type: CHARACTER • Deigan • Warrior • Unit Cost: 3
+Card Type: CHARACTER • Deigan • Warrior • Unit
+Cost: 3
 Destiny: 3
 Support Cost: 2 Gongen
 Power: 4
@@ -543,7 +561,8 @@ ILLUSTRATOR: PAUL BURROW
 Title: *Tennaru Hari
 Collector’s Number: 2 R 52
 Faction: Gongen
-Card Type: CHARACTER • Kizen • Ikazuchi • Unit Cost: 4
+Card Type: CHARACTER • Kizen • Ikazuchi • Unit
+Cost: 4
 Destiny: 4
 Support Cost: 3 Gongen
 Power: 4
@@ -572,7 +591,8 @@ ILLUSTRATOR: CHRISTIAN SCHWAGER
 Title: Transport Aide
 Collector’s Number: 2 C 55
 Faction: Gongen
-Card Type: CHARACTER • Ikazuchi • Tech • Unit Cost: 4
+Card Type: CHARACTER • Ikazuchi • Tech • Unit
+Cost: 4
 Destiny: 2
 Support Cost: 1 Gongen
 Power: 3
@@ -604,7 +624,8 @@ ILLUSTRATOR: THOMAS DENMARK
 Title: *Aris Thantos
 Collector’s Number: 2 R 58
 Faction: Maverick
-Card Type: CHARACTER • Accord • Rogue • Unit Cost: 4
+Card Type: CHARACTER • Accord • Rogue • Unit
+Cost: 4
 Destiny: 1
 Support Cost: 2 Maverick
 Power: 3
@@ -615,7 +636,8 @@ ILLUSTRATOR: KIERAN YANNER
 Title: *Battleaxe Boden
 Collector’s Number: 2 R 59
 Faction: Maverick
-Card Type: CHARACTER • Hellcats • Tech • Unit Cost: 3
+Card Type: CHARACTER • Hellcats • Tech • Unit
+Cost: 3
 Destiny: 5
 Support Cost: 3 Maverick
 Power: 3
@@ -649,7 +671,8 @@ ILLUSTRATOR: DENNIS CALERO
 Title: Careless Cat
 Collector’s Number: 2 U 62
 Faction: Maverick
-Card Type: CHARACTER • Hellcats • Tech • Unit Cost: 2
+Card Type: CHARACTER • Hellcats • Tech • Unit
+Cost: 2
 Destiny: 3
 Support Cost: 2 Maverick
 Power: 2
@@ -753,7 +776,8 @@ ILLUSTRATOR: BRADLEY WILLIAMS
 Title: Fortune Seeker
 Collector’s Number: 2 C 71
 Faction: Maverick
-Card Type: CHARACTER • Cartel • Warrior • Unit Cost: 3
+Card Type: CHARACTER • Cartel • Warrior • Unit
+Cost: 3
 Destiny: 1
 Support Cost: 1 Maverick
 Power: 3
@@ -765,7 +789,8 @@ ILLUSTRATOR: KIERAN YANNER
 Title: Gray Market Middleman
 Collector’s Number: 2 C 72
 Faction: Maverick
-Card Type: CHARACTER • Cartel • Rogue • Unit Cost: 3
+Card Type: CHARACTER • Cartel • Rogue • Unit
+Cost: 3
 Destiny: 2
 Support Cost: 1 Maverick
 Power: 2
@@ -787,7 +812,8 @@ ILLUSTRATOR: KIERAN YANNER
 Title: *Joker Danniko
 Collector’s Number: 2 R 74
 Faction: Maverick
-Card Type: CHARACTER • Kizen • Cartel • Unit Cost: 3
+Card Type: CHARACTER • Kizen • Cartel • Unit
+Cost: 3
 Destiny: 2
 Support Cost: 3 Maverick
 Power: 4
@@ -961,7 +987,8 @@ ILLUSTRATOR: KIERAN YANNER
 Title: Carabinier
 Collector’s Number: 2 C 91
 Faction: Shi
-Card Type: CHARACTER • Anant • Warrior • Unit Cost: 2
+Card Type: CHARACTER • Anant • Warrior • Unit
+Cost: 2
 Destiny: 3
 Support Cost: 1 Shi
 Power: 2
@@ -973,7 +1000,8 @@ ILLUSTRATOR: DREW BAKER
 Title: Claviger
 Collector’s Number: 2 U 92
 Faction: Shi
-Card Type: CHARACTER • Anant • Warrior • Unit Cost: 4
+Card Type: CHARACTER • Anant • Warrior • Unit
+Cost: 4
 Destiny: 1
 Support Cost: 2 Shi
 Power: 3
@@ -1060,7 +1088,8 @@ ILLUSTRATOR: JOE BOULDEN
 Title: Key Keeper
 Collector’s Number: 2 C 100
 Faction: Shi
-Card Type: CHARACTER • Anant • Warrior • Unit Cost: 2
+Card Type: CHARACTER • Anant • Warrior • Unit
+Cost: 2
 Destiny: 2
 Support Cost: 2 Shi
 Power: 3
@@ -1072,7 +1101,8 @@ ILLUSTRATOR: WESLEY BURT
 Title: Lifeseeker
 Collector’s Number: 2 C 101
 Faction: Shi
-Card Type: CHARACTER • Tilak • Tech • Unit Cost: 1
+Card Type: CHARACTER • Tilak • Tech • Unit
+Cost: 1
 Destiny: 3
 Support Cost: 1 Shi
 Power: 2
@@ -1107,7 +1137,8 @@ ILLUSTRATOR: JOE BOULDEN
 Title: *Rantosh-Anant
 Collector’s Number: 2 R 104
 Faction: Shi
-Card Type: CHARACTER • Crown • Anant • Unit Cost: 5
+Card Type: CHARACTER • Crown • Anant • Unit
+Cost: 5
 Destiny: 1
 Support Cost: 3 Shi
 Power: 2
@@ -1170,7 +1201,8 @@ Game Text: Each location where you have an Anant character gains a [Shi] support
 ILLUSTRATOR: JOE BOULDEN
 Title: Tilak House Guard
 Collector’s Number: 2 C 110 Faction: Shi
-Card Type: VEHICLE • FedGrav • Unit Cost: 5
+Card Type: VEHICLE • FedGrav • Unit
+Cost: 5
 Destiny: 3
 Support Cost: 2 SHi
 Power: 4
@@ -1270,7 +1302,8 @@ ILLUSTRATOR: SEAN McNALLY
 Title: Clandestine Team
 Collector’s Number: 2 C 119
 Faction: Quay
-Card Type: CHARACTER • Tahka • Predator • Unit Cost: 4
+Card Type: CHARACTER • Tahka • Predator • Unit
+Cost: 4
 Destiny: 3
 Support Cost: 1 Quay
 Power: 4
@@ -1326,7 +1359,8 @@ ILLUSTRATOR: PHILIPPE ‘HPX1’ GUYENNE
 Title: Flamecutter
 Collector’s Number: 2 R 124
 Faction:
-Card Type: CHARACTER • Tahka • Inverter • Unit Cost:
+Card Type: CHARACTER • Tahka • Inverter • Unit
+Cost:
 Destiny:
 Support Cost:
 Power: 2/4
@@ -1355,7 +1389,8 @@ ILLUSTRATOR: JIM PAVELEC
 Title: Hullripper
 Collector’s Number: 2 C 127
 Faction: Quay
-Card Type: CHARACTER • Tahka • Inverter • Unit Cost: 2
+Card Type: CHARACTER • Tahka • Inverter • Unit
+Cost: 2
 Destiny: 3
 Support Cost: 1 Quay
 Power: 3/4
@@ -1367,7 +1402,8 @@ ILLUSTRATOR: JOSHUW theJAMES SHAW
 Title: Ilna Guide
 Collector’s Number: 2 C 128
 Faction: Quay
-Card Type: CHARACTER • Qurim • Tech • Unit Cost: 2
+Card Type: CHARACTER • Qurim • Tech • Unit
+Cost: 2
 Destiny: 2
 Support Cost: 2 Quay
 Power: 2
@@ -1400,7 +1436,8 @@ ILLUSTRATOR: JIM PAVELEC
 Title: *Katuka
 Collector’s Number: 2 U 131
 Faction: Quay
-Card Type: CHARACTER • Tahka • Predator • Unit Cost: 2
+Card Type: CHARACTER • Tahka • Predator • Unit
+Cost: 2
 Destiny: 3
 Support Cost: 2 Quay
 Power: 2
@@ -1412,7 +1449,8 @@ ILLUSTRATOR: SEDONE THONGVILAY
 Title: *Lahrik
 Collector’s Number: 2 R 132
 Faction: Quay
-Card Type: CHARACTER • Tahka • Inverter • Unit Cost: 2
+Card Type: CHARACTER • Tahka • Inverter • Unit
+Cost: 2
 Destiny: 2
 Support Cost: 2 Quay
 Power: 2/4
@@ -1434,7 +1472,8 @@ ILLUSTRATOR: SEAN McNALLY
 Title: Luhus Spearhead
 Collector’s Number: 2 C 134
 Faction: Quay
-Card Type: CHARACTER • Luhus • Inverter • Unit Cost: 0
+Card Type: CHARACTER • Luhus • Inverter • Unit
+Cost: 0
 Destiny: 2
 Support Cost: 2 Quay
 Power: 1/3
@@ -1459,7 +1498,8 @@ ILLUSTRATOR: JOHN HOWE- COLOR BY KIERAN YANNER
 Title: Ravagers
 Collector’s Number: 2 C 136
 Faction: Quay
-Card Type: CHARACTER • Tahka • Predator • Unit Cost: 2
+Card Type: CHARACTER • Tahka • Predator • Unit
+Cost: 2
 Destiny: 3
 Support Cost: 2 Quay
 Power: 3
@@ -1481,7 +1521,8 @@ ILLUSTRATOR: PHILIPPE‘HPX1’GUYENNE
 Title: Spineslinger
 Collector’s Number: 2 R 138
 Faction: Quay
-Card Type: CHARACTER • Luhus • Predator • Unit Cost: 2
+Card Type: CHARACTER • Luhus • Predator • Unit
+Cost: 2
 Destiny: 2
 Support Cost: 3 Quay
 Power: 1
@@ -1520,7 +1561,8 @@ Game Text: • Pay 1 energy ≈ If you control three or more battlegrounds and there
 ILLUSTRATOR: PHILIPPE‘HPX1’GUYENNE
 Title: Construction Bot
 Collector’s Number: 2 C 142 Faction: Independent
-Card Type: CHARACTER • Bot • Unit Cost: 1
+Card Type: CHARACTER • Bot • Unit
+Cost: 1
 Destiny: 5
 Power: 1
 Tactics: 1
@@ -1714,7 +1756,8 @@ ILLUSTRATOR: STEPHEN CROWE
 Title: *Dagger Lead
 Collector’s Number: 2 PF 1
 Faction: Earther
-Card Type: VEHICLE • FedGrav • Inverter • Unit Cost: 6
+Card Type: VEHICLE • FedGrav • Inverter • Unit
+Cost: 6
 Destiny: 2
 Support Cost: 3 Earther
 Power: 7/7
@@ -1726,7 +1769,8 @@ ILLUSTRATOR: DENNIS CALERO
 Title: *Killer Cait Grimalkin
 Collector’s Number: 2 PF 2
 Faction: Maverick
-Card Type: CHARACTER • Hellcats • Tech • Unit Cost: 5
+Card Type: CHARACTER • Hellcats • Tech • Unit
+Cost: 5
 Destiny: 2
 Support Cost: 3 Maverick
 Power: 3
