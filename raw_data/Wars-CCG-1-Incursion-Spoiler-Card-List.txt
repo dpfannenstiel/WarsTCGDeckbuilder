@@ -1,7 +1,8 @@
 Title: Advanced Research
 Collector’s Number: 1 U 1
 Faction: Earther
-Card Type: ASSET (Character Infiltrator) Cost: 1
+Card Type: ASSET (Character Infiltrator)
+Cost: 1
 Destiny: 5
 Support Cost: 2 Earther
 Game Text: This character is power +2 and tactics +2.
@@ -18,7 +19,8 @@ Game Text: Make target kizen defense +3 until end of turn for each of your locat
 Lore: Kizen power is characterized by enhanced awareness. At times, this manifests itself in subtle premonitions.
 ILLUSTRATOR: ATHENAHUDDLESTON
 Title: Armor Penetrating Collector’s Number: 1 U 3 Faction: Earther
-Card Type: INTERRUPT (Lost) Cost: 0
+Card Type: INTERRUPT (Lost)
+Cost: 0
 Destiny: 2
 Support Cost: 2 Earther
 Game Text: The next time an ability of one of your weapons damages a unit this turn, damage up to two target units at that weapon’s location. Lore: FedGrav manufactured weaponry far exceeds expectations, having the potential to pierce multiple targets at once.
@@ -83,13 +85,14 @@ Game Text: • Lose 1 energy ≈ Choose target vehicle in a site battle here. Damage
 Lore: A former FedGrav technician, Whitmer is the ideal candidate to head CISyn’s sabotage operations.
 ILLUSTRATOR: KIERAN YANNER
 Title: CISyn Retaliation Collector’s Number: 1 R 9 Faction: Earther
-Card Type: INTERRUPT (Lost) Cost: 2
+Card Type: INTERRUPT (Lost)
+Cost: 2
 Destiny: 3
 Support Cost: 2 Earther
 Game Text: When you play this interrupt, if you have a kizen at a battleground location, you may pay 1 energy. If you do, this interrupt is used instead of lost. Cancel target pending drain. Lore: CISyn controllers ensure the proper tool is selected for each task.
 ILLUSTRATOR: GLENOSTERBERGER
-
-  Title: Close Support Pilot Collector’s Number: 1 C 10 Faction: Earther
+Title: Close Support Pilot
+Collector’s Number: 1 C 10 Faction: Earther
 Card Type: CHARACTER • iCom • Unit Cost: 2
 Destiny: 3
 Support Cost: 2 Earther
@@ -100,7 +103,8 @@ Game Text: Piloting 1 (As long as this character is aboard a ship, that ship is 
 Lore: Hank Cates, much like most of his fellow Earther pilots, will go into battle anywhere with the feeling his cause is righteous and just.
 ILLUSTRATOR: MARIANNEPLUMRIDGE
 Title: Collaborative Strike Collector’s Number: 1 C 11 Faction: Earther
-Card Type: INTERRUPT (Used) Cost: 0
+Card Type: INTERRUPT (Used)
+Cost: 0
 Destiny: 5
 Support Cost: 1 Earther
 Game Text: Until end of turn, make target unit that has a weapon beneath it you have in a site battle power +4 and defense +4.
@@ -276,7 +280,8 @@ Game Text: Piloting 3 (As long as this character is aboard a ship, that ship is 
 Lore: Hicks is the leader every Earther wants to be – and everyone else wants to kill. He’s seen a lot of action, and it has made him a stoic and composed commander.
 ILLUSTRATOR: PETERFERGUSON
 Title: •Hostilities Unleashed Collector’s Number: 1 R 28 Faction: Earther
-Card Type: INTERRUPT (Lost) Cost: 2
+Card Type: INTERRUPT (Lost)
+Cost: 2
 Destiny: 6
 Support Cost: 3 Earther
 Game Text: You may play this interrupt only when you could perform an attack. Perform an attack at no cost at target location where a battle has already taken place this turn.
@@ -409,7 +414,8 @@ Defense: 5
 Game Text: As long as this ship is at a sector that has "Luna" in its title, this ship is power +2, tactics +1, and defense +2.
 Lore: Luna Garrison pilots operate the first generation of Type IV fighters.
 ILLUSTRATOR: STEPHENCROWE
-Title: Orbital Bombardment Collector’s Number: 1 U 40 Card Type: ASSET (Site) Cost: 1
+Title: Orbital Bombardment Collector’s Number: 1 U 40 Card Type: ASSET (Site)
+Cost: 1
 Destiny: 4
 Faction: Earther
 Support Cost: 2 Earther
@@ -417,7 +423,8 @@ Game Text: You may play this asset beneath one of your opponent’s sites. • Lose 
 Lore: The CGC pays a handsome “bullseye bonus” to iCom for accuracy during orbital bombardments.
 ILLUSTRATOR: CHRISTIAN PEARCE
 Title: Orbital Coverage Collector’s Number: 1 U 41 Faction: Earther
-Card Type: ASSET (Sector) Cost: 2
+Card Type: ASSET (Sector)
+Cost: 2
 Destiny: 1
 Support Cost: 2 Earther
 Game Text: You may play this asset beneath one of your opponent’s sectors. Each time you lose a battle at a related site, you may lose 5 energy. If you do, reduce your casualties in that battle to 0. When your opponent controls this sector, dismiss this asset.
@@ -465,14 +472,16 @@ Game Text: As long as this character is at a site, this character gains the abil
 Lore: A good infiltrator knows when it’s time to find the exit.
 ILLUSTRATOR: KIERANYANNER
 Title: State of Readiness Collector’s Number: 1 U 46 Faction: Earther
-Card Type: INTERRUPT (Used) Cost: 1
+Card Type: INTERRUPT (Used)
+Cost: 1
 Destiny: 2
 Support Cost: 1 Earther
 Game Text: You may play this interrupt only during a battle at a site where you have at least four warriors. Make your battle destiny in that battle +[D].
 Lore: The members of Earth’s cavalry have been trained to operate as one.
 ILLUSTRATOR: ATHENA HUDDLESTON
 Title: Sudden Approach Collector’s Number: 1 U 47 Faction: Earther
-Card Type: INTERRUPT (Used) Cost: 1
+Card Type: INTERRUPT (Used)
+Cost: 1
 Destiny: 5
 Support Cost: 1 Earther
 Game Text: Target pending unit can’t move until end of turn.
@@ -491,21 +500,24 @@ Game Text: You cause attrition +1 at each related site.
 Lore: Cruisers are used by Earthers to keep watch for enemy vehicles, as well as for deployment of special operations forces.
 ILLUSTRATOR: JEFFCARLISLE
 Title: •Syndicate Interference Collector’s Number: 1 R 49 Faction: Earther
-Card Type: INTERRUPT (Used) Cost: 2
+Card Type: INTERRUPT (Used)
+Cost: 2
 Destiny: 4
 Support Cost: 1 Earther
 Game Text: For each of your opponent’s units at the site of target pending drain, he or she chooses to pay 1 energy or dismiss that unit.
 Lore: Ivan McCarr’s services are expensive – but some things are worth the price.
 ILLUSTRATOR: MATTIASSNYGG
 Title: Untapped Mettle Collector’s Number: 1 R 50 Faction: Earther
-Card Type: ASSET (Kizen) Cost: 1
+Card Type: ASSET (Kizen)
+Cost: 1
 Destiny: 3
 Support Cost: 2 Earther
 Game Text: You can’t play more than one of this asset beneath the same kizen. Dismiss this asset ≈ Until end of turn, make this kizen power +3 and you cause attrition +2 here.
 Lore: For many, only deadly peril exposes true potential.
 ILLUSTRATOR: JOEBOULDEN
 Title: Untold Power of Visions Collector’s Number: 1 R 51 Faction: Earther
-Card Type: ASSET (Kizen) Cost: 0
+Card Type: ASSET (Kizen)
+Cost: 0
 Destiny: 6
 Support Cost: 2 Earther
 Game Text: You can’t play more than one of this asset beneath the same kizen. • Pay 1 energy ≈ Examine the top two cards of target player’s reserve. Return one of them, then put the other on top of that player’s used pile.
@@ -569,7 +581,8 @@ Game Text: Each time one of your fighters is lost from a battle, if there are no
 Lore: Hidden assets in the Belt provide rapid replenishment to Tenno fighter forces – a threat that the iCom fleet takes very seriously.
 ILLUSTRATOR: DENNISCALERO
 Title: Ancestral Garden Collector’s Number: 1 R 57 Faction: Gongen
-Card Type: ORDER (Lost) Cost: 0
+Card Type: ORDER (Lost)
+Cost: 0
 Destiny: 4
 Support Cost: 2 Gongen
 Game Text: Play target character from your lost pile at full cost who has tactics < your target kizen’s tactics.
@@ -626,7 +639,8 @@ Support Cost: 1 Gongen
 Game Text: Each time a player’s unit is damaged by an ability of a weapon, if any of that player’s other units is damaged, he or she loses 2 energy. Lore: “We learn little in victory, much in defeat.” – Traditional
 ILLUSTRATOR: GLENOSTERBERGER
 Title: Dauntless Defense Collector’s Number: 1 C 63 Faction: Gongen
-Card Type: INTERRUPT (Used) Cost: 1
+Card Type: INTERRUPT (Used)
+Cost: 1
 Destiny: 5
 Support Cost: 1 Gongen
 Game Text: Make each of your units and ships in a battle at target location defense +1 until end of turn.
@@ -885,7 +899,8 @@ Game Text: When this character is lost from a location, you may put target other
 Lore: Though they live on a new world, the people of Gongen value their past.
 ILLUSTRATOR: PAUL BURROW
 Title: Mark of the Kami Collector’s Number: 1 R 86 Faction: Gongen
-Card Type: ASSET (Sector) Cost: 2
+Card Type: ASSET (Sector)
+Cost: 2
 Destiny: 0
 Support Cost: 3 Gongen
 Game Text: You may play this asset beneath one of your opponent’s sectors. As an additional cost for a player to drain here, his or her ships here must have at least 8 total power.
@@ -929,7 +944,8 @@ Game Text: • Pay 6 energy ≈ Damage target unit your opponent has in a site battl
 Lore: Their monomolecular edge allow these immense weapons to cut through even the thickest plating.
 ILLUSTRATOR: PAULTOBIN
 Title: Not Easily Taken Collector’s Number: 1 R 91 Faction: Gongen
-Card Type: ASSET (Site) Cost: 2
+Card Type: ASSET (Site)
+Cost: 2
 Destiny: 0
 Support Cost: 3 Gongen
 Game Text: You may play this asset beneath one of your opponent’s sites. As an additional cost for a player to drain here, he or she must have at least 8 total tactics here.
@@ -1143,7 +1159,8 @@ Defense: 4
 Game Text: As long as you have at least two other Gongen fighers here, this ship is power +1. Lore: Zocho’s tactical matrix allows the fighters assigned to I tto perform an elaborate and deadly dance.
 ILLUSTRATOR: ROBBURNS
 Title: *Accord Negotiation Collector’s Number: 1 R 111 Faction: Maverick
-Card Type: ASSET (Site) Cost: 2
+Card Type: ASSET (Site)
+Cost: 2
 Destiny: 6
 Support Cost: 2 Maverick
 Game Text: You may play this asset beneath one of your opponent’s sites. As an additional cost for a player to attack at a related location, that player loses 2 energy. When your opponent controls this site, dismiss this asset.
@@ -1340,7 +1357,8 @@ Game Text: Scouting (You may play this ship at a sector that has no energy icons
 Lore: Unless you’re at a rally, looks don’t really matter.
 ILLUSTRATOR: LORINWOOD
 Title: Harried and Harassed Collector’s Number: 1 R 130 Faction: Maverick
-Card Type: INTERRUPT (Lost) Cost: 0
+Card Type: INTERRUPT (Lost)
+Cost: 0
 Destiny: 5
 Support Cost: 2 Maverick
 Game Text: Until end of turn, as an additional cost for your opponent to play a unit, he or she pays 1 energy.
@@ -1794,7 +1812,8 @@ Game Text: You can’t play more than one of this asset beneath the same kizen. As
 Lore: Kizen are revered within the Shi culture. They have proven worthy of such high praise.
 ILLUSTRATOR: TOBIASBRENNER
 Title: *Cerebral Incursion Collector’s Number: 1 R 171 Faction: Shi
-Card Type: ASSET (Kizen) Cost: 0
+Card Type: ASSET (Kizen)
+Cost: 0
 Destiny: 6
 Support Cost: 2 Shi
 Game Text: Your opponent has total tactics –4 here unless he or she has a kizen here.
@@ -1912,7 +1931,8 @@ Game Text: You may play this interrupt only during a battle, after the loss step
 Lore: Panacea technology awaits to heal the scars of battle.
 ILLUSTRATOR: ERICLOFGREN
 Title: For the Glory of Seyal Collector’s Number: 1 R 183 Faction: Shi
-Card Type: ASSET (Site) Cost: 2
+Card Type: ASSET (Site)
+Cost: 2
 Destiny: 4
 Support Cost: 1 Shi
 Game Text: You may play this asset beneath one of your opponent’s sites. Your opponent can’t drain at an adjacent site. When your opponent controls this site, dismiss this asset.
@@ -1942,7 +1962,8 @@ Game Text: You may play this asset beneath one of your opponent’s characters. Th
 Lore: “The only good Quay is a captive Quay.”– Purana
 ILLUSTRATOR: ERIC LOFGREN
 Title: Indiscriminate Strike Collector’s Number: 1 R 186 Faction: Shi
-Card Type: ASSET (Kizen) Cost: 0
+Card Type: ASSET (Kizen)
+Cost: 0
 Destiny: 6
 Support Cost: 2 Shi
 Game Text: You can’t play more than one of this asset beneath the same kizen. This kizen is power +2. Each time a unit is targeted by an activated ability of a weapon beneath this kizen, make that unit power –3 and defense –3 until end of turn. Lore: Target discretion is not a skill prized by the Shi.
@@ -1984,7 +2005,8 @@ Game Text: As long as you have another kizen here, this character is power +2.
 Lore: Travellers among the Tilak family are often tasked with guarding the most sacred Shi locations.
 ILLUSTRATOR: JEREMYMcHUGH
 Title: Martial Interrogation Collector’s Number: 1 C 190 Faction: Shi
-Card Type: INTERRUPT (Used) Cost: 2
+Card Type: INTERRUPT (Used)
+Cost: 2
 Destiny: 2
 Support Cost: 1 Shi
 Game Text: Put target pending ship or pending unit in its owner’s hand, unless its owner pays 2 energy.
@@ -2001,7 +2023,8 @@ Game Text: This character is tactics +2, a kizen, and immune to attrition.
 Lore: When it is time, the chosen ones will bask in the glow of the rift.
 ILLUSTRATOR: ROBBURNS
 Title: Ominous Presence Collector’s Number: 1 R 192 Faction: Shi
-Card Type: ASSET (Kizen) Cost: 0
+Card Type: ASSET (Kizen)
+Cost: 0
 Destiny: 3
 Support Cost: 2 Shi
 Game Text: You can’t play more than one of this asset beneath the same kizen. This kizen is tactics +1. Pay 2 energy ≈ Take target asset here from beneath one card and give it to target other eligible card.
@@ -2033,7 +2056,8 @@ Game Text: As long as this character is at a site, your opponent causes attritio
 Lore: Shi medical technology is far superior to that of their adversaries. It is this which perpetuates the rumors of immortality.
 ILLUSTRATOR: MARIANNEPLUMRIDGE
 Title: Premeditated Reaction Collector’s Number: 1 R 195 Faction: Shi
-Card Type: ASSET (Kizen) Cost: 0
+Card Type: ASSET (Kizen)
+Cost: 0
 Destiny: 2
 Support Cost: 2 Shi
 Game Text: You can’t play more than one of this asset beneath the same kizen. This kizen is defense +1. Pay 2 energy and dismiss this asset ≈ Until end of turn, each time you lose a battle here, your casualties are reduced to 0.
@@ -2052,7 +2076,8 @@ Defense: 5
 Game Text: • Dismiss one of your other units here ≈ This character is immune to attrition until end of turn. Dismiss two of your other characters here ≈ Damage target character in a site battle here. Lore: The Vishal family has provided military expertisefor millennia. They are elite warriors among the Seyalshi.
 ILLUSTRATOR: KAY ALLEN
 Title: Pursuit Just Behind Collector’s Number: 1 U 197 Faction: Shi
-Card Type: ORDER (Lost) Cost: 0
+Card Type: ORDER (Lost)
+Cost: 0
 Destiny: 6
 Support Cost: 1 Shi
 Game Text: Destroy target infiltrator your opponent has at a sector. Then your opponent loses 3 energy.
@@ -2297,7 +2322,8 @@ Support Cost: 1 Shi
 Game Text: • Reveal a card from your hand, note its destiny, and put it on top of your used pile ≈ Choose target unit your opponent has in a site battle here. Damage it unless your opponent reveals a card that has a higher destiny from his or her hand.
 Lore: Receiving a vatarma from an elder marks the right of passage for a Shi warrior.
 ILLUSTRATOR: JOEBOULDEN
-Title: Well-concealed Charge Collector’s Number: 1 C 219 Card Type: ASSET (Location) Cost: 0
+Title: Well-concealed Charge Collector’s Number: 1 C 219 Card Type: ASSET (Location)
+Cost: 0
 Destiny: 6
 Faction: Shi
 Support Cost: 2 Shi
@@ -2305,7 +2331,8 @@ Game Text: You may play this asset beneath one of your opponent’s locations. • P
 Lore: The Shi are always finding new and inventive ways to torment their enemies.
 ILLUSTRATOR: JENNIFERRODGERS
 Title: •Abominable Presence Collector’s Number: 1 U 220 Faction: Quay
-Card Type: INTERRUPT (Used) Cost: 0
+Card Type: INTERRUPT (Used)
+Cost: 0
 Destiny: 3
 Support Cost: 2 Quay
 Game Text: Until end of turn, each of your opponent’s drains is –1 at each location related to a site where you have target kizen.
@@ -2398,7 +2425,8 @@ Game Text: You can’t play more than one of this asset beneath the same kizen. • 
 Lore: Kulak touched the dying Quay, and drew forth what was left of the life-energy. He glowered at the enemy, and his warriors roared once again into the fray, renewed.
 ILLUSTRATOR: JENNIFERRODGERS
 Title: Defensive Position Collector’s Number: 1 U 229 Faction: Quay
-Card Type: ASSET (Site) Cost: 3
+Card Type: ASSET (Site)
+Cost: 3
 Destiny: 1
 Support Cost: 1 Quay
 Game Text: You may play this asset beneath one of your opponent’s sites. You may play this asset only beneath a site where you have a unit. At your opponent’s end of turn, dismiss this asset and, if a player’s total power here is higher than his or her opponent’s, that player loses 4 energy.
@@ -3085,7 +3113,8 @@ Energy: 2/1
 Game Text: Put target ship you have here on top of your used pile ≈ Download a site that has “Alnak Station” in its title. You may use this ability only during your deploy phase.
 ILLUSTRATOR: PHILIPPE“HPX1”GUYENNE
 Title: *Alnak Station/Hallway Collector’s Number: 1 R 294 Faction: Independent
-Card Type: LOCATION (Site) Cost: 0
+Card Type: LOCATION (Site)
+Cost: 0
 Destiny: 0
 Support: 1 Quay
 Energy: 1/0
@@ -3131,7 +3160,8 @@ Energy: 1/0
 Game Text: Pay 2 energy ≈ Move target fighter you have here to a moon sector where a battle is taking place. Any player may use this ability.
 ILLUSTRATOR: ROB ALEXANDER
 Title: *Ganymede/Core Shaft Collector’s Number: 1 R 300 Faction: Independent
-Card Type: LOCATION (Site) Cost: 0
+Card Type: LOCATION (Site)
+Cost: 0
 Destiny: 3
 Support: None
 Energy: 1/1
@@ -3146,14 +3176,16 @@ Energy: 1/1
 Game Text: Unlimited, Encampment (Stack this card beneath target location where you have an energy icon, unit, or ship. This card is no longer a location or site and target gains this card’s energy and support icons that are on your side. You may stack only one encampment here.)
 ILLUSTRATOR: NICKSTATHOPOULOS
 Title: *Ganymede/Forward Base Collector’s Number: 1 C 302 Faction: Independent
-Card Type: LOCATION (Site) Cost: 0
+Card Type: LOCATION (Site)
+Cost: 0
 Destiny: 0
 Support: 1 Shi
 Energy: 2/1
 Game Text: As long as you control this site and have a kizen here, your total power is +2 at each related site.
 ILLUSTRATOR: ATHENAHUDDLESTON
 Title: Ganymede/Frontier Camp Collector’s Number: 1 S 303 Faction: Independent
-Card Type: LOCATION (Site) Cost: 0
+Card Type: LOCATION (Site)
+Cost: 0
 Destiny: 0
 Support: 1 Maverick
 Energy: 1/1
@@ -3168,7 +3200,8 @@ Energy: 1/1
 Game Text: Unlimited, Encampment (Stack this card beneath target location where you have an energy icon, unit, or ship. This card is no longer a location or site and target gains this card’s energy and support icons that are on your side. You may stack only one encampment here.)
 ILLUSTRATOR: JOE BOULDEN
 Title: Ganymede/Hunters’ Camp Collector’s Number: 1 S 305 Faction: Independent
-Card Type: LOCATION (Site) Cost: 0
+Card Type: LOCATION (Site)
+Cost: 0
 Destiny: 0
 Support: 1 Quay
 Energy: 1/1
@@ -3191,7 +3224,8 @@ Energy: 2/1
 Game Text: Vehicles don’t add their power to a player’s total power during a battle here.
 ILLUSTRATOR: PHILIPPE“HPX1”GUYENNE
 Title: Ganymede/Pilgrims’ Camp Collector’s Number: 1 S 308 Faction: Independent
-Card Type: LOCATION (Site) Cost: 0
+Card Type: LOCATION (Site)
+Cost: 0
 Destiny: 0
 Support: 1 Gongen
 Energy: 1/1
@@ -3229,21 +3263,24 @@ Energy: 1/1
 Game Text: Each drain here is +1. At each player’s end of turn, that player must put one of his or her units here on top of its owner’s used pile.
 ILLUSTRATOR: LEOWINSTEAD
 Title: *Ganymede/Valley Collector’s Number: 1 C 313 Faction: Independent
-Card Type: LOCATION (Site) Cost: 0
+Card Type: LOCATION (Site)
+Cost: 0
 Destiny: 3
 Support: None
 Energy: 2/2
 Game Text: Each time a card is revealed for destiny while using an ability of a weapon here, that card’s destiny is +2.
 ILLUSTRATOR: DAVIDDEEN Title: *Ganymede/Vantage Point
 Collector’s Number: 1 U 314 Faction: Independent
-Card Type: LOCATION (Site) Cost: 0
+Card Type: LOCATION (Site)
+Cost: 0
 Destiny: 3
 Support: None
 Energy: 2/1
 Game Text: When this location enters play, you may pay 1 energy. If you do, download a location that has “Ganymede” in its title.
 ILLUSTRATOR: DAVIDDEEN
 Title: *Gongen/Ice Mine Collector’s Number: 1 C 315 Faction: Independent
-Card Type: LOCATION (Site) Cost: 0
+Card Type: LOCATION (Site)
+Cost: 0
 Destiny: 0
 Support: 1 Gongen
 Energy: 1/1

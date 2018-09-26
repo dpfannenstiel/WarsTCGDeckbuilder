@@ -44,7 +44,8 @@ Game Text: Size 2, Transport 1. Each time you win a site battle here, you may in
 Lore: Like his Blades in the air, Howler’s Daggers are an elite ground unit that receives only the most critical assignments.
 ILLUSTRATOR: JOSHUA theJAMES SHAW
 Title: •Defensive Grid Collector’s Number: 2 C 5 Faction: Earther
-Card Type: INTERRUPT (Lost) Cost: 0
+Card Type: INTERRUPT (Lost)
+Cost: 0
 Destiny: 6
 Support Cost: 2 Earther
 Game Text: You may play this interrupt only during a battle at a location where you have more than one support icon. Make your battle destiny in that battle + [D].
@@ -59,14 +60,16 @@ Support Cost: 2 Eather
 Game Text: As long as this character is at a site, you cause attrition +1 here. 2 • Pay 1 energy ≈ Choose target unit your opponent has in a site battle here. Damage target if its defense < [D] + the number of units your opponent has here. Lore: “When they’re busy looking for the whites of your eyes, they’ll never see this coming.”
 ILLUSTRATOR: MICHELLE SPALDING
 Title: Headlong Rush Collector’s Number: 2 U 7 Faction: Earther
-Card Type: INTERRUPT (Lost) Cost: 1
+Card Type: INTERRUPT (Lost)
+Cost: 1
 Destiny: 4
 Support Cost: 2 Earther
 Game Text: Move your target vehicle at a site to an adjacent site where a battle is taking place.
 Lore: The Blades fight with everything they have. Even when there’s a NoBot on the other side.
 ILLUSTRATOR: STEPHEN CROWE
 Title: Howler’s Gambit Collector’s Number: 2 R 8 Faction: Earther
-Card Type: INTERRUPT (Lost) Cost: 1
+Card Type: INTERRUPT (Lost)
+Cost: 1
 Destiny: 4
 Support Cost: 2 Earther
 Game Text: You may play this interrupt only during your move phase. At target location where your ships and units have a higher total tactics than your opponent, put each ship and each unit in its owner’s hand.
@@ -87,7 +90,8 @@ Lore: Type IVs from Inca squadron routinely patrol areas near the rift, alert fo
 ILLUSTRATOR: STEPHEN CROWE
 Title: Informational Advantage Collector’s Number: 2 R 10
 Faction: Earther
-Card Type: ASSET (Character Infiltrator) Cost: 3
+Card Type: ASSET (Character Infiltrator)
+Cost: 3
 Destiny: 2
 Support Cost: 3 Earther
 Game Text: Each time your opponent uses a support icon here, he or she loses 1 energy.
@@ -128,7 +132,8 @@ Game Text: Quickdraw 1 (Add a • to each activated ability on a weapon beneath th
 Lore: When things get rough in the Rim, Leif Garzone is relied upon to meet any unanticipated “needs” the Rangers have.
 ILLUSTRATOR: MICHELLE SPALDING
 Title: Optical Delusion Collector’s Number: 2 U 14 Faction: Earther
-Card Type: INTERRUPT (Lost) Cost: 0
+Card Type: INTERRUPT (Lost)
+Cost: 0
 Destiny: 4
 Support Cost: 2 Earther
 Game Text: You may play this interrupt only during a battle. Play a XeLabs ship or XeLabs unit to the location of that battle at full cost.
@@ -255,7 +260,8 @@ Game Text: • Pay 1 energy ≈ If there is no card stacked here, your opponent lose
 Lore: “Somehow they think whatever we have here is hot.”
 ILLUSTRATOR: ROBERTO CAMPUS
 Title: Watch Your Back Collector’s Number: 2 U 26 Faction: Earther
-Card Type: ORDER (Used) Cost: 0
+Card Type: ORDER (Used)
+Cost: 0
 Destiny: 3
 Support Cost: 2 Earther
 Game Text: Play a kizen. It costs 1 less energy to play for each other kizen you have in play. Lore: The gurus under Rathe’s command are trained to sense the presence of fellow kizen.
@@ -406,7 +412,8 @@ Game Text: When this character is destroyed during a site battle, you may put it
 Lore: Combat-grade techs like Yasa Tamaro are able to repair vehicles in dangerous conditions.
 ILLUSTRATOR: PAUL TOBIN
 Title: Indomitable Will Collector’s Number: 2 C 40 Faction: Gongen
-Card Type: ASSET (Kizen) Cost: 0
+Card Type: ASSET (Kizen)
+Cost: 0
 Destiny: 6
 Support Cost: 1 Gongen
 Game Text: You can’t play more than one copy of this asset beneath the same kizen. As long as this kizen is at a site, each time you drain here and you have no other units here, you may retrieve a card. Lore: “The strength of a pure spirit can empower the body to fight on after death.” – Higen Shijin, The Great Journey
@@ -575,7 +582,8 @@ Game Text: When this character enters play, if you have a card stacked on your s
 Lore: Equipped with the proper gear, techs like Miu Zhihuan are able to move dangerous materials on hazardous planets.
 ILLUSTRATOR: JOE BOULDEN
 Title: •Unbidden Martyr Collector’s Number: 2 R 56 Faction: Gongen
-Card Type: ORDER (Lost) Cost: 2
+Card Type: ORDER (Lost)
+Cost: 2
 Destiny: 6
 Support Cost: 3 Gongen
 Game Text: As an additional cost to play this order, remove your target kizen from the game . Retrieve X cards, where X is the energy cost of target. Remove this card from the game.
@@ -618,7 +626,8 @@ Game Text: Piloting 2 (As long as this character is aboard a ship, that ship is 
 Lore: Three things she can’t stand: downtime for repairs, customs frigates, and lousy Reds.
 ILLUSTRATOR: WESLEY BURT
 Title: Begging for Mercy Collector’s Number: 2 R 60 Faction: Maverick
-Card Type: INTERRUPT (Lost) Cost: 0
+Card Type: INTERRUPT (Lost)
+Cost: 0
 Destiny: 5
 Support Cost: 1 Maverick
 Game Text: Choose a number and reveal the top card of your opponent’s reserve. If that card’s destiny is equal to the chosen number, draw up to five cards from your reserve
@@ -788,7 +797,8 @@ Game Text: Quickdraw 1 (Add a • to each activated ability on a weapon beneath th
 Lore: Armed and dangerous, Joker is someone to keep an eye on while you’re having a drink at the Nest.
 ILLUSTRATOR: KIERAN YANNER
 Title: *Jovian Standoff Collector’s Number: 2 R 75 Faction: Maverick
-Card Type: ASSET (Unit) Cost: 2
+Card Type: ASSET (Unit)
+Cost: 2
 Destiny: 7
 Support Cost: 3 Maverick
 Game Text: Dismiss this asset ≈ If this unit is at a site, make target pending drain here +3. When you reveal this card for battle destiny, lose 3 energy.
@@ -911,7 +921,8 @@ Game Text: Size 2, Transport 2 When you play this vehicle, you may put up to two
 Lore: Dismissed from Gongen service due to twitchy handling, salvaged Zhangs were re- engineered by Mav techs.
 ILLUSTRATOR: CHRIS J. ANDERSON
 Title: Alcove of Panacea Collector’s Number: 2 U 87 Faction: Shi
-Card Type: ASSET (Location) Cost: 2
+Card Type: ASSET (Location)
+Cost: 2
 Destiny: 3
 Support Cost: 1 Shi
 Game Text: You may play this asset beneath one of your opponent’s locations. Each time your Tilak character here would be destroyed, you may pay 3 energy. If you do, put that character on top of your reserve instead.
@@ -940,7 +951,8 @@ Game Text: • Pay 1 energy ≈ Choose target unit your opponent has in a site battl
 Lore: A Shi’s choice of weapon is dictated by its opposition. Earther troops can be dispatched with a carbine... most don’t warrant the honor of a vatarma.
 ILLUSTRATOR: DREW BAKER
 Title: Blinding Scream Collector’s Number: 2 U 90 Faction: Shi
-Card Type: INTERRUPT (Lost) Cost: 0
+Card Type: INTERRUPT (Lost)
+Cost: 0
 Destiny: 4
 Support Cost: 2 Shi
 Game Text: You can’t play this interrupt unless you have a kizen at a location. Your opponent reveals his or her hand and chooses a destiny number on one of the revealed cards. Choose a revealed card with that destiny number and put it on top of his or her used pile.
@@ -1130,7 +1142,8 @@ Game Text: When this ship enters play, your opponent puts a card from his or her
 Lore: “Send in two flights of quarrels to make sure the Vinisha can approach safely.” – Dhanake-Tilak
 ILLUSTRATOR: JOE BOULDEN
 Title: Selsyn Maneuver Collector’s Number: 2 U 107 Faction: Shi
-Card Type: ASSET (Weapon) Cost: 0
+Card Type: ASSET (Weapon)
+Cost: 0
 Destiny: 3
 Support Cost: 1 Shi
 Game Text: Each time an ability on the weapon this asset is beneath damages a ship or unit, the owner of that ship or unit loses 1 energy.
