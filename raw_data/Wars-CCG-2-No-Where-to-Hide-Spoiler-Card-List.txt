@@ -17,7 +17,8 @@ Power: 1
 Tactics: 2
 Defense: 4
 Game Text: Your battle destiny in a site battle here is +1 for each of your kizen here and at each related site.
-Lore: "Relk is one of CISyn’s new recruits. He can’t remember much about his past, but that seems to be common in his current assignment." ILLUSTRATOR: GUY GENTRY
+Lore: "Relk is one of CISyn’s new recruits. He can’t remember much about his past, but that seems to be common in his current assignment."
+ILLUSTRATOR: GUY GENTRY
 Title: CISyn Coordinators
 Collector’s Number: 2 C 3
 Faction: Earther
@@ -28,7 +29,8 @@ Power: 3
 Tactics: 3
 Defense: 4
 Game Text: • Pay 1 energy ≈ Look at the top card of any reserve.
-Lore: Rathe’s gurus will follow his lead even in the face of CGC objections voiced by Howler himself. ILLUSTRATOR: ERIC DESCHAMPS
+Lore: Rathe’s gurus will follow his lead even in the face of CGC objections voiced by Howler himself.
+ILLUSTRATOR: ERIC DESCHAMPS
 Title: Dagger Juggernaut
 Collector’s Number: 2 C 4
 Faction: Earhter
@@ -54,13 +56,15 @@ Faction: Eather
 Card Type: WEAPON (Character) • Ranged Cost: 1
 Destiny: 2
 Support Cost: 2 Eather
-Game Text: As long as this character is at a site, you cause attrition +1 here. 2 • Pay 1 energy ≈ Choose target unit your opponent has in a site battle here. Damage target if its defense < [D] + the number of units your opponent has here. Lore: “When they’re busy looking for the whites of your eyes, they’ll never see this coming.” ILLUSTRATOR: MICHELLE SPALDING
+Game Text: As long as this character is at a site, you cause attrition +1 here. 2 • Pay 1 energy ≈ Choose target unit your opponent has in a site battle here. Damage target if its defense < [D] + the number of units your opponent has here. Lore: “When they’re busy looking for the whites of your eyes, they’ll never see this coming.”
+ILLUSTRATOR: MICHELLE SPALDING
 Title: Headlong Rush Collector’s Number: 2 U 7 Faction: Earther
 Card Type: INTERRUPT (Lost) Cost: 1
 Destiny: 4
 Support Cost: 2 Earther
 Game Text: Move your target vehicle at a site to an adjacent site where a battle is taking place.
-Lore: The Blades fight with everything they have. Even when there’s a NoBot on the other side. ILLUSTRATOR: STEPHEN CROWE
+Lore: The Blades fight with everything they have. Even when there’s a NoBot on the other side.
+ILLUSTRATOR: STEPHEN CROWE
 Title: Howler’s Gambit Collector’s Number: 2 R 8 Faction: Earther
 Card Type: INTERRUPT (Lost) Cost: 1
 Destiny: 4
@@ -79,7 +83,8 @@ Power: 2
 Tactics: 1
 Defense: 5
 Game Text: When this ship enters play, you may put target unit here that doesn’t have piloting on top of its owner’s used pile.
-Lore: Type IVs from Inca squadron routinely patrol areas near the rift, alert for any developments. ILLUSTRATOR: STEPHEN CROWE
+Lore: Type IVs from Inca squadron routinely patrol areas near the rift, alert for any developments.
+ILLUSTRATOR: STEPHEN CROWE
 Title: Informational Advantage Collector’s Number: 2 R 10
 Faction: Earther
 Card Type: ASSET (Character Infiltrator) Cost: 3
@@ -98,7 +103,8 @@ Power: 3
 Tactics: 2
 Defense: 4
 Game Text: • Damage your kizen here or your other infiltrator here ≈ Damage target opponent’s unit here. You may only use this ability during a site battle here.
-Lore: “It’s vital these CGC fools continue to trust us. Our every move must be well timed.” ILLUSTRATOR: KIERAN YANNER
+Lore: “It’s vital these CGC fools continue to trust us. Our every move must be well timed.”
+ILLUSTRATOR: KIERAN YANNER
 Title: Kneecapped
 Collector’s Number: 2 R 12
 Faction: Earther
@@ -136,7 +142,8 @@ Cost: 0
 Destiny: 6
 Support Cost: 2 Earther
 Game Text: The next time your target unit would be destroyed this turn, prevent that and, if it is damaged, undamage it.
-Lore: “Prepare for a visit to a bar in the Outer Rim as you would a battle. Medical training is recommended.” – Ranger Manual ILLUSTRATOR: PAMELINA H
+Lore: “Prepare for a visit to a bar in the Outer Rim as you would a battle. Medical training is recommended.” – Ranger Manual
+ILLUSTRATOR: PAMELINA H
 Title: Piggyback
 Collector’s Number: 2 R 16
 Faction: Earther
@@ -205,7 +212,8 @@ Power: 3/2
 Tactics: 4/4
 Defense: 5/4
 Game Text: Piloting 2 • Invert this character ≈ Undamage your target character in a battle here./ Piloting 2
-Lore: As captain of the Shadowsurfer, the last thing Hallard needs on a mission to the Rim is a boatful of new recruits. That’s why the Rangers provide him with seasoned veterans. ILLUSTRATOR: MICHELLE SPALDING
+Lore: As captain of the Shadowsurfer, the last thing Hallard needs on a mission to the Rim is a boatful of new recruits. That’s why the Rangers provide him with seasoned veterans.
+ILLUSTRATOR: MICHELLE SPALDING
 Title: *Shadowsurfer
 Collector’s Number: 2 R 22
 Faction: Earther
@@ -229,7 +237,8 @@ Power: 2
 Tactics: 2
 Defense: 4
 Game Text: When this character enters play, you may look at the top card of any reserve. If you do, you may put that card beneath its owner’s reserve. • Pay 1 energy ≈ Put the top card of any reserve beneath that reserve.
-Lore: “Today we stopped reading the books. Tomorrow we start writing them. The stars are our destiny. Now’s the time to earn what’s truly ours.” ILLUSTRATOR: PHILIPPE ‘HPX1’ GUYENNE
+Lore: “Today we stopped reading the books. Tomorrow we start writing them. The stars are our destiny. Now’s the time to earn what’s truly ours.”
+ILLUSTRATOR: PHILIPPE ‘HPX1’ GUYENNE
 Title: Terms of the Deal Collector’s Number: 2 R 24 Faction: Earther
 Card Type: ASSET
 Cost: 0
@@ -249,7 +258,8 @@ Title: Watch Your Back Collector’s Number: 2 U 26 Faction: Earther
 Card Type: ORDER (Used) Cost: 0
 Destiny: 3
 Support Cost: 2 Earther
-Game Text: Play a kizen. It costs 1 less energy to play for each other kizen you have in play. Lore: The gurus under Rathe’s command are trained to sense the presence of fellow kizen. ILLUSTRATOR: LIZ DANFORTH
+Game Text: Play a kizen. It costs 1 less energy to play for each other kizen you have in play. Lore: The gurus under Rathe’s command are trained to sense the presence of fellow kizen.
+ILLUSTRATOR: LIZ DANFORTH
 Title: *XeLabs Type IV
 Collector’s Number: 2 R 27
 Faction: Earther
@@ -336,7 +346,8 @@ Power: 1
 Tactics: 2
 Defense: 2
 Game Text: Damage this character ≈ Put your target bot here or your target vehicle here in its owner’s hand. You may use this ability only during a battle here.
-Lore: Fusion generators require skilled engineers like Yoro Tosunta to keep them in tune. ILLUSTRATOR: APRIL LEE
+Lore: Fusion generators require skilled engineers like Yoro Tosunta to keep them in tune.
+ILLUSTRATOR: APRIL LEE
 Title: Gunso Squad Leader
 Collector’s Number: 2 C 35
 Faction: Gongen
@@ -346,7 +357,8 @@ Support Cost: 1 Gongen
 Power: 3
 Tactics: 2
 Defense: 3
-Game Text: • Pay 4 energy ≈ Your target character at this site can’t be damaged until end of turn. Lore: Hisumi Taro is one of many Deigan sergeants respected throughout the Gongen armies. ILLUSTRATOR: ERIC LOFGREN
+Game Text: • Pay 4 energy ≈ Your target character at this site can’t be damaged until end of turn. Lore: Hisumi Taro is one of many Deigan sergeants respected throughout the Gongen armies.
+ILLUSTRATOR: ERIC LOFGREN
 Title: Hailstorm Blaster
 Collector’s Number: 2 R 36
 Faction: Gongen
@@ -355,7 +367,8 @@ Destiny: 6
 Support Cost: 3 Gongen
 Game Text: This NoBot is defense +4.
 •• Pay 2 energy ≈ Choose target unit your opponent has in a site battle here. Reveal the top two cards of your reserve, choose one and note its destiny, and put them on top of your used pile in any order. Damage target if its defense < that destiny.
-Lore: “The Shi taught the Quay to hate water. The NoBot kouhyou weapon taught them to fear it.” ILLUSTRATOR: CHRISTIAN PEARCE
+Lore: “The Shi taught the Quay to hate water. The NoBot kouhyou weapon taught them to fear it.”
+ILLUSTRATOR: CHRISTIAN PEARCE
 Title: *Hannya
 Collector’s Number: 2 R 37
 Faction: Gongen
@@ -378,7 +391,8 @@ Power: 2
 Tactics: 2
 Defense: 3
 Game Text: As long as this character is damaged, it is power +2
-Lore: “In your might and glory I place my hand. Guide my weapon in your service.” – Kazui Oko ILLUSTRATOR: PAUL TOBIN
+Lore: “In your might and glory I place my hand. Guide my weapon in your service.” – Kazui Oko
+ILLUSTRATOR: PAUL TOBIN
 Title: Ikazuchi Technician
 Collector’s Number: 2 C 39
 Faction: Gongen
@@ -389,7 +403,8 @@ Power: 1
 Tactics: 2
 Defense: 3
 Game Text: When this character is destroyed during a site battle, you may put it on top of its owner’s used pile.
-Lore: Combat-grade techs like Yasa Tamaro are able to repair vehicles in dangerous conditions. ILLUSTRATOR: PAUL TOBIN
+Lore: Combat-grade techs like Yasa Tamaro are able to repair vehicles in dangerous conditions.
+ILLUSTRATOR: PAUL TOBIN
 Title: Indomitable Will Collector’s Number: 2 C 40 Faction: Gongen
 Card Type: ASSET (Kizen) Cost: 0
 Destiny: 6
@@ -492,7 +507,8 @@ Power: 5
 Tactics: 3
 Defense: 4
 Game Text: Quickdraw 1 (Add a • to each activated ability on a weapon beneath this character that already has one.)
-This character may have two weapons beneath it. Lore: Living in darkness, kagemusha cloud their individuality to intensify their might. ILLUSTRATOR: FRANCIS TSAI
+This character may have two weapons beneath it. Lore: Living in darkness, kagemusha cloud their individuality to intensify their might.
+ILLUSTRATOR: FRANCIS TSAI
 Title: Tamon Interceptor
 Collector’s Number: 2 C 50
 Faction: Gongen
@@ -503,7 +519,8 @@ Power: 1
 Tactics: 3
 Defense: 2
 Game Text: When this ship is destroyed, you may put it on top of its owner’s used pile.
-Lore: The new Gongen fighters are designed to combat technology from the other side of the rift. ILLUSTRATOR: THOMAS DENMARK
+Lore: The new Gongen fighters are designed to combat technology from the other side of the rift.
+ILLUSTRATOR: THOMAS DENMARK
 Title: Tataki Commander
 Collector’s Number: 2 U 51
 Faction: Gongen
@@ -514,7 +531,8 @@ Power: 4
 Tactics: 2
 Defense: 1
 Game Text: • Pay 1 energy ≈ Move this character to target adjacent site where a battle is taking place. You may use this ability only during your opponent’s turn.
-Lore: Deigan assault warriors are known for their devotion to leaders like Namaru Komo. Veterans hold a revered place in Gongen society. ILLUSTRATOR: PAUL BURROW
+Lore: Deigan assault warriors are known for their devotion to leaders like Namaru Komo. Veterans hold a revered place in Gongen society.
+ILLUSTRATOR: PAUL BURROW
 Title: *Tennaru Hari
 Collector’s Number: 2 R 52
 Faction: Gongen
@@ -573,7 +591,8 @@ Power: 1
 Tactics: 3
 Defense: 2
 Game Text: This ship is power +1 for each of your opponent’s ships here.
-Lore: The interceptor model features almost 1G more thrust than previous Gongen designs. ILLUSTRATOR: THOMAS DENMARK
+Lore: The interceptor model features almost 1G more thrust than previous Gongen designs.
+ILLUSTRATOR: THOMAS DENMARK
 Title: *Aris Thantos
 Collector’s Number: 2 R 58
 Faction: Maverick
@@ -596,13 +615,15 @@ Tactics: 2
 Defense: 4
 Game Text: Piloting 2 (As long as this character is aboard a ship, that ship is power +2 and tactics +2.)
 • Pay 3 energy ≈ Move target ship this character is aboard. You may use this ability only during your deploy phase.
-Lore: Three things she can’t stand: downtime for repairs, customs frigates, and lousy Reds. ILLUSTRATOR: WESLEY BURT
+Lore: Three things she can’t stand: downtime for repairs, customs frigates, and lousy Reds.
+ILLUSTRATOR: WESLEY BURT
 Title: Begging for Mercy Collector’s Number: 2 R 60 Faction: Maverick
 Card Type: INTERRUPT (Lost) Cost: 0
 Destiny: 5
 Support Cost: 1 Maverick
 Game Text: Choose a number and reveal the top card of your opponent’s reserve. If that card’s destiny is equal to the chosen number, draw up to five cards from your reserve
-Lore: “Wealth is the parent of luxury and indolence, and poverty of meanness and viciousness, and both of discontent.” – Plato ILLUSTRATOR: ED COX
+Lore: “Wealth is the parent of luxury and indolence, and poverty of meanness and viciousness, and both of discontent.” – Plato
+ILLUSTRATOR: ED COX
 Title: Belt Runner
 Collector’s Number: 2 C 61
 Faction: Maverick
@@ -614,7 +635,8 @@ Power: 3
 Tactics: 3
 Defense: 3
 Game Text: When this ship enters play, if you have a card stacked on your stockpile asset, you may put up to two cards from your hand on top of your reserve in any order.
-Lore: When you absolutely, positively, have to get data back to Europa in twenty hours or less. ILLUSTRATOR: DENNIS CALERO
+Lore: When you absolutely, positively, have to get data back to Europa in twenty hours or less.
+ILLUSTRATOR: DENNIS CALERO
 Title: Careless Cat
 Collector’s Number: 2 U 62
 Faction: Maverick
@@ -639,7 +661,8 @@ Power: 2/4
 Tactics: 1/1
 Defense: 5/5
 Game Text: Each time you play a character who has piloting aboard this ship, you may invert this ship./ Captain – Killer Cait Grimalkin • Pay 3 energy ≈ Draw two cards from your reserve.
-Lore: No Earther convoy wants to see the Claw show up with Killer Cait mousing around. ILLUSTRATOR: MIKE BRUINSMA
+Lore: No Earther convoy wants to see the Claw show up with Killer Cait mousing around.
+ILLUSTRATOR: MIKE BRUINSMA
 Title: Chameleon
 Collector’s Number: 2 R 64
 Faction: Maverick
@@ -648,7 +671,8 @@ Cost: 4
 Destiny: 0
 Support Cost: 2 Maverick
 Game Text: • Lose 2 energy from your hand ≈ Activate 3 energy. You may use this ability only during your turn.
-Lore: The decrepitude of Cartel ships can provide perfect cover in the right situation. ILLUSTRATOR: CHRIS J. ANDERSON
+Lore: The decrepitude of Cartel ships can provide perfect cover in the right situation.
+ILLUSTRATOR: CHRIS J. ANDERSON
 Title: *Cribber
 Collector’s Number: 2 C 65
 Faction: Maverick
@@ -660,7 +684,8 @@ Power: 2
 Tactics: 3
 Defense: 3
 Game Text: Each time a player reveals a card for battle destiny during a battle here, you may pay energy equal to the destiny of the card revealed. If you do, that player reveals another card for battle destiny instead. You may use this ability no more than once each turn.
-Lore: I’m a VisiTech model 770 bot. We can track more than a dozen independent targets, even while moving through a noisy club.” ILLUSTRATOR: JOSHUA theJAMES SHAW
+Lore: I’m a VisiTech model 770 bot. We can track more than a dozen independent targets, even while moving through a noisy club.”
+ILLUSTRATOR: JOSHUA theJAMES SHAW
 Title: Darkslider
 Collector’s Number: 2 C 66
 Faction: Maverick
@@ -672,7 +697,8 @@ Power: 2/3
 Tactics: 1/1
 Defense: 3/4
 Game Text: • Pay 4 energy ≈ Invert this ship. / Each time you reveal a card for battle destiny during a battle here, you may revert this ship. If you do, make that card’s destiny +2
-Lore: “Make sure that turret can spin three-sixty. You never know who your friends are out here.” ILLUSTRATOR: STEVE ELLIS
+Lore: “Make sure that turret can spin three-sixty. You never know who your friends are out here.”
+ILLUSTRATOR: STEVE ELLIS
 Title: Death Dealer
 Collector’s Number: 2 C 67
 Faction: Maverick
@@ -766,7 +792,8 @@ Card Type: ASSET (Unit) Cost: 2
 Destiny: 7
 Support Cost: 3 Maverick
 Game Text: Dismiss this asset ≈ If this unit is at a site, make target pending drain here +3. When you reveal this card for battle destiny, lose 3 energy.
-Lore: Sitting at the table with The Gambler often brings either a great blessing or a terrible price. Sometimes it’s hard to tell one from the other. ILLUSTRATOR: KIERAN YANNER
+Lore: Sitting at the table with The Gambler often brings either a great blessing or a terrible price. Sometimes it’s hard to tell one from the other.
+ILLUSTRATOR: KIERAN YANNER
 Title: Little Nelly
 Collector’s Number: 2 C 76
 Faction: Maverick
@@ -778,7 +805,8 @@ Power: 1
 Tactics: 1
 Defense: 5
 Game Text: Size 2, Transport 2 This vehicle is power +1 for each energy icon on your side of this location.
-Lore: Cogs never stop wrenching on their machines, the fastest in the Sol System. ILLUSTRATOR: ATHENA HUDDLESTON
+Lore: Cogs never stop wrenching on their machines, the fastest in the Sol System.
+ILLUSTRATOR: ATHENA HUDDLESTON
 Title: Long Odds
 Collector’s Number: 2 R 77
 Faction: Maverick
@@ -846,7 +874,8 @@ Card Type: ASSET • Stockpile Cost: 0
 Destiny: 5
 Support Cost: 2 Maverick
 Game Text: • Pay 1 energy ≈ • Pay 1 energy ≈ If your battle destiny is greater than your opponent’s battle destiny and there are fewer than two cards stacked here, your opponent loses 1 energy and stacks that card face down on this asset. You may only use this ability during a battle after the battle destiny step.
-Lore: “Make money, money by fair means if you can, if not, but any means money.” – Horace ILLUSTRATOR: ED COX
+Lore: “Make money, money by fair means if you can, if not, but any means money.” – Horace
+ILLUSTRATOR: ED COX
 Title: Wagner S70 Plasma Bolter Collector’s Number: 2 C 84
 Faction: Maverick
 Card Type: WEAPON (Character) • Ranged Cost: 0
@@ -915,7 +944,8 @@ Card Type: INTERRUPT (Lost) Cost: 0
 Destiny: 4
 Support Cost: 2 Shi
 Game Text: You can’t play this interrupt unless you have a kizen at a location. Your opponent reveals his or her hand and chooses a destiny number on one of the revealed cards. Choose a revealed card with that destiny number and put it on top of his or her used pile.
-Lore: “Ability HX45: Active disruption of cognitive processes.” – Expanded Awareness Journal ILLUSTRATOR: KIERAN YANNER
+Lore: “Ability HX45: Active disruption of cognitive processes.” – Expanded Awareness Journal
+ILLUSTRATOR: KIERAN YANNER
 Title: Carabinier
 Collector’s Number: 2 C 91
 Faction: Shi
@@ -926,7 +956,8 @@ Power: 2
 Tactics: 1
 Defense: 3
 Game Text: Quickdraw 1 (Add a • to each activated ability on a weapon beneath this character that already has one.)
-Lore: Like many Shi warriors, Durasha is often assigned to protect valuable assets. ILLUSTRATOR: DREW BAKER
+Lore: Like many Shi warriors, Durasha is often assigned to protect valuable assets.
+ILLUSTRATOR: DREW BAKER
 Title: Claviger
 Collector’s Number: 2 U 92
 Faction: Shi
@@ -1012,7 +1043,8 @@ Power: 3
 Tactics: 1
 Defense: 6
 Game Text: This ship costs 1 less energy to play at a sector for each of your opponent’s inverters at locations related to that sector.
-Lore: Hastecurrents sent to support Reaper Craft above Ganymede chased off Hellcat ships contracted to defend the Maverick mine. ILLUSTRATOR: JOE BOULDEN
+Lore: Hastecurrents sent to support Reaper Craft above Ganymede chased off Hellcat ships contracted to defend the Maverick mine.
+ILLUSTRATOR: JOE BOULDEN
 Title: Key Keeper
 Collector’s Number: 2 C 100
 Faction: Shi
@@ -1023,7 +1055,8 @@ Power: 3
 Tactics: 2
 Defense: 4
 Game Text: As long as you have a card stacked on your stockpile asset, this character is immune to attrition.
-Lore: Spineslingers hold no surprises for veteran clavigers tasked with reclaiming them. ILLUSTRATOR: WESLEY BURT
+Lore: Spineslingers hold no surprises for veteran clavigers tasked with reclaiming them.
+ILLUSTRATOR: WESLEY BURT
 Title: Lifeseeker
 Collector’s Number: 2 C 101
 Faction: Shi
@@ -1034,7 +1067,8 @@ Power: 2
 Tactics: 1
 Defense: 3
 Game Text: • Pay 5 energy ≈ Put target other damaged unit here in its owner’s hand.
-Lore: When a patriarch is missing or captured, Asendar and its crew are called upon. ILLUSTRATOR: DREW BAKER
+Lore: When a patriarch is missing or captured, Asendar and its crew are called upon.
+ILLUSTRATOR: DREW BAKER
 Title: Ore Alembic
 Collector’s Number: 2 C 102
 Faction: Shi
@@ -1068,7 +1102,8 @@ Power: 2
 Tactics: 3
 Defense: 4
 Game Text: Piloting 2 As long as this character is aboard your ship and your opponent has no ships here, he or she must lose 2 energy to play a ship here.
-Lore: “It was no coincidence that Oligarch- Sudhand chose me to command the Ganymede mission. Our balances now stand equal.” ILLUSTRATOR: DREW BAKER
+Lore: “It was no coincidence that Oligarch- Sudhand chose me to command the Ganymede mission. Our balances now stand equal.”
+ILLUSTRATOR: DREW BAKER
 Title: Reaper Craft
 Collector’s Number: 2 R 105
 Faction: Shi
@@ -1080,7 +1115,8 @@ Power: 1/4
 Tactics: 1/5
 Defense: 2/5
 Game Text: •Lose a stockpile asset from your hand ≈ Invert this ship./ • Revert this ship ≈ Move this ship to another sector.
-Lore: Collector ships replenish traginium stores that were exhausted with the opening of the rift. ILLUSTRATOR: JOE BOUlDEN
+Lore: Collector ships replenish traginium stores that were exhausted with the opening of the rift.
+ILLUSTRATOR: JOE BOUlDEN
 Title: Resolute Quarrel
 Collector’s Number: 2 C 106
 Faction: Shi
@@ -1091,13 +1127,15 @@ Power: 3
 Tactics: 1
 Defense: 6
 Game Text: When this ship enters play, your opponent puts a card from his or her hand on top of his or her used pile.
-Lore: “Send in two flights of quarrels to make sure the Vinisha can approach safely.” – Dhanake-Tilak ILLUSTRATOR: JOE BOULDEN
+Lore: “Send in two flights of quarrels to make sure the Vinisha can approach safely.” – Dhanake-Tilak
+ILLUSTRATOR: JOE BOULDEN
 Title: Selsyn Maneuver Collector’s Number: 2 U 107 Faction: Shi
 Card Type: ASSET (Weapon) Cost: 0
 Destiny: 3
 Support Cost: 1 Shi
 Game Text: Each time an ability on the weapon this asset is beneath damages a ship or unit, the owner of that ship or unit loses 1 energy.
-Lore: Over many years, stability within squadrons has bred an awareness akin to telepathy. ILLUSTRATOR: JOE BOULDEN
+Lore: Over many years, stability within squadrons has bred an awareness akin to telepathy.
+ILLUSTRATOR: JOE BOULDEN
 Title: Swiftwave Attacker
 Collector’s Number: 2 R 108
 Faction: SHI
@@ -1139,13 +1177,15 @@ Power: 4/4
 Tactics: 2/2
 Defense: 6/6
 Game Text: When your opponent plays a ship here or moves a ship to here, you may invert this ship. Each time your opponent loses a ship here and has no more ships here, he or she loses 3 energy.
-Lore: The flagship of the Tilak fleet was sent to Venus to recover their planted quarrel and its pilot. ILLUSTRATOR: JOE BOULDEN
+Lore: The flagship of the Tilak fleet was sent to Venus to recover their planted quarrel and its pilot.
+ILLUSTRATOR: JOE BOULDEN
 Title: *Traginium Harvest Collector’s Number: 2 U 112 Faction: Shi
 Card Type: ASSET • Stockpile Cost: 1
 Destiny: 3
 Support Cost: 2 Shi
 Game Text: Each time an opponent’s battle phase ends, if your opponent didn’t perform an attack action at every location where both players have a ship or unit and there are fewer than two cards stacked here, your opponent loses 1 energy and stacks that card face down on this asset.
-Lore: Once their traginium stores are replenished, the Shi will regain the use of rift technology. ILLUSTRATOR: JOE BOULDEN
+Lore: Once their traginium stores are replenished, the Shi will regain the use of rift technology.
+ILLUSTRATOR: JOE BOULDEN
 Title: Undercurrents
 Collector’s Number: 2 R 113
 Faction: Shi
@@ -1154,7 +1194,8 @@ Cost: 1
 Destiny: 6
 Support Cost: 2 Shi
 Game Text: As an additional cost to play this interrupt, lose 2 energy. Make each opponent’s drain -1 until end of turn.
-Lore: “The walkers couldn’t see the elaborate trap we set for them on the second planet.” – Vidanar ILLUSTRATOR: KIERAN YANNER
+Lore: “The walkers couldn’t see the elaborate trap we set for them on the second planet.” – Vidanar
+ILLUSTRATOR: KIERAN YANNER
 Title: *Vidanar
 Collector’s Number: 2 R 114
 Faction: Shi
@@ -1166,7 +1207,8 @@ Power: 2
 Tactics: 2
 Defense: 4
 Game Text: • Lose 1 energy ≈ Look at the top X cards of your reserve, where X is the number of your [Shi] support icons. Choose one of those cards to put in your hand and put the rest on top of your used pile in any order.
-Lore: “The nanites kept it alive, as expected. We do not know what the walkers have done to it.” ILLUSTRATOR: TERRY ROBINSON
+Lore: “The nanites kept it alive, as expected. We do not know what the walkers have done to it.”
+ILLUSTRATOR: TERRY ROBINSON
 Title: *Anakatika
 Collector’s Number: 2 U 115
 Faction: Quay
@@ -1256,7 +1298,8 @@ Cost: 4
 Destiny: 1
 Support Cost: 2 Quay
 Game Text: When you play this asset, stack the top card of your opponent’s reserve face up on this asset. Each time a copy of a card stacked on this asset is placed in your opponent’s lost pile from play, your opponent loses 3 energy.
-Lore: Many Quay have a fierce hunger for knowledge, instilled by years of vassalage. They temper their aggression with cunning, and value all information pried from their enemy. ILLUSTRATOR: JIM PAVELEC
+Lore: Many Quay have a fierce hunger for knowledge, instilled by years of vassalage. They temper their aggression with cunning, and value all information pried from their enemy.
+ILLUSTRATOR: JIM PAVELEC
 Title: Fill With Fear
 Collector’s Number: 2 R 123
 Faction: Quay
@@ -1277,7 +1320,8 @@ Power: 2/4
 Tactics: 2/4
 Defense: 2/4
 Game Text: Each time you win a battle here and have no more than one card in your used pile, you may invert this character. /This character is immune to attrition.
-Lore: Takrat uses the fire of kundanaka to burn through even the thickest metalcrete walls. ILLUSTRATOR: JOHN HOWE- COLOR BY KIERAN YANNER
+Lore: Takrat uses the fire of kundanaka to burn through even the thickest metalcrete walls.
+ILLUSTRATOR: JOHN HOWE- COLOR BY KIERAN YANNER
 Title: •Flare of Rage
 Collector’s Number: 2 U 125
 Faction: Quay
@@ -1338,7 +1382,8 @@ Support Cost: 2 Quay
 Power: 5
 Tactics: 3
 Defense: 7
-Game Text: Characters aboard this ship don’t count against its capacity. • Lose 1 energy ≈ Your opponent dismisses a ship here. You may use this ability only during your move phase when you have no more than one card in your used pile. Lore: Karaktika was sent by Sitka to attack the Gongen mining facility on Ganymede. ILLUSTRATOR: JIM PAVELEC
+Game Text: Characters aboard this ship don’t count against its capacity. • Lose 1 energy ≈ Your opponent dismisses a ship here. You may use this ability only during your move phase when you have no more than one card in your used pile. Lore: Karaktika was sent by Sitka to attack the Gongen mining facility on Ganymede.
+ILLUSTRATOR: JIM PAVELEC
 Title: *Katuka
 Collector’s Number: 2 U 131
 Faction: Quay
@@ -1396,7 +1441,8 @@ Power: 2
 Tactics: 1
 Defense: 3
 Game Text: Piloting 1 (As long as this character is aboard a ship, that ship is power +1 and tactics +1.) When this character is destroyed, you may pay 2 energy. If you do, put this character in its owner’s hand.
-Lore: “I have advised our chieftain that we should pursue an alliance with the Tahka.” ILLUSTRATOR: JOHN HOWE- COLOR BY KIERAN YANNER
+Lore: “I have advised our chieftain that we should pursue an alliance with the Tahka.”
+ILLUSTRATOR: JOHN HOWE- COLOR BY KIERAN YANNER
 Title: Ravagers
 Collector’s Number: 2 C 136
 Faction: Quay
@@ -1417,7 +1463,8 @@ Cost: 0
 Destiny: 6
 Support Cost: 3 Quay
 Game Text: As an additional cost to play this interrupt, lose five cards from your hand. Put all of the cards from your used pile in your hand.
-Lore: As Katuka plunged towards the NoBot, her fellow Tahka fought with a newfound fury. ILLUSTRATOR: PHILIPPE‘HPX1’GUYENNE
+Lore: As Katuka plunged towards the NoBot, her fellow Tahka fought with a newfound fury.
+ILLUSTRATOR: PHILIPPE‘HPX1’GUYENNE
 Title: Spineslinger
 Collector’s Number: 2 R 138
 Faction: Quay
@@ -1450,12 +1497,14 @@ Power: 4
 Tactics: 2
 Defense: 5
 Game Text: When this ship enters play at a sector where you have no support icons, you may search your used pile for a card and put it into your hand. If you do, shuffle your used pile.
-Lore: Landing ships deliver dozens of predators planetside to take and hold enemy territory. ILLUSTRATOR: JOE BOULDEN
+Lore: Landing ships deliver dozens of predators planetside to take and hold enemy territory.
+ILLUSTRATOR: JOE BOULDEN
 Title: *Traginium Hoard Collector’s Number: 2 U 141 Faction: Quay
 Card Type: ASSET • Stockpile Cost: 1
 Destiny: 4
 Support Cost: 2 Quay
-Game Text: • Pay 1 energy ≈ If you control three or more battlegrounds and there are fewer than two cards stacked here, your opponent loses 1 energy and stacks that card face down on this asset. You may use this ability only during your control phase. Lore: “It matters not to me what it is for. It only matters that the Shi desire it.” – Sitka ILLUSTRATOR: PHILIPPE‘HPX1’GUYENNE
+Game Text: • Pay 1 energy ≈ If you control three or more battlegrounds and there are fewer than two cards stacked here, your opponent loses 1 energy and stacks that card face down on this asset. You may use this ability only during your control phase. Lore: “It matters not to me what it is for. It only matters that the Shi desire it.” – Sitka
+ILLUSTRATOR: PHILIPPE‘HPX1’GUYENNE
 Title: Construction Bot
 Collector’s Number: 2 C 142 Faction: Independent
 Card Type: CHARACTER • Bot • Unit Cost: 1
@@ -1487,7 +1536,8 @@ Power: 1
 Tactics: 1
 Defense: 1
 Game Text: • Reveal a Quay card from your hand and put it on top of your used pile ≈ Target location gains a [Quay] support icon until end of turn.
-Lore: Quay bots are built for warfare, not servitude. ILLUSTRATOR: JOSHUA theJAMES SHAW
+Lore: Quay bots are built for warfare, not servitude.
+ILLUSTRATOR: JOSHUA theJAMES SHAW
 Title: Long Way Down
 Collector’s Number: 2 R 145
 Faction: Independent
@@ -1533,13 +1583,15 @@ Power: 1
 Tactics: 1
 Defense: 1
 Game Text: • Reveal a Maverick card from your hand and put it on top of your used pile ≈ Target location gains a [Maverick] support icon until end of turn.
-Lore: Mavericks live in bars, and someone – or something – has to serve the drinks. ILLUSTRATOR: JOSHUA theJAMES SHAW
+Lore: Mavericks live in bars, and someone – or something – has to serve the drinks.
+ILLUSTRATOR: JOSHUA theJAMES SHAW
 Title: *Arethusa/Remote Power Plant Collector’s Number: 2 C 150
 Faction: Independent
 Card Type: LOCATION (Sector) • Asteroid Destiny: 0
 Support Cost: 1 Maverick
 Energy: 2/1
-Game Text: As long as a player has an inverted ship here, he or she generates 2 more energy here. ILLUSTRATOR: DANNIS CALERO
+Game Text: As long as a player has an inverted ship here, he or she generates 2 more energy here.
+ILLUSTRATOR: DANNIS CALERO
 Title: Belt/Derelict Freighter Collector’s Number: 2 U 151
 Faction: Independent
 Card Type: LOCATION (Sector) • Station Destiny: 0
@@ -1593,7 +1645,8 @@ Title: *Gongen/Michiyo Shrine Collector’s Number: 2 U 158 Faction: Independent
 Card Type: LOCATION (Site) • Port Destiny: 0
 Support Cost: 1 Gongen
 Energy: 2/1
-Game Text: When you play a NoBot here, it costs 3 less energy to play. Any player may use this ability. ILLUSTRATOR: CHRISTIAN PEARCE
+Game Text: When you play a NoBot here, it costs 3 less energy to play. Any player may use this ability.
+ILLUSTRATOR: CHRISTIAN PEARCE
 Title: Jupiter/Approach Route Collector’s Number: 2 U 159
 Faction: Independent
 Card Type: LOCATION (Sector) • Planet Destiny: 0
@@ -1619,7 +1672,8 @@ Title: *Seyal/Dhanake’s Demesne Collector’s Number: 2 U 162 Faction: Independent
 Card Type: LOCATION (Site) • Port Destiny: 0
 Support Cost: 1 Shi
 Energy: 2/1
-Game Text: Pay 4 energy ≈ Make your target kizen in a battle here immune to attrition until end of turn. Any player may use this ability. ILLUSTRATOR: DAVID DEEN
+Game Text: Pay 4 energy ≈ Make your target kizen in a battle here immune to attrition until end of turn. Any player may use this ability.
+ILLUSTRATOR: DAVID DEEN
 Title: *Venus/Gula Mons Correctional Facility Collector’s Number: 2 U 163
 Faction: Independent
 Card Type: LOCATION (Site)
@@ -1654,7 +1708,8 @@ Power: 7/7
 Tactics: 2/2
 Defense: 5/5
 Game Text: Size 2, Transport 1 • Invert this vehicle ≈ Undamage your target other unit in a site battle here./ Size 2, Transport 1
-Lore: Howler’s command juggernaut has offspec mods the FedGrav designers never dreamed of. ILLUSTRATOR: DENNIS CALERO
+Lore: Howler’s command juggernaut has offspec mods the FedGrav designers never dreamed of.
+ILLUSTRATOR: DENNIS CALERO
 Title: *Killer Cait Grimalkin
 Collector’s Number: 2 PF 2
 Faction: Maverick
@@ -1665,4 +1720,5 @@ Power: 3
 Tactics: 5
 Defense: 4
 Game Text: Piloting 3 (As long as this character is aboard a ship, that ship is power +3 and tactics +3) • Pay 4 energy ≈ If this character is at a sector, your opponent can’t reveal cards for battle destiny during battles at target other sector until end of turn.
-Lore: After all the cards are dealt, Killer Cait on your wing is better than pocket rockets. ILLUSTRATOR: KIERAN YANNER
+Lore: After all the cards are dealt, Killer Cait on your wing is better than pocket rockets.
+ILLUSTRATOR: KIERAN YANNER
