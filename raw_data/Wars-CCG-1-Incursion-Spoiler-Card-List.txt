@@ -167,7 +167,8 @@ Card Type: INTERRUPT (Used)
 Cost: 1
 Destiny: 3
 Support Cost: 1 Earther
-Game Text: You may play this interrupt only during a site battle. You cause attrition +1 in that battle for each of your warriors in that battle. Lore: One gun equals defense. Twenty guns equal victory.
+Game Text: You may play this interrupt only during a site battle. You cause attrition +1 in that battle for each of your warriors in that battle.
+Lore: One gun equals defense. Twenty guns equal victory.
 ILLUSTRATOR: VSHANE
 Title: Disruption
 Collector’s Number: 1 R 16
@@ -222,7 +223,8 @@ Card Type: ASSET (Site)
 Cost: 4
 Destiny: 2
 Support Cost: 1 Earther
-Game Text: You may play this asset beneath one of your opponent’s sites. At the end of the battle destiny step of each battle at a related site, make your battle destiny in that battle +[D]. When your opponent controls this site, dismiss this asset. Lore: Combat gurus vector Earther fighters to ensure that ground troops do not come under fire from above.
+Game Text: You may play this asset beneath one of your opponent’s sites. At the end of the battle destiny step of each battle at a related site, make your battle destiny in that battle +[D]. When your opponent controls this site, dismiss this asset.
+Lore: Combat gurus vector Earther fighters to ensure that ground troops do not come under fire from above.
 ILLUSTRATOR: JOHNKONG
 Title: Fire for Effect
 Collector’s Number: 1 U 21
@@ -247,10 +249,12 @@ ILLUSTRATOR: APRILLEE
 Title: Grade 7 Fluid Laser
 Collector’s Number: 1 U 23
 Faction: Earther
-Card Type: WEAPON (Capital) • Ranged Cost: 2
+Card Type: WEAPON (Capital) • Ranged
+Cost: 2
 Destiny: 2
 Support Cost: 2 Earther
-Game Text: You cause attrition +2 here. • Pay 1 energy ≈ Choose target ship your opponent has in a sector battle here. Damage target if its defense < [D] + the number of capitals you have here. Lore: Among all Earther ships, only the drive system of a capital can meet the power requirements of a Grade 7.
+Game Text: You cause attrition +2 here. • Pay 1 energy ≈ Choose target ship your opponent has in a sector battle here. Damage target if its defense < [D] + the number of capitals you have here.
+Lore: Among all Earther ships, only the drive system of a capital can meet the power requirements of a Grade 7.
 ILLUSTRATOR: CHRISTIANPEARCE
 Title: Grav Operator
 Collector’s Number: 1 U 24
@@ -278,7 +282,9 @@ Defense: 2
 Game Text: Size 2 (This vehicle counts twice against a ship’s capacity.) Transport 1 (Each time this vehicle moves, you may move with it one of your characters.) Pay 4 energy ≈ If this vehicle is in a site battle, make your battle destiny +2 in that battle.
 Lore: Earther infantry is escorted by close support craft. These Blades are able to maneuver quickly and deliver heavy firepower.
 ILLUSTRATOR: CHRISTIAN PEARCE
-Title: Heavy Juggernaut Collector’s Number: 1 U 26 Faction: Earther
+Title: Heavy Juggernaut
+Collector’s Number: 1 U 26
+Faction: Earther
 Card Type: VEHICLE • FedGrav • Unit
 Cost: 3
 Destiny: 1
@@ -302,7 +308,9 @@ Defense: 4
 Game Text: Piloting 3 (As long as this character is aboard a ship, that ship is power +3 and tactics +3.) • Pay 3 energy ≈ This character is immune to attrition until end of turn.
 Lore: Hicks is the leader every Earther wants to be – and everyone else wants to kill. He’s seen a lot of action, and it has made him a stoic and composed commander.
 ILLUSTRATOR: PETERFERGUSON
-Title: •Hostilities Unleashed Collector’s Number: 1 R 28 Faction: Earther
+Title: •Hostilities Unleashed
+Collector’s Number: 1 R 28
+Faction: Earther
 Card Type: INTERRUPT (Lost)
 Cost: 2
 Destiny: 6
@@ -312,7 +320,8 @@ Lore: “Victory belongs to the most persevering.”
 – Napoleon Bonaparte
 ILLUSTRATOR: DENNISCALERO
 Title: *Howler’s Blades
-Collector’s Number: 1 R 29 Faction: Earther
+Collector’s Number: 1 R 29
+Faction: Earther
 Card Type: VEHICLE • FedGrav • Unit
 Cost: 4
 Destiny: 2
@@ -362,7 +371,9 @@ Defense: 4
 Game Text: As long as this character is at a site where you have a character that has tactics >2, this character is power +2.
 Lore: The mantra of officers such as Rayne Leclere: “Those who don’t follow orders are traitors to the cause.”
 ILLUSTRATOR: PAMELINAH
-Title: Infantry Support Vehicle Collector’s Number: 1 C 33 Faction: Earther
+Title: Infantry Support Vehicle
+Collector’s Number: 1 C 33
+Faction: Earther
 Card Type: VEHICLE • FedGrav • Unit
 Cost: 3
 Destiny: 2
@@ -426,11 +437,15 @@ Defense: 3
 Game Text: You cause attrition +1 in each site battle here for each of your units here that has tactics > 2.
 Lore: Jannett Yens is a Level II battle coordinator. She used to carry a rifle – now she tells others where to fire them.
 ILLUSTRATOR: APRILLEE
-Title: LongBow Missile 27-B Collector’s Number: 1 U 38 Faction: Earther
-Card Type: WEAPON (Ship) • Ranged Cost: 1
+Title: LongBow Missile 27-B
+Collector’s Number: 1 U 38
+Faction: Earther
+Card Type: WEAPON (Ship) • Ranged
+Cost: 1
 Destiny: 4
 Support Cost: 1 Earther
-Game Text: You cause attrition +1 here. • Pay 1 energy ≈ Choose target ship your opponent has in a sector battle here. Damage target if its defense < [D] + the number of fighters you have here. Lore: Type IV fighters are equipped with multiple missile ports. LongBows are the standard loadout.
+Game Text: You cause attrition +1 here. • Pay 1 energy ≈ Choose target ship your opponent has in a sector battle here. Damage target if its defense < [D] + the number of fighters you have here.
+Lore: Type IV fighters are equipped with multiple missile ports. LongBows are the standard loadout.
 ILLUSTRATOR: VSHANE
 Title: Luna Garrison Fighter
 Collector’s Number: 1 C 39
@@ -445,7 +460,9 @@ Defense: 5
 Game Text: As long as this ship is at a sector that has "Luna" in its title, this ship is power +2, tactics +1, and defense +2.
 Lore: Luna Garrison pilots operate the first generation of Type IV fighters.
 ILLUSTRATOR: STEPHENCROWE
-Title: Orbital Bombardment Collector’s Number: 1 U 40 Card Type: ASSET (Site)
+Title: Orbital Bombardment
+Collector’s Number: 1 U 40
+Card Type: ASSET (Site)
 Cost: 1
 Destiny: 4
 Faction: Earther
@@ -453,7 +470,9 @@ Support Cost: 2 Earther
 Game Text: You may play this asset beneath one of your opponent’s sites. • Lose 2 energy ≈ Choose target unit in a battle here and target related sector. Damage that unit if its defense < [D] + the total tactics of your ships at that sector.
 Lore: The CGC pays a handsome “bullseye bonus” to iCom for accuracy during orbital bombardments.
 ILLUSTRATOR: CHRISTIAN PEARCE
-Title: Orbital Coverage Collector’s Number: 1 U 41 Faction: Earther
+Title: Orbital Coverage
+Collector’s Number: 1 U 41
+Faction: Earther
 Card Type: ASSET (Sector)
 Cost: 2
 Destiny: 1
@@ -471,7 +490,8 @@ Support Cost: 2 Earther
 Power: 2
 Tactics: 3
 Defense: 3
-Game Text: The first movement targeting this character each turn costs 1 less energy to perform. Lore: Royerk is always the one for the job, no matter the odds.
+Game Text: The first movement targeting this character each turn costs 1 less energy to perform.
+Lore: Royerk is always the one for the job, no matter the odds.
 ILLUSTRATOR: KIERAN YANNER
 Title: Shift in Tactics
 Collector’s Number: 1 R 43
@@ -503,7 +523,9 @@ Support Cost: 2 Earther
 Game Text: As long as this character is at a site, this character gains the ability: “As long as each of your units here is an infiltrator, neither player can attack here.” Pay 3 energy ≈ Put this character in its owner’s hand.
 Lore: A good infiltrator knows when it’s time to find the exit.
 ILLUSTRATOR: KIERANYANNER
-Title: State of Readiness Collector’s Number: 1 U 46 Faction: Earther
+Title: State of Readiness
+Collector’s Number: 1 U 46
+Faction: Earther
 Card Type: INTERRUPT (Used)
 Cost: 1
 Destiny: 2
@@ -511,7 +533,9 @@ Support Cost: 1 Earther
 Game Text: You may play this interrupt only during a battle at a site where you have at least four warriors. Make your battle destiny in that battle +[D].
 Lore: The members of Earth’s cavalry have been trained to operate as one.
 ILLUSTRATOR: ATHENA HUDDLESTON
-Title: Sudden Approach Collector’s Number: 1 U 47 Faction: Earther
+Title: Sudden Approach
+Collector’s Number: 1 U 47
+Faction: Earther
 Card Type: INTERRUPT (Used)
 Cost: 1
 Destiny: 5
@@ -532,7 +556,9 @@ Defense: 8
 Game Text: You cause attrition +1 at each related site.
 Lore: Cruisers are used by Earthers to keep watch for enemy vehicles, as well as for deployment of special operations forces.
 ILLUSTRATOR: JEFFCARLISLE
-Title: •Syndicate Interference Collector’s Number: 1 R 49 Faction: Earther
+Title: •Syndicate Interference
+Collector’s Number: 1 R 49
+Faction: Earther
 Card Type: INTERRUPT (Used)
 Cost: 2
 Destiny: 4
@@ -540,7 +566,9 @@ Support Cost: 1 Earther
 Game Text: For each of your opponent’s units at the site of target pending drain, he or she chooses to pay 1 energy or dismiss that unit.
 Lore: Ivan McCarr’s services are expensive – but some things are worth the price.
 ILLUSTRATOR: MATTIASSNYGG
-Title: Untapped Mettle Collector’s Number: 1 R 50 Faction: Earther
+Title: Untapped Mettle
+Collector’s Number: 1 R 50
+Faction: Earther
 Card Type: ASSET (Kizen)
 Cost: 1
 Destiny: 3
@@ -548,7 +576,9 @@ Support Cost: 2 Earther
 Game Text: You can’t play more than one of this asset beneath the same kizen. Dismiss this asset ≈ Until end of turn, make this kizen power +3 and you cause attrition +2 here.
 Lore: For many, only deadly peril exposes true potential.
 ILLUSTRATOR: JOEBOULDEN
-Title: Untold Power of Visions Collector’s Number: 1 R 51 Faction: Earther
+Title: Untold Power of Visions
+Collector’s Number: 1 R 51
+Faction: Earther
 Card Type: ASSET (Kizen)
 Cost: 0
 Destiny: 6
@@ -608,7 +638,9 @@ Defense: 2
 Game Text: When this character enters play, dismiss a unit here.
 Lore: “The day shall come when our noble cause will become truth. Until then, Earthers must be willing to sacrifice all they have.” – James Howler, 238
 ILLUSTRATOR: WESLEYBURT
-Title: Amorian Shipyard Collector’s Number: 1 R 56 Faction: Gongen
+Title: Amorian Shipyard
+Collector’s Number: 1 R 56
+Faction: Gongen
 Card Type: ASSET
 Cost: 0
 Destiny: 5
@@ -616,7 +648,9 @@ Support Cost: 2 Gongen
 Game Text: Each time one of your fighters is lost from a battle, if there are no cards stacked on this asset, you may stack that fighter on this asset. Pay 2 energy ≈ Play a fighter stacked on this asset at full cost to an asteroid sector. You may use this ability only during your deploy phase.
 Lore: Hidden assets in the Belt provide rapid replenishment to Tenno fighter forces – a threat that the iCom fleet takes very seriously.
 ILLUSTRATOR: DENNISCALERO
-Title: Ancestral Garden Collector’s Number: 1 R 57 Faction: Gongen
+Title: Ancestral Garden
+Collector’s Number: 1 R 57
+Faction: Gongen
 Card Type: ORDER (Lost)
 Cost: 0
 Destiny: 4
@@ -641,7 +675,8 @@ Card Type: WEAPON (Kizen) • Melee
 Cost: 1
 Destiny: 2
 Support Cost: 2 Gongen
-Game Text: This kizen can’t be damaged. • Pay 1 energy ≈ Choose target unit your opponent has in a site battle here. Reveal the top two cards of your reserve, choose one and note its destiny, then put them on top of your used pile in any order. Damage target if its defense < that destiny. Lore: To symbolize the new beginnings, many swords transported from Earth were reforged. Most seem to have picked up a reddish glint, perhaps from the spirit of the planet.
+Game Text: This kizen can’t be damaged. • Pay 1 energy ≈ Choose target unit your opponent has in a site battle here. Reveal the top two cards of your reserve, choose one and note its destiny, then put them on top of your used pile in any order. Damage target if its defense < that destiny.
+Lore: To symbolize the new beginnings, many swords transported from Earth were reforged. Most seem to have picked up a reddish glint, perhaps from the spirit of the planet.
 ILLUSTRATOR: KIERANYANNER
 Title: Chijo Warrior
 Collector’s Number: 1 C 60
@@ -673,9 +708,12 @@ Card Type: ASSET
 Cost: 3
 Destiny: 1
 Support Cost: 1 Gongen
-Game Text: Each time a player’s unit is damaged by an ability of a weapon, if any of that player’s other units is damaged, he or she loses 2 energy. Lore: “We learn little in victory, much in defeat.” – Traditional
+Game Text: Each time a player’s unit is damaged by an ability of a weapon, if any of that player’s other units is damaged, he or she loses 2 energy.
+Lore: “We learn little in victory, much in defeat.” – Traditional
 ILLUSTRATOR: GLENOSTERBERGER
-Title: Dauntless Defense Collector’s Number: 1 C 63 Faction: Gongen
+Title: Dauntless Defense
+Collector’s Number: 1 C 63
+Faction: Gongen
 Card Type: INTERRUPT (Used)
 Cost: 1
 Destiny: 5
@@ -762,7 +800,8 @@ Support Cost: 2 Gongen
 Power: 1
 Tactics: 1
 Defense: 3
-Game Text: You generate 1 more energy here. Lore: Those who excel at coordinating resources are best left unfettered. Masa Akayuke is one of the best.
+Game Text: You generate 1 more energy here.
+Lore: Those who excel at coordinating resources are best left unfettered. Masa Akayuke is one of the best.
 ILLUSTRATOR: KAY ALLEN
 Title: Guardian-Class Carrier
 Collector’s Number: 1 C 71
@@ -777,7 +816,9 @@ Defense: 5
 Game Text: Transport 4 (Each time this ship moves, you may move with it up to four of your fighters.)
 Lore: When accompanied by a fighter group, grav drives ablaze, it evokes the image of an Asian junk alight with hundreds of paper lanterns.
 ILLUSTRATOR: CHRISTIANSCHWAGER
-Title: *Hamon of Ikazuchi Collector’s Number: 1 C 72 Faction: Gongen
+Title: *Hamon of Ikazuchi
+Collector’s Number: 1 C 72
+Faction: Gongen
 Card Type: VEHICLE • Ikazuchi • Unit
 Cost: 4
 Destiny: 4
@@ -801,7 +842,9 @@ Defense: 2
 Game Text: • Lose 2 energy ≈ This character is immune to attrition until end of turn. When this character is lost from a site, retrieve up to three cards.
 Lore: Orochito is a descendent of Higen Shijin, the 21st century philosopher who authored “The Great Journey.”
 ILLUSTRATOR: ERICLOFGREN
-Title: Honorable Death Collector’s Number: 1 U 74 Faction: Gongen
+Title: Honorable Death
+Collector’s Number: 1 U 74
+Faction: Gongen
 Card Type: ASSET
 Cost: 1
 Destiny: 5
@@ -946,7 +989,9 @@ Defense: 1
 Game Text: When this character is lost from a location, you may put target other card from your lost pile on the bottom of your active pile.
 Lore: Though they live on a new world, the people of Gongen value their past.
 ILLUSTRATOR: PAUL BURROW
-Title: Mark of the Kami Collector’s Number: 1 R 86 Faction: Gongen
+Title: Mark of the Kami
+Collector’s Number: 1 R 86
+Faction: Gongen
 Card Type: ASSET (Sector)
 Cost: 2
 Destiny: 0
@@ -984,14 +1029,19 @@ Support Cost: 2 Gongen
 Game Text: You can’t play more than one of this asset beneath the same kizen. • Pay 2 energy ≈ If your opponent’s [D] < this kizen’s tactics, your opponent causes attrition –4 here until end of turn.
 Lore: Acuity in battle is much admired by the kokata units which follow the NoBots. The leaders of such units seem almost unnaturally attuned to the flow of the fight.
 ILLUSTRATOR: MICHELLESPALDING
-Title: NoBot Battle Sword Collector’s Number: 1 R 90 Faction: Gongen
-Card Type: WEAPON (NoBot) • Melee Cost: 1
+Title: NoBot Battle Sword
+Collector’s Number: 1 R 90
+Faction: Gongen
+Card Type: WEAPON (NoBot) • Melee
+Cost: 1
 Destiny: 5
 Support Cost: 1 Gongen
 Game Text: • Pay 6 energy ≈ Damage target unit your opponent has in a site battle here.
 Lore: Their monomolecular edge allow these immense weapons to cut through even the thickest plating.
 ILLUSTRATOR: PAULTOBIN
-Title: Not Easily Taken Collector’s Number: 1 R 91 Faction: Gongen
+Title: Not Easily Taken
+Collector’s Number: 1 R 91
+Faction: Gongen
 Card Type: ASSET (Site)
 Cost: 2
 Destiny: 0
@@ -1042,7 +1092,9 @@ Support Cost: 3 Gongen
 Game Text: Your opponent loses a card at random from his or her hand.
 Lore: Placidity of Chijo encampments is disconcerting to most outsiders, causing them to quake with their own disharmony.
 ILLUSTRATOR: FRANCISTSAI
-Title: Sharper Than Steel Collector’s Number: 1 U 96 Faction: Gongen
+Title: Sharper Than Steel
+Collector’s Number: 1 U 96
+Faction: Gongen
 Card Type: ASSET
 Cost: 5
 Destiny: 2
@@ -1109,7 +1161,8 @@ Support Cost: 2 Gongen
 Power: 2
 Tactics: 2
 Defense: 3
-Game Text: When this character enters play at a site where you have a bot, you may retrieve a card. Lore: Shikami warriors are the deadliest of sword masters. It is said that they can cut the courage from your soul.
+Game Text: When this character enters play at a site where you have a bot, you may retrieve a card.
+Lore: Shikami warriors are the deadliest of sword masters. It is said that they can cut the courage from your soul.
 ILLUSTRATOR: CHRISTIANPEARCE
 Title: Sniffed Out
 Collector’s Number: 1 U 102
@@ -1140,7 +1193,9 @@ Destiny: 6
 Support Cost: 1 Gongen
 Game Text: Target pending ship can’t move until end of turn.
 Lore: The Gongen A.I. wastes little time in responding to threats to its people. Tenno assets are ever at its disposal.
-Title: T.S.V. Command Post Collector’s Number: 1 U 105 Faction: Gongen
+Title: T.S.V. Command Post
+Collector’s Number: 1 U 105
+Faction: Gongen
 Card Type: VEHICLE • Shikami • Unit
 Cost: 2
 Destiny: 1
@@ -1212,9 +1267,12 @@ Support Cost: 2 Gongen
 Power: 2
 Tactics: 2
 Defense: 4
-Game Text: As long as you have at least two other Gongen fighers here, this ship is power +1. Lore: Zocho’s tactical matrix allows the fighters assigned to I tto perform an elaborate and deadly dance.
+Game Text: As long as you have at least two other Gongen fighers here, this ship is power +1.
+Lore: Zocho’s tactical matrix allows the fighters assigned to I tto perform an elaborate and deadly dance.
 ILLUSTRATOR: ROBBURNS
-Title: *Accord Negotiation Collector’s Number: 1 R 111 Faction: Maverick
+Title: *Accord Negotiation
+Collector’s Number: 1 R 111
+Faction: Maverick
 Card Type: ASSET (Site)
 Cost: 2
 Destiny: 6
@@ -1258,7 +1316,8 @@ Support Cost: 2 Maverick
 Power: 4
 Tactics: 2
 Defense: 6
-Game Text: Size 3, Transport 2 Each time you reveal a card for battle destiny during a site battle here, you may pay 1 energy. If you do, make that card’s destiny +1. You may change no more than one card’s destiny using this ability each turn. Lore: Preferred by the Cogs, its DynSep hover pads are specially tuned to the harsh terrain in the Outer Rim.
+Game Text: Size 3, Transport 2 Each time you reveal a card for battle destiny during a site battle here, you may pay 1 energy. If you do, make that card’s destiny +1. You may change no more than one card’s destiny using this ability each turn.
+Lore: Preferred by the Cogs, its DynSep hover pads are specially tuned to the harsh terrain in the Outer Rim.
 ILLUSTRATOR: SEAN McNALLY
 Title: Cartel Legate
 Collector’s Number: 1 R 115
@@ -1280,18 +1339,24 @@ Card Type: INTERRUPT (Used)
 Cost: 1
 Destiny: 5
 Support Cost: 1 Maverick
-Game Text: Target pending unit doesn’t add its power to a player’s total power until end of turn. Lore: Worse than getting into a fistfight with a Quay is getting into a game of chicken with a Cog driver.
+Game Text: Target pending unit doesn’t add its power to a player’s total power until end of turn.
+Lore: Worse than getting into a fistfight with a Quay is getting into a game of chicken with a Cog driver.
 ILLUSTRATOR: JOHN KONG
 Title: Clanton Grav Grenade
 Collector’s Number: 1 R 117
 Faction: Maverick
-Card Type: WEAPON (Character) • Explosive Cost: 1
+Card Type: WEAPON (Character) • Explosive
+Cost: 1
 Destiny: 5
 Support Cost: 1 Maverick
-Game Text: Dismiss this weapon ≈ Damage each unit in a site battle here that has defense < [D]. Lore: This is what happens when you reverse the red wire and the blue wire on a grav engine.
+Game Text: Dismiss this weapon ≈ Damage each unit in a site battle here that has defense < [D].
+Lore: This is what happens when you reverse the red wire and the blue wire on a grav engine.
 ILLUSTRATOR: KIERAN YANNER
-Title: Clanton Rev I Missile Collector’s Number: 1 U 118 Faction: Maverick
-Card Type: WEAPON (Ship) • Ranged Cost: 0
+Title: Clanton Rev I Missile
+Collector’s Number: 1 U 118
+Faction: Maverick
+Card Type: WEAPON (Ship) • Ranged
+Cost: 0
 Destiny: 4
 Support Cost: 1 Maverick
 Game Text: • Pay 1 energy ≈ Choose target ship your opponent has in a sector battle here. If target’s defense < [D], damage it and retrieve a card.
@@ -1307,15 +1372,18 @@ Support Cost: 2 Maverick
 Power: 5
 Tactics: 4
 Defense: 6
-Game Text: Size 3, Transport 2 Each time you win a site battle here that has exactly 7 casualties, your opponent loses three cards from his or her hand. Lore: More than one armed force has been overcome a swarm of “skippers” slipping from the clouds.
+Game Text: Size 3, Transport 2 Each time you win a site battle here that has exactly 7 casualties, your opponent loses three cards from his or her hand.
+Lore: More than one armed force has been overcome a swarm of “skippers” slipping from the clouds.
 ILLUSTRATOR: LORINWOOD
 Title: Colt-Burton MK. 412
 Collector’s Number: 1 U 120
 Faction: Maverick
-Card Type: WEAPON (Character) • Ranged Cost: 1
+Card Type: WEAPON (Character) • Ranged
+Cost: 1
 Destiny: 2
 Support Cost: 3 Maverick
-Game Text: • Pay 3 energy ≈ Choose target unit your opponent has in a site battle here. If target’s defense < [D], destroy it and put the card you revealed for destiny on top of your reserve. Lore: Typical high-caliber sidearm – half the Rim has a gun like this jammed in their belts.
+Game Text: • Pay 3 energy ≈ Choose target unit your opponent has in a site battle here. If target’s defense < [D], destroy it and put the card you revealed for destiny on top of your reserve.
+Lore: Typical high-caliber sidearm – half the Rim has a gun like this jammed in their belts.
 ILLUSTRATOR: JOE BOULDEN
 Title: Dubious Contact
 Collector’s Number: 1 C 121
@@ -1380,7 +1448,8 @@ Support Cost: 2 Maverick
 Power: 5
 Tactics: 3
 Defense: 9
-Game Text: Size 3 Each time your opponent reveals a card for battle destiny during a site battle here, you may pay 1 energy. If you do, make that card’s destiny –1. You may change no more than one card’s destiny using this ability each turn. Lore: Not really a missile launcher, more a bashed- together, high-tech catapult; but deadly with the velocities it can produce.
+Game Text: Size 3 Each time your opponent reveals a card for battle destiny during a site battle here, you may pay 1 energy. If you do, make that card’s destiny –1. You may change no more than one card’s destiny using this ability each turn.
+Lore: Not really a missile launcher, more a bashed- together, high-tech catapult; but deadly with the velocities it can produce.
 ILLUSTRATOR: SEANMcNALLY
 Title: Fuel Theft
 Collector’s Number: 1 C 127
@@ -1402,7 +1471,8 @@ Support Cost: 3 Maverick
 Power: 1
 Tactics: 1
 Defense: 3
-Game Text: When this character enters play, you may draw up to [D] cards from your reserve. Lore: Repairs. Upgrades. Reprogramming. Nothing is more reliable than a Nav4.
+Game Text: When this character enters play, you may draw up to [D] cards from your reserve.
+Lore: Repairs. Upgrades. Reprogramming. Nothing is more reliable than a Nav4.
 ILLUSTRATOR: CHRISTIANSCHWAGER
 Title: Haggard Hulk
 Collector’s Number: 1 U 129
@@ -1417,7 +1487,9 @@ Defense: 3/1
 Game Text: Scouting (You may play this ship at a sector that has no energy icons on your side.) Pay 3 energy ≈ Invert this ship.
 Lore: Unless you’re at a rally, looks don’t really matter.
 ILLUSTRATOR: LORINWOOD
-Title: Harried and Harassed Collector’s Number: 1 R 130 Faction: Maverick
+Title: Harried and Harassed
+Collector’s Number: 1 R 130
+Faction: Maverick
 Card Type: INTERRUPT (Lost)
 Cost: 0
 Destiny: 5
@@ -1480,10 +1552,12 @@ ILLUSTRATOR: rkpost
 Title: M44 Heavy Plasma Gun
 Collector’s Number: 1 R 135
 Faction: Maverick
-Card Type: WEAPON (Character) • Ranged Cost: 1
+Card Type: WEAPON (Character) • Ranged
+Cost: 1
 Destiny: 2
 Support Cost: 3 Maverick
-Game Text: • Pay 1 energy ≈ Choose target unit your opponent has in a site battle here. Damage target if its defense < [D]. • Pay 3 energy ≈ Choose target damaged unit your opponent has in a site battle here. Destroy target if its defense < [D]. Lore: A CGC weapon designed in 2248. Thousands were surplussed and found their way to the Rim when Earther grunts were outfitted with F.L.I.C.s.
+Game Text: • Pay 1 energy ≈ Choose target unit your opponent has in a site battle here. Damage target if its defense < [D]. • Pay 3 energy ≈ Choose target damaged unit your opponent has in a site battle here. Destroy target if its defense < [D].
+Lore: A CGC weapon designed in 2248. Thousands were surplussed and found their way to the Rim when Earther grunts were outfitted with F.L.I.C.s.
 ILLUSTRATOR: ZACHLITTLE
 Title: Mechanic’s Grip
 Collector’s Number: 1 R 136
@@ -1492,7 +1566,8 @@ Card Type: ORDER (Used)
 Cost: 1
 Destiny: 5
 Support Cost: 1 Maverick
-Game Text: Reveal the bottom card of your reserve, note its destiny, and put it on top of your used pile. If its destiny = [D], you may play a card. If you do, that card costs 6 less energy to play. Lore: It’s not cheating if it holds together.
+Game Text: Reveal the bottom card of your reserve, note its destiny, and put it on top of your used pile. If its destiny = [D], you may play a card. If you do, that card costs 6 less energy to play.
+Lore: It’s not cheating if it holds together.
 ILLUSTRATOR: MICHELLESPALDING
 Title: Mercurial
 Collector’s Number: 1 R 137
@@ -1592,7 +1667,9 @@ Defense: 4/4
 Game Text: At the end of each battle you've won here, you may pay 1 energy. If you do, invert this ship.
 Lore: One reason Mav pilots are always tinkering with their ships is to make sure they’re faster than local law enforcement.
 ILLUSTRATOR: LORINWOOD
-Title: Price of the Game Collector’s Number: 1 U 145 Faction: Maverick
+Title: Price of the Game
+Collector’s Number: 1 U 145
+Faction: Maverick
 Card Type: ASSET
 Cost: 1
 Destiny: 5
@@ -1686,7 +1763,8 @@ LORIN WOOD
 Title: Spassky Quickfire II
 Collector’s Number: 1 C 153
 Faction: Maverick
-Card Type: WEAPON (Character) • Ranged Cost: 0
+Card Type: WEAPON (Character) • Ranged
+Cost: 0
 Destiny: 5
 Support Cost: 1 Maverick
 Game Text: • Pay 1 energy ≈ Choose target unit your opponent has in a site battle here. Damage target if its defense < [D] + 1.
@@ -1699,7 +1777,8 @@ Card Type: INTERRUPT (Lost)
 Cost: 3
 Destiny: 3
 Support Cost: 2 Maverick
-Game Text: Draw [D] cards from your reserve. Lore: Sprinkle took the package from the merchant’s wrinkled hand and grinned. “Let’s make this one a little more interesting.”
+Game Text: Draw [D] cards from your reserve.
+Lore: Sprinkle took the package from the merchant’s wrinkled hand and grinned. “Let’s make this one a little more interesting.”
 ILLUSTRATOR: KIERANYANNER
 Title: *Starhawk
 Collector’s Number: 1 U 155
@@ -1770,7 +1849,8 @@ Card Type: INTERRUPT (Used)
 Cost: 1
 Destiny: 6
 Support Cost: 1 Maverick
-Game Text: You may only play this interrupt if you’ve won a battle this turn. Your opponent reveals two cards from his or her hand, then puts them on top of his or her reserve pile in any order. Lore: If the Mavs can’t win it in battle on Ganymede, they can jack it from a transport near Io.
+Game Text: You may only play this interrupt if you’ve won a battle this turn. Your opponent reveals two cards from his or her hand, then puts them on top of his or her reserve pile in any order.
+Lore: If the Mavs can’t win it in battle on Ganymede, they can jack it from a transport near Io.
 ILLUSTRATOR: LIZDANFORTH
 Title: Trumped
 Collector’s Number: 1 U 161
@@ -1860,10 +1940,12 @@ ILLUSTRATOR: ALICE DUKE
 Title: Assailing Vatarma
 Collector’s Number: 1 C 168
 Faction: Shi
-Card Type: WEAPON (Character) • Melee • Ranged Cost: 0
+Card Type: WEAPON (Character) • Melee • Ranged
+Cost: 0
 Destiny: 6
 Support Cost: 1 Shi
-Game Text: • Put a card from your hand on top of your used pile ≈ Your opponent chooses one of his or her units in a site battle here and damages it, unless he or she puts two cards from his or her hand on top of his or her used pile in any order. Lore: Seyalshi duels are expected to be bloody. They wouldn’t be entertaining otherwise.
+Game Text: • Put a card from your hand on top of your used pile ≈ Your opponent chooses one of his or her units in a site battle here and damages it, unless he or she puts two cards from his or her hand on top of his or her used pile in any order.
+Lore: Seyalshi duels are expected to be bloody. They wouldn’t be entertaining otherwise.
 ILLUSTRATOR: JOEBOULDEN
 Title: Brief Encounter
 Collector’s Number: 1 U 169
@@ -1872,7 +1954,8 @@ Card Type: INTERRUPT (Used)
 Cost: 0
 Destiny: 5
 Support Cost: 1 Shi
-Game Text: Target pending ship doesn’t add its power to a player’s total power until end of turn. Lore: A single quarrel can hold a squadron at bay.
+Game Text: Target pending ship doesn’t add its power to a player’s total power until end of turn.
+Lore: A single quarrel can hold a squadron at bay.
 ILLUSTRATOR: CORTNEY SKINNER
 Title: Celebrated
 Collector’s Number: 1 R 170
@@ -1884,7 +1967,9 @@ Support Cost: 2 Shi
 Game Text: You can’t play more than one of this asset beneath the same kizen. As long as you’ve won a battle since this asset entered play, this kizen is power +6.
 Lore: Kizen are revered within the Shi culture. They have proven worthy of such high praise.
 ILLUSTRATOR: TOBIASBRENNER
-Title: *Cerebral Incursion Collector’s Number: 1 R 171 Faction: Shi
+Title: *Cerebral Incursion
+Collector’s Number: 1 R 171
+Faction: Shi
 Card Type: ASSET (Kizen)
 Cost: 0
 Destiny: 6
@@ -1951,10 +2036,12 @@ ILLUSTRATOR: ROBBURNS
 Title: Daunting Vatarma
 Collector’s Number: 1 U 177
 Faction: Shi
-Card Type: WEAPON (Character) • Melee • Ranged Cost: 2
+Card Type: WEAPON (Character) • Melee • Ranged
+Cost: 2
 Destiny: 1
 Support Cost: 2 Shi
-Game Text: • Reveal two cards from your hand that have matching destinies and put them on top of your used pile in any order ≈ Choose target unit your opponent has in a site battle here. Destroy it unless your opponent reveals two cards that have matching destinies from his or her hand and puts them on top of his or her used pile in any order. Lore: The Seyalshi are not hesitant to show the true power of their staffs to their enemies.
+Game Text: • Reveal two cards from your hand that have matching destinies and put them on top of your used pile in any order ≈ Choose target unit your opponent has in a site battle here. Destroy it unless your opponent reveals two cards that have matching destinies from his or her hand and puts them on top of his or her used pile in any order.
+Lore: The Seyalshi are not hesitant to show the true power of their staffs to their enemies.
 ILLUSTRATOR: JOEBOULDEN
 Title: *Devanar-Damir
 Collector’s Number: 1 U 178
@@ -1971,9 +2058,11 @@ Lore: Devanar’s interrogation skills are well known to the Quay.
 ILLUSTRATOR: SEAN MURRAY
 Title: Duress Vatarma
 Collector’s Number: 1 U 179
-Card Type: WEAPON (Character) • Melee • Ranged Cost: 1
+Card Type: WEAPON (Character) • Melee • Ranged
+Cost: 1
 Destiny: 1
-Faction: Shi Support Cost: 1 Shi
+Faction: Shi
+Support Cost: 1 Shi
 Game Text: • Pay 1 energy ≈ Damage target unit your opponent has in a site battle here that has defense < this character’s tactics, unless your opponent reveals a card from his or her hand that hasdestiny>3andputsitontopofhisorher used pile.
 Lore: A single burst from a vatarma will incapacitate most known creatures.
 ILLUSTRATOR: KIERAN YANNER
@@ -1984,7 +2073,8 @@ Card Type: INTERRUPT (Lost)
 Cost: 0
 Destiny: 6
 Support Cost: 1 Shi
-Game Text: Choose target character in a site battle where you have a character that has a weapon beneath it. Until end of turn, make target power –3 and defense –3, and its tactics aren’t added to a player’s total tactics during a battle. Lore: Compared to dueling a fellow Shi, most human opponents offer little challenge.
+Game Text: Choose target character in a site battle where you have a character that has a weapon beneath it. Until end of turn, make target power –3 and defense –3, and its tactics aren’t added to a player’s total tactics during a battle.
+Lore: Compared to dueling a fellow Shi, most human opponents offer little challenge.
 ILLUSTRATOR: ERIC LOFGREN
 Title: Energy Conduit
 Collector’s Number: 1 R 181
@@ -2006,7 +2096,9 @@ Support Cost: 1 Shi
 Game Text: You may play this interrupt only during a battle, after the loss step. Put target damaged character you have in that battle on top of its owner’s used pile.
 Lore: Panacea technology awaits to heal the scars of battle.
 ILLUSTRATOR: ERICLOFGREN
-Title: For the Glory of Seyal Collector’s Number: 1 R 183 Faction: Shi
+Title: For the Glory of Seyal
+Collector’s Number: 1 R 183
+Faction: Shi
 Card Type: ASSET (Site)
 Cost: 2
 Destiny: 4
@@ -2037,12 +2129,15 @@ Support Cost: 1 Shi
 Game Text: You may play this asset beneath one of your opponent’s characters. This character is power –1, tactics –1, and defense –1.
 Lore: “The only good Quay is a captive Quay.”– Purana
 ILLUSTRATOR: ERIC LOFGREN
-Title: Indiscriminate Strike Collector’s Number: 1 R 186 Faction: Shi
+Title: Indiscriminate Strike
+Collector’s Number: 1 R 186
+Faction: Shi
 Card Type: ASSET (Kizen)
 Cost: 0
 Destiny: 6
 Support Cost: 2 Shi
-Game Text: You can’t play more than one of this asset beneath the same kizen. This kizen is power +2. Each time a unit is targeted by an activated ability of a weapon beneath this kizen, make that unit power –3 and defense –3 until end of turn. Lore: Target discretion is not a skill prized by the Shi.
+Game Text: You can’t play more than one of this asset beneath the same kizen. This kizen is power +2. Each time a unit is targeted by an activated ability of a weapon beneath this kizen, make that unit power –3 and defense –3 until end of turn.
+Lore: Target discretion is not a skill prized by the Shi.
 ILLUSTRATOR: JOHN MORIARTY
 Title: •Introversion
 Collector’s Number: 1 R 187
@@ -2080,7 +2175,9 @@ Defense: 2
 Game Text: As long as you have another kizen here, this character is power +2.
 Lore: Travellers among the Tilak family are often tasked with guarding the most sacred Shi locations.
 ILLUSTRATOR: JEREMYMcHUGH
-Title: Martial Interrogation Collector’s Number: 1 C 190 Faction: Shi
+Title: Martial Interrogation
+Collector’s Number: 1 C 190
+Faction: Shi
 Card Type: INTERRUPT (Used)
 Cost: 2
 Destiny: 2
@@ -2098,7 +2195,9 @@ Support Cost: 2 Shi
 Game Text: This character is tactics +2, a kizen, and immune to attrition.
 Lore: When it is time, the chosen ones will bask in the glow of the rift.
 ILLUSTRATOR: ROBBURNS
-Title: Ominous Presence Collector’s Number: 1 R 192 Faction: Shi
+Title: Ominous Presence
+Collector’s Number: 1 R 192
+Faction: Shi
 Card Type: ASSET (Kizen)
 Cost: 0
 Destiny: 3
@@ -2132,7 +2231,9 @@ Defense: 3
 Game Text: As long as this character is at a site, your opponent causes attrition -1 here for each [Shi] support icon on a related location.
 Lore: Shi medical technology is far superior to that of their adversaries. It is this which perpetuates the rumors of immortality.
 ILLUSTRATOR: MARIANNEPLUMRIDGE
-Title: Premeditated Reaction Collector’s Number: 1 R 195 Faction: Shi
+Title: Premeditated Reaction
+Collector’s Number: 1 R 195
+Faction: Shi
 Card Type: ASSET (Kizen)
 Cost: 0
 Destiny: 2
@@ -2150,9 +2251,12 @@ Support Cost: 3 Shi
 Power: 4
 Tactics: 3
 Defense: 5
-Game Text: • Dismiss one of your other units here ≈ This character is immune to attrition until end of turn. Dismiss two of your other characters here ≈ Damage target character in a site battle here. Lore: The Vishal family has provided military expertisefor millennia. They are elite warriors among the Seyalshi.
+Game Text: • Dismiss one of your other units here ≈ This character is immune to attrition until end of turn. Dismiss two of your other characters here ≈ Damage target character in a site battle here.
+Lore: The Vishal family has provided military expertisefor millennia. They are elite warriors among the Seyalshi.
 ILLUSTRATOR: KAY ALLEN
-Title: Pursuit Just Behind Collector’s Number: 1 U 197 Faction: Shi
+Title: Pursuit Just Behind
+Collector’s Number: 1 U 197
+Faction: Shi
 Card Type: ORDER (Lost)
 Cost: 0
 Destiny: 6
@@ -2163,7 +2267,8 @@ ILLUSTRATOR: ROBBURNS
 Title: Quarrel Energy Burst
 Collector’s Number: 1 U 198
 Faction: Shi
-Card Type: WEAPON (Fighter) • Ranged Cost: 2
+Card Type: WEAPON (Fighter) • Ranged
+Cost: 2
 Destiny: 1
 Support Cost: 2 Shi
 Game Text: • Reveal a ship from your hand and put it on top of your used pile ≈ Your opponent chooses one of his or her ships in a sector battle here and destroys it, unless he or she reveals a ship from his or her hand and puts it on top of his or her used pile.
@@ -2179,7 +2284,8 @@ Support Cost: 2 Shi
 Power: 3
 Tactics: 3
 Defense: 4
-Game Text: Scouting (You may play this character at a site that has no energy icons on your side.) Each time your opponent drains at an adjacent site, you may put this character on top of its owner’s used pile. If you do, cancel that drain. Lore: Through the advancement of their rift technology, the Seyalshi are able to refine their reconnaissance skills.
+Game Text: Scouting (You may play this character at a site that has no energy icons on your side.) Each time your opponent drains at an adjacent site, you may put this character on top of its owner’s used pile. If you do, cancel that drain.
+Lore: Through the advancement of their rift technology, the Seyalshi are able to refine their reconnaissance skills.
 ILLUSTRATOR: CHRISAPPEL
 Title: Reliable Quarrel
 Collector’s Number: 1 R 200
@@ -2289,7 +2395,8 @@ Support Cost: 1 Shi
 Power: 3
 Tactics: 1
 Defense: 6
-Game Text: As long as this ship is at a sector that has "Seyal" in its title, this ship is power +2. Lore: The Shi are protective of their assets, especially those envied by their enemies.
+Game Text: As long as this ship is at a sector that has "Seyal" in its title, this ship is power +2.
+Lore: The Shi are protective of their assets, especially those envied by their enemies.
 ILLUSTRATOR: ROBBURNS
 Title: Sudeva Warrior
 Collector’s Number: 1 U 209
@@ -2389,7 +2496,8 @@ Support Cost: 2 Shi
 Power: 3
 Tactics: 1
 Defense: 6
-Game Text: As long as you have no other ships here, this ship is tactics +3 and defense +3. Lore: Vishal’s fighters are maneuverable, even through the most crowded of asteroid fields.
+Game Text: As long as you have no other ships here, this ship is tactics +3 and defense +3.
+Lore: Vishal’s fighters are maneuverable, even through the most crowded of asteroid fields.
 ILLUSTRATOR: ROBBURNS
 Title: Vishal Scout
 Collector’s Number: 1 U 217
@@ -2401,18 +2509,22 @@ Support Cost: 1 Shi
 Power: 1
 Tactics: 2
 Defense: 2
-Game Text: Scouting (You may play this character at a site that has no energy icons on your side.) Lore: Scouts are dispatched throughout the Solar System to gather information for Seyalshi commanders.
+Game Text: Scouting (You may play this character at a site that has no energy icons on your side.)
+Lore: Scouts are dispatched throughout the Solar System to gather information for Seyalshi commanders.
 ILLUSTRATOR: KIERANYANNER
 Title: Vishal Vatarma
 Collector’s Number: 1 U 218
 Faction: Shi
-Card Type: WEAPON (Character) • Melee • Ranged Cost: 0
+Card Type: WEAPON (Character) • Melee • Ranged
+Cost: 0
 Destiny: 1
 Support Cost: 1 Shi
 Game Text: • Reveal a card from your hand, note its destiny, and put it on top of your used pile ≈ Choose target unit your opponent has in a site battle here. Damage it unless your opponent reveals a card that has a higher destiny from his or her hand.
 Lore: Receiving a vatarma from an elder marks the right of passage for a Shi warrior.
 ILLUSTRATOR: JOEBOULDEN
-Title: Well-concealed Charge Collector’s Number: 1 C 219 Card Type: ASSET (Location)
+Title: Well-concealed Charge
+Collector’s Number: 1 C 219
+Card Type: ASSET (Location)
 Cost: 0
 Destiny: 6
 Faction: Shi
@@ -2420,7 +2532,9 @@ Support Cost: 2 Shi
 Game Text: You may play this asset beneath one of your opponent’s locations. • Pay 3 energy ≈ Make your total power here +4 until end of turn. When your opponent controls this location, dismiss this asset.
 Lore: The Shi are always finding new and inventive ways to torment their enemies.
 ILLUSTRATOR: JENNIFERRODGERS
-Title: •Abominable Presence Collector’s Number: 1 U 220 Faction: Quay
+Title: •Abominable Presence
+Collector’s Number: 1 U 220
+Faction: Quay
 Card Type: INTERRUPT (Used)
 Cost: 0
 Destiny: 3
@@ -2517,7 +2631,9 @@ Support Cost: 3 Quay
 Game Text: You can’t play more than one of this asset beneath the same kizen. • Damage a character you have in a site battle here ≈ Activate energy equal to twice its energy cost.
 Lore: Kulak touched the dying Quay, and drew forth what was left of the life-energy. He glowered at the enemy, and his warriors roared once again into the fray, renewed.
 ILLUSTRATOR: JENNIFERRODGERS
-Title: Defensive Position Collector’s Number: 1 U 229 Faction: Quay
+Title: Defensive Position
+Collector’s Number: 1 U 229
+Faction: Quay
 Card Type: ASSET (Site)
 Cost: 3
 Destiny: 1
@@ -2565,7 +2681,8 @@ Card Type: INTERRUPT (Lost)
 Cost: 2
 Destiny: 2
 Support Cost: 1 Quay
-Game Text: Play an inverter character at full cost. Lore: “Excuses interest me not. Your last order is to summon the Luhus. They will see this resistance eliminated.” – Kulak
+Game Text: Play an inverter character at full cost.
+Lore: “Excuses interest me not. Your last order is to summon the Luhus. They will see this resistance eliminated.” – Kulak
 ILLUSTRATOR: MICHAEL PHILLIPPI
 Title: Hounded
 Collector’s Number: 1 R 234
@@ -2574,7 +2691,8 @@ Card Type: INTERRUPT (Lost)
 Cost: 4
 Destiny: 5
 Support Cost: 2 Quay
-Game Text: The next time one of your characters moves to a site this turn, destroy target unit at that site if its power < that character’s power. Lore: “There... did you hear that? I swear that was a scuttling noise...” – Short-lived Gongen guard
+Game Text: The next time one of your characters moves to a site this turn, destroy target unit at that site if its power < that character’s power.
+Lore: “There... did you hear that? I swear that was a scuttling noise...” – Short-lived Gongen guard
 ILLUSTRATOR: BRITT MARTIN
 Title: Ilna Hekaton
 Collector’s Number: 1 C 235
@@ -2648,7 +2766,8 @@ Support Cost: 2 Quay
 Power: 0
 Tactics: 2
 Defense: 4
-Game Text: This character is power +X, where X is the power of the highest power character here. Lore: Renowned in Makal legends, the Kucha are martial shamans who can call upon bottomless reserves of strength.
+Game Text: This character is power +X, where X is the power of the highest power character here.
+Lore: Renowned in Makal legends, the Kucha are martial shamans who can call upon bottomless reserves of strength.
 ILLUSTRATOR: SEANMURRAY
 Title: *Kulak
 Collector’s Number: 1 R 241
@@ -2673,7 +2792,8 @@ Support Cost: 2 Quay
 Power: 1
 Tactics: 1
 Defense: 5
-Game Text: You cause attrition +1 in each site battlehereforeachofyourinvertedunitshere. Lore: Rauskatak earned his command by replacing his fallen chief and leading the troops to capture a Seyalshi transport.
+Game Text: You cause attrition +1 in each site battlehereforeachofyourinvertedunitshere.
+Lore: Rauskatak earned his command by replacing his fallen chief and leading the troops to capture a Seyalshi transport.
 ILLUSTRATOR: JAMES RYMAN
 Title: Luhus Dalaka
 Collector’s Number: 1 C 243
@@ -2757,7 +2877,8 @@ Support Cost: 2 Quay
 Power: 4
 Tactics: 3
 Defense: 8
-Game Text: Characters aboard this ship don’t count against its capacity. Each unit your opponent plays at a related site costs 1 more energy to play. Lore: The largest ship in the Quay fleet was the first to enter the Solar System.
+Game Text: Characters aboard this ship don’t count against its capacity. Each unit your opponent plays at a related site costs 1 more energy to play.
+Lore: The largest ship in the Quay fleet was the first to enter the Solar System.
 ILLUSTRATOR: ROBBURNS
 Title: Natural Talent
 Collector’s Number: 1 U 250
@@ -2766,7 +2887,8 @@ Card Type: ASSET (Site)
 Cost: 0
 Destiny: 5
 Support Cost: 2 Quay
-Game Text: You may play this asset beneath one of your opponent’s sites. You can’t play more than one of this asset beneath the same site. Each of your opponent’s units here is tactics –1. When your opponent controls this site, dismiss this asset. Lore: Using terrain to their advantage, Quay create cover for themselves with their burrowing capabilities. It seems as if they become one with rock and stone.
+Game Text: You may play this asset beneath one of your opponent’s sites. You can’t play more than one of this asset beneath the same site. Each of your opponent’s units here is tactics –1. When your opponent controls this site, dismiss this asset.
+Lore: Using terrain to their advantage, Quay create cover for themselves with their burrowing capabilities. It seems as if they become one with rock and stone.
 ILLUSTRATOR: KIERAN YANNER
 Title: Portent
 Collector’s Number: 1 R 251
@@ -2788,7 +2910,8 @@ Support Cost: 1 Quay
 Power: 1
 Tactics: 2
 Defense: 3
-Game Text: Piloting 1 (As long as this character is aboard a ship, that ship is power +1 and tactics +1.) Each time your opponent drains at a related location, you may put this character on top of its owner’s used pile. If you do, cancel that drain. Lore: Qantana, like most Quay pilots, uses his ships as he uses his own armored physique – with fierce, reckless abandon.
+Game Text: Piloting 1 (As long as this character is aboard a ship, that ship is power +1 and tactics +1.) Each time your opponent drains at a related location, you may put this character on top of its owner’s used pile. If you do, cancel that drain.
+Lore: Qantana, like most Quay pilots, uses his ships as he uses his own armored physique – with fierce, reckless abandon.
 ILLUSTRATOR: JOHN HOWE; COLOR: MATTIAS SNYGG
 Title: Qurim Ahmak
 Collector’s Number: 1 R 253
@@ -2836,7 +2959,8 @@ Support Cost: 2 Quay
 Power: 2
 Tactics: 1
 Defense: 3
-Game Text: As long as this character is at a site, each character here that has piloting is defense -2. Lore: “A warrior understands an opponent’s weakness, a predator exploits it for a quick death.” – Qurim tribe training maxim
+Game Text: As long as this character is at a site, each character here that has piloting is defense -2.
+Lore: “A warrior understands an opponent’s weakness, a predator exploits it for a quick death.” – Qurim tribe training maxim
 ILLUSTRATOR: ERIC DESCHAMPS
 Title: Rally Cry
 Collector’s Number: 1 C 257
@@ -2855,7 +2979,8 @@ Card Type: INTERRUPT (Lost)
 Cost: 0
 Destiny: 6
 Support Cost: 3 Quay
-Game Text: You may play this interrupt only during your control phase. Your opponent loses 1 energy for each battleground location you control. Lore: Stand not between a Quay and his prize.
+Game Text: You may play this interrupt only during your control phase. Your opponent loses 1 energy for each battleground location you control.
+Lore: Stand not between a Quay and his prize.
 ILLUSTRATOR: MICHAEL PHILLIPPI
 Title: Recovery
 Collector’s Number: 1 R 259
@@ -2910,7 +3035,8 @@ Support Cost: 3 Quay
 Power: 0
 Tactics: 6
 Defense: 0
-Game Text: • Put two cards from your hand on top of your used pile in any order ≈ This character is immune to attrition until end of turn. Your total power in each site battle here is –4. When this character is lost from a site, your opponent loses 1 energy for each of his or her units at that site. Lore: A brilliant strategist, Sitka convinced the tribe leaders to take the life ships through the rift. Even in defeat, she is rarely outmaneuvered.
+Game Text: • Put two cards from your hand on top of your used pile in any order ≈ This character is immune to attrition until end of turn. Your total power in each site battle here is –4. When this character is lost from a site, your opponent loses 1 energy for each of his or her units at that site.
+Lore: A brilliant strategist, Sitka convinced the tribe leaders to take the life ships through the rift. Even in defeat, she is rarely outmaneuvered.
 ILLUSTRATOR: MATTIASSNYGG
 Title: Sitkatika Hekaton
 Collector’s Number: 1 C 264
@@ -2958,7 +3084,8 @@ Support Cost: 2 Quay
 Power: 1
 Tactics: 2
 Defense: 4
-Game Text: As long as this unit entered play this turn, each unit here is tactics -1 until end of turn. Lore: When they enter the field, strength weakens, vision clouds, and tempers rise.
+Game Text: As long as this unit entered play this turn, each unit here is tactics -1 until end of turn.
+Lore: When they enter the field, strength weakens, vision clouds, and tempers rise.
 ILLUSTRATOR: MATTIAS SNYGG
 Title: Tahka Life Ship
 Collector’s Number: 1 C 268
@@ -2983,7 +3110,8 @@ Support Cost: 2 Quay
 Power: 3
 Tactics: 1
 Defense: 6
-Game Text: Each time your opponent drains at a related location, you may put this ship on top of its owner's used pile. If you do, cancel that drain. Lore: Stolen assets are the most prized. What they lack in comfort for their captors, they make up for in satisfaction.
+Game Text: Each time your opponent drains at a related location, you may put this ship on top of its owner's used pile. If you do, cancel that drain.
+Lore: Stolen assets are the most prized. What they lack in comfort for their captors, they make up for in satisfaction.
 ILLUSTRATOR: ROBBURNS
 Title: The Beckoning
 Collector’s Number: 1 C 270
@@ -2992,7 +3120,8 @@ Card Type: ORDER (Used)
 Cost: 0
 Destiny: 4
 Support Cost: 1 Quay
-Game Text: Search your used pile for an inverter, put it in your hand, then shuffle your used pile. Lore: In times of distress, Quay call for aid through minute vibrations of their carapace.
+Game Text: Search your used pile for an inverter, put it in your hand, then shuffle your used pile.
+Lore: In times of distress, Quay call for aid through minute vibrations of their carapace.
 ILLUSTRATOR: ERICWILKERSON
 Title: Torrid Katal
 Collector’s Number: 1 C 271
@@ -3041,7 +3170,9 @@ Support Cost: 2 Quay
 Game Text: Make target character in a site battle power –X and tactics –X, where X equals the tactics of one of your kizen in that battle.
 Lore: Gongen intelligence reports suggest that Sitka leads a shadow force of assassins.
 ILLUSTRATOR: ERICDESCHAMPS
-Title: *Aggressive Stance Collector’s Number: 1 U 275 Faction: Independent
+Title: *Aggressive Stance
+Collector’s Number: 1 U 275
+Faction: Independent
 Card Type: ASSET
 Cost: 2
 Destiny: 3
@@ -3057,7 +3188,9 @@ Destiny: 6
 Game Text: Each time an interrupt is played, if no card is stacked on this asset, you may pay 3 energy. If you do, stack that interrupt on this asset after its effects have been performed. As an additional cost for a player to play a card that has the same title as a card stacked on this asset, he or she pays 3 energy.
 Lore: “Those who cannot remember the past are condemned to repeat it.” – George Santayana
 ILLUSTRATOR: JAMESRYMAN
-Title: Corporate Transport Collector’s Number: 1 C 277 Faction: Independent
+Title: Corporate Transport
+Collector’s Number: 1 C 277
+Faction: Independent
 Card Type: SHIP (Capacity 3) • Capital
 Cost: 3
 Destiny: 3
@@ -3112,7 +3245,9 @@ Defense: 1
 Game Text: Put this character on top of its owner's used pile ≈ Your side of target location gains a [Gongen] support icon until end of turn. You may use this ability only during your deploy phase.
 Lore: Sumo bots are programmed both for entertainment and more practical purposes. Their high utility and low maintenance make them perfect worker bots.
 ILLUSTRATOR: JOSHUATHEJAMESSHAW
-Title: Independent Transport Collector’s Number: 1 C 282 Faction: Independent
+Title: Independent Transport
+Collector’s Number: 1 C 282
+Faction: Independent
 Card Type: SHIP (Capacity 3) • Capital
 Cost: 3
 Destiny: 3
@@ -3135,7 +3270,8 @@ Game Text: Put this character on top of its owners used pile ≈ Your side of the 
 Lore: In the Outer Rim, bots are unusual and eclectic. Many are programmed for social functionality due to the often lonesome nature of living in space.
 ILLUSTRATOR: JOSHUA THEJAMES SHAW
 Title: Opulent Transport
-Collector’s Number: 1 C 284 Faction: Independent
+Collector’s Number: 1 C 284
+Faction: Independent
 Card Type: SHIP (Capacity 3) • Capital
 Cost: 3
 Destiny: 3
@@ -3155,7 +3291,8 @@ Game Text: USED: If your opponent has thirteen or more cards in his or her hand,
 Lore: Even a bot has its breaking point.
 ILLUSTRATOR: JOSHUATHEJAMESSHAW
 Title: Pilgrims’ Transport
-Collector’s Number: 1 C 286 Faction: Independent
+Collector’s Number: 1 C 286
+Faction: Independent
 Card Type: SHIP (Capacity 3) • Capital
 Cost: 3
 Destiny: 3
@@ -3183,9 +3320,12 @@ Faction: Independent
 Card Type: INTERRUPT (Used)
 Cost: 0
 Destiny: 4
-Game Text: Until end of turn, your opponent can’t attack at target location where four or more of his or her units have entered play this turn. Lore: Avoiding a bad beat is an important skill beyond the Belt.
+Game Text: Until end of turn, your opponent can’t attack at target location where four or more of his or her units have entered play this turn.
+Lore: Avoiding a bad beat is an important skill beyond the Belt.
 ILLUSTRATOR: CHRISDIEN
-Title: Salvaged Transport Collector’s Number: 1 C 289 Faction: Independent
+Title: Salvaged Transport
+Collector’s Number: 1 C 289
+Faction: Independent
 Card Type: SHIP (Capacity 3) • Capital
 Cost: 3
 Destiny: 3
@@ -3204,7 +3344,8 @@ Destiny: 6
 Power: 1
 Tactics: 1
 Defense: 1
-Game Text: Put this character on top of its owner's used pile ≈ Your side of target location gains a [Shi] support icon until end of turn. You may use this ability only during your deploy phase. Lore: Earther scientists have yet to uncover what powers these bots.
+Game Text: Put this character on top of its owner's used pile ≈ Your side of target location gains a [Shi] support icon until end of turn. You may use this ability only during your deploy phase.
+Lore: Earther scientists have yet to uncover what powers these bots.
 ILLUSTRATOR: JOSHUATHEJAMESSHAW
 Title: Transport Depot
 Collector’s Number: 1 U 291
@@ -3227,14 +3368,19 @@ Defense: 3
 Game Text: As long as this ship is at a sector that has no support icons, this ship is power +2 and defense +2.
 Lore: Sturdy and reliable, Type II fighters are still a training mainstay for iCom.
 ILLUSTRATOR: LORIN WOOD
-Title: *Alnak Station/Captured Base Collector’s Number: 1 U 293 Faction: Independent
-Card Type: LOCATION (Sector) • Station Cost: 0
+Title: *Alnak Station/Captured Base
+Collector’s Number: 1 U 293
+Faction: Independent
+Card Type: LOCATION (Sector) • Station
+Cost: 0
 Destiny: 0
 Support: 1 Quay
 Energy: 2/1
 Game Text: Put target ship you have here on top of your used pile ≈ Download a site that has “Alnak Station” in its title. You may use this ability only during your deploy phase.
 ILLUSTRATOR: PHILIPPE“HPX1”GUYENNE
-Title: *Alnak Station/Hallway Collector’s Number: 1 R 294 Faction: Independent
+Title: *Alnak Station/Hallway
+Collector’s Number: 1 R 294
+Faction: Independent
 Card Type: LOCATION (Site)
 Cost: 0
 Destiny: 0
@@ -3242,13 +3388,17 @@ Support: 1 Quay
 Energy: 1/0
 Game Text: Each time target character you have at a location would be lost, if there are no characters here, you may lose 1 energy. If you do, put target here instead.
 ILLUSTRATOR: PHILIPPE“HPX1”GUYENNE
-Title: *Alnak Station/Launch Bay Collector’s Number: 1 C 295 Faction: Independent
-Card Type: LOCATION (Site) • Port Cost: 0
+Title: *Alnak Station/Launch Bay
+Collector’s Number: 1 C 295
+Faction: Independent
+Card Type: LOCATION (Site) • Port
+Cost: 0
 Destiny: 0
 Support: 1 Quay
 Energy: 1/0
 Game Text: Pay 2 energy ≈ Move target unit you have here to another site. You may use this ability only during your move phase. Your opponent may use this ability during his or her move phase.
-ILLUSTRATOR: PHILIPPE“HPX1”GUYENNE Title: Ceres/Belt Hideaway
+ILLUSTRATOR: PHILIPPE“HPX1”GUYENNE
+Title: Ceres/Belt Hideaway
 Collector’s Number: 1 S 296
 Faction: Independent
 Card Type: LOCATION (Sector) • Asteroid
@@ -3258,7 +3408,9 @@ Support: None
 Energy: 2/1
 Game Text: Unlimited (You may have any number of copies of this card in your deck.) Each card a player reveals for battle destiny during a battle here is destiny –2.
 ILLUSTRATOR: DENNISCALERO
-Title: *Earth/Corporate Headquarters Collector’s Number: 1 C 297 Faction: Independent
+Title: *Earth/Corporate Headquarters
+Collector’s Number: 1 C 297
+Faction: Independent
 Card Type: LOCATION (Site)
 Cost: 0
 Destiny: 0
@@ -3266,22 +3418,29 @@ Support: 1 Earther
 Energy: 2/1
 Game Text: Each time a player’s vehicle enters play here, that player may play a warrior here. That warrior costs no energy to play.
 ILLUSTRATOR: DENNISCALERO
-Title: *Earth/Humanity’s Home Collector’s Number: 1 C 298 Faction: Independent
-Card Type: LOCATION (Sector) • Planet Cost: 0
+Title: *Earth/Humanity’s Home
+Collector’s Number: 1 C 298
+Faction: Independent
+Card Type: LOCATION (Sector) • Planet
+Cost: 0
 Destiny: 0
 Support: 1 Earther
 Energy: 2/1
 Game Text: As long as you have a ship here, your side of this location gains an [Earther] support icon.
 ILLUSTRATOR: NICK STATHOPOULOS
-Title: *Europa/The Gambler’s Hideaway Collector’s Number: 1 U 299
+Title: *Europa/The Gambler’s Hideaway
+Collector’s Number: 1 U 299
 Faction: Independent
-Card Type: LOCATION (Sector) • Moon Cost: 0
+Card Type: LOCATION (Sector) • Moon
+Cost: 0
 Destiny: 0
 Support: 1 Maverick
 Energy: 1/0
 Game Text: Pay 2 energy ≈ Move target fighter you have here to a moon sector where a battle is taking place. Any player may use this ability.
 ILLUSTRATOR: ROB ALEXANDER
-Title: *Ganymede/Core Shaft Collector’s Number: 1 R 300 Faction: Independent
+Title: *Ganymede/Core Shaft
+Collector’s Number: 1 R 300
+Faction: Independent
 Card Type: LOCATION (Site)
 Cost: 0
 Destiny: 3
@@ -3289,7 +3448,9 @@ Support: None
 Energy: 1/1
 Game Text: As long as a player has units from two or more factions here, each of his or her drains here is +2.
 ILLUSTRATOR: LEOWINSTEAD
-Title: Ganymede/Exploratory Camp Collector’s Number: 1 S 301 Faction: Independent
+Title: Ganymede/Exploratory Camp
+Collector’s Number: 1 S 301
+Faction: Independent
 Card Type: LOCATION (Site)
 Cost: 0
 Destiny: 0
@@ -3297,7 +3458,9 @@ Support: 1 Earther
 Energy: 1/1
 Game Text: Unlimited, Encampment (Stack this card beneath target location where you have an energy icon, unit, or ship. This card is no longer a location or site and target gains this card’s energy and support icons that are on your side. You may stack only one encampment here.)
 ILLUSTRATOR: NICKSTATHOPOULOS
-Title: *Ganymede/Forward Base Collector’s Number: 1 C 302 Faction: Independent
+Title: *Ganymede/Forward Base
+Collector’s Number: 1 C 302
+Faction: Independent
 Card Type: LOCATION (Site)
 Cost: 0
 Destiny: 0
@@ -3305,7 +3468,9 @@ Support: 1 Shi
 Energy: 2/1
 Game Text: As long as you control this site and have a kizen here, your total power is +2 at each related site.
 ILLUSTRATOR: ATHENAHUDDLESTON
-Title: Ganymede/Frontier Camp Collector’s Number: 1 S 303 Faction: Independent
+Title: Ganymede/Frontier Camp
+Collector’s Number: 1 S 303
+Faction: Independent
 Card Type: LOCATION (Site)
 Cost: 0
 Destiny: 0
@@ -3313,7 +3478,9 @@ Support: 1 Maverick
 Energy: 1/1
 Game Text: Unlimited, Encampment (Stack this card beneath target location where you have an energy icon, unit, or ship. This card is no longer a location or site and target gains this card’s energy and support icons that are on your side. You may stack only one encampment here.)
 ILLUSTRATOR: DENNISCALERO
-Title: Ganymede/Harvesting Camp Collector’s Number: 1 S 304 Faction: Independent
+Title: Ganymede/Harvesting Camp
+Collector’s Number: 1 S 304
+Faction: Independent
 Card Type: LOCATION (Site)
 Cost: 0
 Destiny: 0
@@ -3321,7 +3488,9 @@ Support: 1 Shi
 Energy: 1/1
 Game Text: Unlimited, Encampment (Stack this card beneath target location where you have an energy icon, unit, or ship. This card is no longer a location or site and target gains this card’s energy and support icons that are on your side. You may stack only one encampment here.)
 ILLUSTRATOR: JOE BOULDEN
-Title: Ganymede/Hunters’ Camp Collector’s Number: 1 S 305 Faction: Independent
+Title: Ganymede/Hunters’ Camp
+Collector’s Number: 1 S 305
+Faction: Independent
 Card Type: LOCATION (Site)
 Cost: 0
 Destiny: 0
@@ -3329,7 +3498,9 @@ Support: 1 Quay
 Energy: 1/1
 Game Text: Unlimited, Encampment (Stack this card beneath target location where you have an energy icon, unit, or ship. This card is no longer a location or site and target gains this card’s energy and support icons that are on your side. You may stack only one encampment here.)
 ILLUSTRATOR: LEO WINSTEAD
-Title: *Ganymede/Mining Platform Collector’s Number: 1 U 306 Faction: Independent
+Title: *Ganymede/Mining Platform
+Collector’s Number: 1 U 306
+Faction: Independent
 Card Type: LOCATION (Site)
 Cost: 0
 Destiny: 3
@@ -3337,15 +3508,19 @@ Support: None
 Energy: 2/2
 Game Text: As long as you control this location, you generate 1 more energy at each related location where you have a ship or unit.
 ILLUSTRATOR: LEO WINSTEAD
-Title: *Ganymede/Occupied Tunnels Collector’s Number: 1 C 307
+Title: *Ganymede/Occupied Tunnels
+Collector’s Number: 1 C 307
 Faction: Independent
-Card Type: LOCATION (Site) • Underground Cost: 0
+Card Type: LOCATION (Site) • Underground
+Cost: 0
 Destiny: 0
 Support: 1 Quay
 Energy: 2/1
 Game Text: Vehicles don’t add their power to a player’s total power during a battle here.
 ILLUSTRATOR: PHILIPPE“HPX1”GUYENNE
-Title: Ganymede/Pilgrims’ Camp Collector’s Number: 1 S 308 Faction: Independent
+Title: Ganymede/Pilgrims’ Camp
+Collector’s Number: 1 S 308
+Faction: Independent
 Card Type: LOCATION (Site)
 Cost: 0
 Destiny: 0
@@ -3353,14 +3528,19 @@ Support: 1 Gongen
 Energy: 1/1
 Game Text: Unlimited, Encampment (Stack this card beneath target location where you have an energy icon, unit, or ship. This card is no longer a location or site and target gains this card’s energy and support icons that are on your side. You may stack only one encampment here.)
 ILLUSTRATOR: FRANCIS TSAI
-Title: *Ganymede/Traginium Source Collector’s Number: 1 C 309 Faction: Independent
-Card Type: LOCATION (Sector) • Moon Cost: 0
+Title: *Ganymede/Traginium Source
+Collector’s Number: 1 C 309
+Faction: Independent
+Card Type: LOCATION (Sector) • Moon
+Cost: 0
 Destiny: 3
 Support: None
 Energy: 2/1
 Game Text: Each player’s drain here is +1 for each related site he or she controls.
 ILLUSTRATOR: DAVID DEEN
-Title: *Ganymede/Traginium Well Collector’s Number: 1 C 310 Faction: Independent
+Title: *Ganymede/Traginium Well
+Collector’s Number: 1 C 310
+Faction: Independent
 Card Type: LOCATION (Site)
 Cost: 0
 Destiny: 3
@@ -3368,15 +3548,19 @@ Support: None
 Energy: 2/2
 Game Text: Each time a player’s unit enters play here, that player’s opponent pays 1 energy.
 ILLUSTRATOR: DAVID DEEN
-Title: *Ganymede/Underground Bunker Collector’s Number: 1 C 311
+Title: *Ganymede/Underground Bunker
+Collector’s Number: 1 C 311
 Faction: Independent
-Card Type: LOCATION (Site) • Underground Cost: 0
+Card Type: LOCATION (Site) • Underground
+Cost: 0
 Destiny: 0
 Support: 1 Gongen
 Energy: 2/1
 Game Text: As long as you have a unit here, your side of this location gains a [Gongen] support icon.
 ILLUSTRATOR: FRANCIS TSAI
-Title: *Ganymede/Unstable Ground Collector’s Number: 1 C 312 Faction: Independent
+Title: *Ganymede/Unstable Ground
+Collector’s Number: 1 C 312
+Faction: Independent
 Card Type: LOCATION (Site)
 Cost: 0
 Destiny: 3
@@ -3384,15 +3568,19 @@ Support: None
 Energy: 1/1
 Game Text: Each drain here is +1. At each player’s end of turn, that player must put one of his or her units here on top of its owner’s used pile.
 ILLUSTRATOR: LEOWINSTEAD
-Title: *Ganymede/Valley Collector’s Number: 1 C 313 Faction: Independent
+Title: *Ganymede/Valley
+Collector’s Number: 1 C 313
+Faction: Independent
 Card Type: LOCATION (Site)
 Cost: 0
 Destiny: 3
 Support: None
 Energy: 2/2
 Game Text: Each time a card is revealed for destiny while using an ability of a weapon here, that card’s destiny is +2.
-ILLUSTRATOR: DAVIDDEEN Title: *Ganymede/Vantage Point
-Collector’s Number: 1 U 314 Faction: Independent
+ILLUSTRATOR: DAVIDDEEN
+Title: *Ganymede/Vantage Point
+Collector’s Number: 1 U 314
+Faction: Independent
 Card Type: LOCATION (Site)
 Cost: 0
 Destiny: 3
@@ -3400,7 +3588,9 @@ Support: None
 Energy: 2/1
 Game Text: When this location enters play, you may pay 1 energy. If you do, download a location that has “Ganymede” in its title.
 ILLUSTRATOR: DAVIDDEEN
-Title: *Gongen/Ice Mine Collector’s Number: 1 C 315 Faction: Independent
+Title: *Gongen/Ice Mine
+Collector’s Number: 1 C 315
+Faction: Independent
 Card Type: LOCATION (Site)
 Cost: 0
 Destiny: 0
@@ -3408,30 +3598,41 @@ Support: 1 Gongen
 Energy: 1/1
 Game Text: Each time a vehicle enters play here or moves to here, put it on top of its owner’s used pile.
 ILLUSTRATOR: FRANCISTSAI
-Title: *Gongen/Pilgrims’ Haven Collector’s Number: 1 U 316 Faction: Independent
-Card Type: LOCATION (Sector) • Planet Cost: 0
+Title: *Gongen/Pilgrims’ Haven
+Collector’s Number: 1 U 316
+Faction: Independent
+Card Type: LOCATION (Sector) • Planet
+Cost: 0
 Destiny: 0
 Support: 1 Gongen
 Energy: 1/1
 Game Text: Each player who has at least two [Gongen] support icons in play generates 1 more energy here.
 ILLUSTRATOR: ROBALEXANDER
-Title: *Luna/Military Outpost Collector’s Number: 1 U 317 Faction: Independent
-Card Type: LOCATION (Sector) • Moon Cost: 0
+Title: *Luna/Military Outpost
+Collector’s Number: 1 U 317
+Faction: Independent
+Card Type: LOCATION (Sector) • Moon
+Cost: 0
 Destiny: 0
 Support: 1 Earther
 Energy: 1/1
 Game Text: Each time a player’s capital enters play here, that player may play a fighter here. That fighter costs no energy to play.
 ILLUSTRATOR: NICKSTATHOPOULOS
-Title: *Mercury/Untapped Planet Collector’s Number: 1 U 318 Faction: Independent
-Card Type: LOCATION (Sector) • Planet Cost: 0
+Title: *Mercury/Untapped Planet
+Collector’s Number: 1 U 318
+Faction: Independent
+Card Type: LOCATION (Sector) • Planet
+Cost: 0
 Destiny: 3
 Support: None
 Energy: 2/2
 Game Text: As long as a player has exactly two ships here, that player’s total power here is +4.
 ILLUSTRATOR: ROBALEXANDER
-Title: *Pallas/Asteroid Stronghold Collector’s Number: 1 R 319
+Title: *Pallas/Asteroid Stronghold
+Collector’s Number: 1 R 319
 Faction: Independent
-Card Type: LOCATION (Sector) • Asteroid Cost: 0
+Card Type: LOCATION (Sector) • Asteroid
+Cost: 0
 Destiny: 0
 Support: 1 Gongen
 Energy: 2/0
@@ -3448,37 +3649,50 @@ Energy: 2/0
 Game Text: When this location enters play during your deploy phase, dismiss it unless you have another [Shi] support icon in play or reveal a Shi card from your hand.
 ILLUSTRATOR: DONFRY
 Title: *Seyal/Light Side
-Collector’s Number: 1 C 321 Faction: Independent
-Card Type: LOCATION (Sector) • Planet Cost: 0
+Collector’s Number: 1 C 321
+Faction: Independent
+Card Type: LOCATION (Sector) • Planet
+Cost: 0
 Destiny: 0
 Support: 1 Shi
 Energy: 2/1
 Game Text: As long as you have a ship here, your side of this location gains a [Shi] support icon.
 ILLUSTRATOR: DONFRY
-Title: *Themis/Landing Pad Collector’s Number: 1 C 322 Faction: Independent
-Card Type: LOCATION (Site) • Port Cost: 0
+Title: *Themis/Landing Pad
+Collector’s Number: 1 C 322
+Faction: Independent
+Card Type: LOCATION (Site) • Port
+Cost: 0
 Destiny: 0
 Support: 1 Maverick
 Energy: 2/1
 Game Text: Pay 2 energy ≈ Move any number of target units you have here to another site. You may use this ability only during your move phase. Youropponentmayusethisabilityduringhisor her move phase.
 ILLUSTRATOR: JEFFDEGENHARDT
-Title: *Themis/Mobile Asteroid Collector’s Number: 1 C 323
+Title: *Themis/Mobile Asteroid
+Collector’s Number: 1 C 323
 Faction: Independent
-Card Type: LOCATION (Sector) • Asteroid Cost: 0
+Card Type: LOCATION (Sector) • Asteroid
+Cost: 0
 Destiny: 0
 Support: 1 Maverick
 Energy: 2/1
 Game Text: As long as you have a ship here, your side of this location gains a [Maverick] support icon.
 ILLUSTRATOR: JEFFDEGENHARDT
-Title: *Titan/Raving Red’s Refuge Collector’s Number: 1 R 324 Faction: Independent
-Card Type: LOCATION (Sector) • Moon Cost: 0
+Title: *Titan/Raving Red’s Refuge
+Collector’s Number: 1 R 324
+Faction: Independent
+Card Type: LOCATION (Sector) • Moon
+Cost: 0
 Destiny: 0
 Support: 1 Maverick
 Energy: 1/0
 Game Text: Each time target fighter you have at a location would be lost, if there are no fighters here, you may lose 1 energy. If you do, put target here instead.
 ILLUSTRATOR: SEAN MURRAY
-Title: *Venus/Research Base Collector’s Number: 1 R 325 Faction: Independent
-Card Type: LOCATION (Sector) • Planet Cost: 0
+Title: *Venus/Research Base
+Collector’s Number: 1 R 325
+Faction: Independent
+Card Type: LOCATION (Sector) • Planet
+Cost: 0
 Destiny: 0
 Support: 1 Earther
 Energy: 2/0
@@ -3487,7 +3701,8 @@ ILLUSTRATOR: NICKSTATHOPOULOS
 Title: *Vesta/Coveted Rock
 Collector’s Number: 1 R 326
 Faction: Independent
-Card Type: LOCATION (Sector) • Asteroid Cost: 0
+Card Type: LOCATION (Sector) • Asteroid
+Cost: 0
 Destiny: 0
 Support: 1 Shi
 Energy: 1/1
