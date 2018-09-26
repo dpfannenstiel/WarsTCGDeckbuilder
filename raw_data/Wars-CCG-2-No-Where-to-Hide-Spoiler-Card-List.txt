@@ -1,5 +1,5 @@
 Title: Aftermath
-Collector’s Number: 2 U 1
+Collector's Number: 2 U 1
 Faction: Earther
 Card Type: INTERRUPT (Lost)
 Cost: 1
@@ -9,7 +9,7 @@ Game Text: Destroy target weapon at a site where you have a character who has ta
 Lore: Howler has always hated fighting the Gongen. It’s easier to kill a Quay or Shi – they don’t have the same blood.
 ILLUSTRATOR: ROBERTO CAMPUS
 Title: *Chindon Relk
-Collector’s Number: 2 U 2
+Collector's Number: 2 U 2
 Faction: Earther
 Card Type: CHARACTER • Kizen • CISyn • Unit
 Cost: 2
@@ -22,7 +22,7 @@ Game Text: Your battle destiny in a site battle here is +1 for each of your kize
 Lore: "Relk is one of CISyn’s new recruits. He can’t remember much about his past, but that seems to be common in his current assignment."
 ILLUSTRATOR: GUY GENTRY
 Title: CISyn Coordinators
-Collector’s Number: 2 C 3
+Collector's Number: 2 C 3
 Faction: Earther
 Card Type: CHARACTER • Kizen • CISyn • Unit
 Cost: 3
@@ -35,7 +35,7 @@ Game Text: • Pay 1 energy ≈ Look at the top card of any reserve.
 Lore: Rathe’s gurus will follow his lead even in the face of CGC objections voiced by Howler himself.
 ILLUSTRATOR: ERIC DESCHAMPS
 Title: Dagger Juggernaut
-Collector’s Number: 2 C 4
+Collector's Number: 2 C 4
 Faction: Earhter
 Card Type: VEHICLE • FedGrav • Inverter • Unit
 Cost: 3
@@ -48,7 +48,7 @@ Game Text: Size 2, Transport 1. Each time you win a site battle here, you may in
 Lore: Like his Blades in the air, Howler’s Daggers are an elite ground unit that receives only the most critical assignments.
 ILLUSTRATOR: JOSHUA theJAMES SHAW
 Title: •Defensive Grid
-Collector’s Number: 2 C 5
+Collector's Number: 2 C 5
 Faction: Earther
 Card Type: INTERRUPT (Lost)
 Cost: 0
@@ -58,7 +58,7 @@ Game Text: You may play this interrupt only during a battle at a location where 
 Lore: “The floaters know what you’re going to do before you do it. Just keep shooting.” – Commander Dalhart, Venus Station
 ILLUSTRATOR: ROBERTO CAMPUS
 Title: Gorget Cannon
-Collector’s Number: 2 C 6
+Collector's Number: 2 C 6
 Faction: Eather
 Card Type: WEAPON (Character) • Ranged
 Cost: 1
@@ -68,7 +68,7 @@ Game Text: As long as this character is at a site, you cause attrition +1 here. 
 Lore: “When they’re busy looking for the whites of your eyes, they’ll never see this coming.”
 ILLUSTRATOR: MICHELLE SPALDING
 Title: Headlong Rush
-Collector’s Number: 2 U 7
+Collector's Number: 2 U 7
 Faction: Earther
 Card Type: INTERRUPT (Lost)
 Cost: 1
@@ -78,7 +78,7 @@ Game Text: Move your target vehicle at a site to an adjacent site where a battle
 Lore: The Blades fight with everything they have. Even when there’s a NoBot on the other side.
 ILLUSTRATOR: STEPHEN CROWE
 Title: Howler’s Gambit
-Collector’s Number: 2 R 8
+Collector's Number: 2 R 8
 Faction: Earther
 Card Type: INTERRUPT (Lost)
 Cost: 1
@@ -88,7 +88,7 @@ Game Text: You may play this interrupt only during your move phase. At target lo
 Lore: “We can learn even from our enemies.” – Ovid
 ILLUSTRATOR: ROBERTO CAMPUS
 Title: Inca Fighter
-Collector’s Number: 2 C 9
+Collector's Number: 2 C 9
 Faction: Earther
 Card Type: SHIP (Capacity 1) • iCom • Fighter
 Cost: 2
@@ -101,7 +101,7 @@ Game Text: When this ship enters play, you may put target unit here that doesn’t
 Lore: Type IVs from Inca squadron routinely patrol areas near the rift, alert for any developments.
 ILLUSTRATOR: STEPHEN CROWE
 Title: Informational Advantage
-Collector’s Number: 2 R 10
+Collector's Number: 2 R 10
 Faction: Earther
 Card Type: ASSET (Character Infiltrator)
 Cost: 3
@@ -111,7 +111,7 @@ Game Text: Each time your opponent uses a support icon here, he or she loses 1 e
 Lore: Well placed CISyn operatives make it their business to know what other Earther corporations are planning.
 ILLUSTRATOR: ERIC DESCHAMPS
 Title: *Jylan Rathe
-Collector’s Number: 2 R 11
+Collector's Number: 2 R 11
 Faction: Earther
 Card Type: CHARACTER • CISyn • Infiltrator • Unit
 Cost: 1
@@ -124,7 +124,7 @@ Game Text: • Damage your kizen here or your other infiltrator here ≈ Damage targ
 Lore: “It’s vital these CGC fools continue to trust us. Our every move must be well timed.”
 ILLUSTRATOR: KIERAN YANNER
 Title: Kneecapped
-Collector’s Number: 2 R 12
+Collector's Number: 2 R 12
 Faction: Earther
 Card Type: ASSET (Unit)
 Cost: 1
@@ -134,7 +134,7 @@ Game Text: You may play this asset only beneath target opponent’s unit at a site
 Lore: Despite his high rank, Chan Whitmer knows that if you want something done right, you’ve got to do it yourself.
 ILLUSTRATOR: PAMELINA H
 Title: Mouthpiece
-Collector’s Number: 2 C 13
+Collector's Number: 2 C 13
 Faction: Earther
 Card Type: CHARACTER • XeLabs • Merchant • Unit
 Cost: 3
@@ -147,7 +147,7 @@ Game Text: Quickdraw 1 (Add a • to each activated ability on a weapon beneath th
 Lore: When things get rough in the Rim, Leif Garzone is relied upon to meet any unanticipated “needs” the Rangers have.
 ILLUSTRATOR: MICHELLE SPALDING
 Title: Optical Delusion
-Collector’s Number: 2 U 14
+Collector's Number: 2 U 14
 Faction: Earther
 Card Type: INTERRUPT (Lost)
 Cost: 0
@@ -157,7 +157,7 @@ Game Text: You may play this interrupt only during a battle. Play a XeLabs ship 
 Lore: Those who suggest that XeLabs is working on a light bending technique often end up disappearing themselves.
 ILLUSTRATOR: JEFF LEE JOHNSON
 Title: Patch Job
-Collector’s Number: 2 C 15
+Collector's Number: 2 C 15
 Faction: Earther
 Card Type: INTERRUPT (Lost)
 Cost: 0
@@ -167,7 +167,7 @@ Game Text: The next time your target unit would be destroyed this turn, prevent 
 Lore: “Prepare for a visit to a bar in the Outer Rim as you would a battle. Medical training is recommended.” – Ranger Manual
 ILLUSTRATOR: PAMELINA H
 Title: Piggyback
-Collector’s Number: 2 R 16
+Collector's Number: 2 R 16
 Faction: Earther
 Card Type: INTERRUPT (Used)
 Cost: 1
@@ -177,7 +177,7 @@ Game Text: You may play this interrupt only if you have a CISyn character at a b
 Lore: CISyn gurus plot ways to include more than simple sitreps in the streams of combat data they handle for CGC.
 ILLUSTRATOR: LIZ DANFORTH
 Title: *Pompeii
-Collector’s Number: 2 U 17
+Collector's Number: 2 U 17
 Faction: Earther
 Card Type: SHIP (Capacity 4) • iCom • Capital
 Cost: 5
@@ -190,7 +190,7 @@ Game Text: Each activated ability used during a battle here costs 3 more energy 
 Lore: Advanced targeting systems on Earther cruisers make them the equal of their larger battleship cousins.
 ILLUSTRATOR: DENNIS CALERO
 Title: Ranger Watchman
-Collector’s Number: 2 U 18
+Collector's Number: 2 U 18
 Faction: Earther
 Card Type: CHARACTER • XeLabs • Warrior • Unit
 Cost: 2
@@ -203,7 +203,7 @@ Game Text: Quickdraw 1 (Add a • to each activated ability on a weapon beneath th
 Lore: When watching Hallard’s back, Vesuvian Ranger Jerlen Krae relies on his quick wits as often as his fast hands.
 ILLUSTRATOR: MICHELLE SPALDING
 Title: Remote Coordinator
-Collector’s Number: 2 U 19
+Collector's Number: 2 U 19
 Faction: Earther
 Card Type: CHARACTER • Kizen • CISyn • Unit
 Cost: 3
@@ -216,7 +216,7 @@ Game Text: Each time your opponent’s kizen of tactics X is destroyed here, you m
 Lore: Despite his official assignment, Grem Holden’s real mission is to identify kizen and report their movements to Rathe
 ILLUSTRATOR: LIZ DANFORTH
 Title: Rev A Shrouds
-Collector’s Number: 2 C 20
+Collector's Number: 2 C 20
 Faction: Earther
 Card Type: CHARACTER • XeLabs • Warrior • Unit
 Cost: 4
@@ -229,7 +229,7 @@ Game Text: As long as you have a card stacked on your stockpile asset, this char
 Lore: The first several volunteers never reappeared. That might explain the bumps at night.
 ILLUSTRATOR: JEFF LEE JOHNSON
 Title: *Rogan Hallard
-Collector’s Number: 2 R 21
+Collector's Number: 2 R 21
 Faction: Earther
 Card Type: CHARACTER • XeLabs • Warrior • Inverter • Unit
 Cost: 5
@@ -242,7 +242,7 @@ Game Text: Piloting 2 • Invert this character ≈ Undamage your target character i
 Lore: As captain of the Shadowsurfer, the last thing Hallard needs on a mission to the Rim is a boatful of new recruits. That’s why the Rangers provide him with seasoned veterans.
 ILLUSTRATOR: MICHELLE SPALDING
 Title: *Shadowsurfer
-Collector’s Number: 2 R 22
+Collector's Number: 2 R 22
 Faction: Earther
 Card Type: SHIP (Capacity 3) • XeLabs • Capital
 Cost: 4
@@ -255,7 +255,7 @@ Game Text: Captain - Rogan Hallard (As long as Rogan Hallard is aboard this ship
 Lore: The Shadowsurfer’s enhancements aren’t available on Yacht Works standard options lists. Its countermeasures package is strictly XeLabs military-grade.
 ILLUSTRATOR: JOSHUA theJAMES SHAW
 Title: *Sheria Coreg
-Collector’s Number: 2 R 23
+Collector's Number: 2 R 23
 Faction: Earther
 Card Type: CHARACTER • Kizen • CGC • Warrior • Unit
 Cost: 2
@@ -268,7 +268,7 @@ Game Text: When this character enters play, you may look at the top card of any 
 Lore: “Today we stopped reading the books. Tomorrow we start writing them. The stars are our destiny. Now’s the time to earn what’s truly ours.”
 ILLUSTRATOR: PHILIPPE ‘HPX1’ GUYENNE
 Title: Terms of the Deal
-Collector’s Number: 2 R 24
+Collector's Number: 2 R 24
 Faction: Earther
 Card Type: ASSET
 Cost: 0
@@ -278,7 +278,7 @@ Game Text: You may play this asset any time you could play an interrupt. When yo
 Lore: Once you close a deal with the Mavs, it’s good business to get the hell out.
 ILLUSTRATOR: DENNIS CALERO
 Title: *Traginium Surplus
-Collector’s Number: 2 U 25
+Collector's Number: 2 U 25
 Faction: Earther
 Card Type: ASSET • Stockpile
 Cost: 0
@@ -288,7 +288,7 @@ Game Text: • Pay 1 energy ≈ If there is no card stacked here, your opponent lose
 Lore: “Somehow they think whatever we have here is hot.”
 ILLUSTRATOR: ROBERTO CAMPUS
 Title: Watch Your Back
-Collector’s Number: 2 U 26
+Collector's Number: 2 U 26
 Faction: Earther
 Card Type: ORDER (Used)
 Cost: 0
@@ -298,7 +298,7 @@ Game Text: Play a kizen. It costs 1 less energy to play for each other kizen you
 Lore: The gurus under Rathe’s command are trained to sense the presence of fellow kizen.
 ILLUSTRATOR: LIZ DANFORTH
 Title: *XeLabs Type IV
-Collector’s Number: 2 R 27
+Collector's Number: 2 R 27
 Faction: Earther
 Card Type: SHIP (Capacity 1) • XeLabs • Fighter
 Cost: 2
@@ -311,7 +311,7 @@ Game Text: • Lose 3 energy ≈ Put target ship here in its owner’s hand. You may u
 Lore: She’s got the scanners and sampling equipment as well as enough firepower for a standup fight.
 ILLUSTRATOR: JOSHUA theJAMES SHAW
 Title: XeRacer
-Collector’s Number: 2 C 28
+Collector's Number: 2 C 28
 Faction: Earther
 Card Type: SHIP (Capacity 2) • XeLabs • Fighter
 Cost: 3
@@ -324,7 +324,7 @@ Game Text: You may play this ship at full cost to a sector where a battle is tak
 Lore: “Make sure some of the Racers are on station in the Belt. We might need them to throw some light.” – Rogan Hallard
 ILLUSTRATOR: JOSHUA theJAMES SHAW
 Title: Z-Level Gurus
-Collector’s Number: 2 R 29
+Collector's Number: 2 R 29
 Faction: Earther
 Card Type: INTERRUPT (Lost)
 Cost: 0
@@ -334,7 +334,7 @@ Game Text: As an additional cost to play this interrupt, pay X energy. You cause
 Lore: The strategic coordinators assigned to help Howler’s troops rely on special abilities for what technology cannot provide.
 ILLUSTRATOR: LIZ DANFORTH
 Title: *Cheng Lin
-Collector’s Number: 2 R 30
+Collector's Number: 2 R 30
 Faction: Gongen
 Card Type: CHARACTER • Ikazuchi • Tech • Warrior • Unit
 Cost: 3
@@ -347,7 +347,7 @@ Game Text: Each time one of your vehicles here is destroyed, you may put that ve
 Lore: “The manual says, ‘If you cannot repair the vehicle as well as you drive it, then you are a failure to your master,’ but have you ever seen a Gunso try to change a coupling?”
 ILLUSTRATOR: DREW BAKER
 Title: Combat Support T.S.V.
-Collector’s Number: 2 U 31
+Collector's Number: 2 U 31
 Faction: Gongen
 Card Type: VEHICLE • Ikazuchi • Unit
 Cost: 3
@@ -360,7 +360,7 @@ Game Text: Size 3, Transport 4 When this vehicle enters play at a site where you
 Lore: Ikazuchi commanders relied on these vehicles to provide fire support for the attack on the Ganymede Earther base.
 ILLUSTRATOR: CHRISTIAN SCHWAGER
 Title: Dance of Steel
-Collector’s Number: 2 R 32
+Collector's Number: 2 R 32
 Faction: Gongen
 Card Type: ASSET
 Cost: 2
@@ -370,7 +370,7 @@ Game Text: Each time you reveal a card for battle destiny, you may retrieve a ca
 Lore: A skilled swordsman can use a weapon’s reach, weight, and edge to defeat even the most hardened foe.
 ILLUSTRATOR: BRADLEY WILLIAMS
 Title: Defensive Fire
-Collector’s Number: 2 U 33
+Collector's Number: 2 U 33
 Faction: Gongen
 Card Type: INTERRUPT (Lost)
 Cost: 0
@@ -380,7 +380,7 @@ Game Text: Each Ikazuchi unit is defense +4 until end of turn.
 Lore: Overlapping fields of fire make approach difficult.
 ILLUSTRATOR: CHRISTIAN SCHWAGER
 Title: Gishi Combat Tech
-Collector’s Number: 2 U 34
+Collector's Number: 2 U 34
 Faction: Gongen
 Card Type: CHARACTER • Deigan • Tech • Unit
 Cost: 2
@@ -393,7 +393,7 @@ Game Text: Damage this character ≈ Put your target bot here or your target vehic
 Lore: Fusion generators require skilled engineers like Yoro Tosunta to keep them in tune.
 ILLUSTRATOR: APRIL LEE
 Title: Gunso Squad Leader
-Collector’s Number: 2 C 35
+Collector's Number: 2 C 35
 Faction: Gongen
 Card Type: CHARACTER • Deigan • Warrior • Unit
 Cost: 3
@@ -406,7 +406,7 @@ Game Text: • Pay 4 energy ≈ Your target character at this site can’t be damaged 
 Lore: Hisumi Taro is one of many Deigan sergeants respected throughout the Gongen armies.
 ILLUSTRATOR: ERIC LOFGREN
 Title: Hailstorm Blaster
-Collector’s Number: 2 R 36
+Collector's Number: 2 R 36
 Faction: Gongen
 Card Type: WEAPON (NoBot) • Ranged
 Cost: 1
@@ -417,7 +417,7 @@ Game Text: This NoBot is defense +4.
 Lore: “The Shi taught the Quay to hate water. The NoBot kouhyou weapon taught them to fear it.”
 ILLUSTRATOR: CHRISTIAN PEARCE
 Title: *Hannya
-Collector’s Number: 2 R 37
+Collector's Number: 2 R 37
 Faction: Gongen
 Card Type: NOBOT• Deigan • Inverter • Bot • Unit
 Cost: 5
@@ -430,7 +430,7 @@ Game Text: Lose 3 energy ≈ Invert this NoBot/ When you invert this NoBot in a si
 Lore: Serpent demon Hannya and noble lady Deigan are two sides of the same personality in No theatre.
 ILLUSTRATOR: CHRISTIAN PEARCE
 Title: Ikazuchi Follower
-Collector’s Number: 2 C 38
+Collector's Number: 2 C 38
 Faction: Gongen
 Card Type: CHARACTER • Ikazuchi • Warrior • Unit
 Cost: 3
@@ -443,7 +443,7 @@ Game Text: As long as this character is damaged, it is power +2
 Lore: “In your might and glory I place my hand. Guide my weapon in your service.” – Kazui Oko
 ILLUSTRATOR: PAUL TOBIN
 Title: Ikazuchi Technician
-Collector’s Number: 2 C 39
+Collector's Number: 2 C 39
 Faction: Gongen
 Card Type: CHARACTER • Ikazuchi • Tech • Unit
 Cost: 3
@@ -456,7 +456,7 @@ Game Text: When this character is destroyed during a site battle, you may put it
 Lore: Combat-grade techs like Yasa Tamaro are able to repair vehicles in dangerous conditions.
 ILLUSTRATOR: PAUL TOBIN
 Title: Indomitable Will
-Collector’s Number: 2 C 40
+Collector's Number: 2 C 40
 Faction: Gongen
 Card Type: ASSET (Kizen)
 Cost: 0
@@ -466,7 +466,7 @@ Game Text: You can’t play more than one copy of this asset beneath the same kize
 Lore: “The strength of a pure spirit can empower the body to fight on after death.” – Higen Shijin, The Great Journey
 ILLUSTRATOR: MARK EVANS
 Title: Jikoku Interceptor
-Collector’s Number: 2 C 41
+Collector's Number: 2 C 41
 Faction: Gongen
 Card Type: SHIP (Capacity 0) • Tenno • Fighter
 Cost: 2
@@ -479,7 +479,7 @@ Game Text: This ship is defense +1 for each of your other ships here.
 Lore: Enhanced AI onboard these ships allows them to perform an elaborate defensive stratagem.
 ILLUSTRATOR: THOMAS DENMARK
 Title: *Kayu Gekkane
-Collector’s Number: 2 U 42
+Collector's Number: 2 U 42
 Faction: Gongen
 Card Type: CHARACTER • Deigan • Warrior • Unit
 Cost: 3
@@ -492,7 +492,7 @@ Game Text: As long as this character is at a site and your opponent has fewer th
 Lore: Gekkane realized that only decisive action could protect the Ganymede base against the rampaging Quay.
 ILLUSTRATOR: APRIL LEE
 Title: Komoku Interceptor
-Collector’s Number: 2 U 43
+Collector's Number: 2 U 43
 Faction: Gongen
 Card Type: SHIP (Capacity 0) • Tenno • Fighter
 Cost: 4
@@ -505,7 +505,7 @@ Game Text: Each of your other ships here that has “Komoku” in its title is immun
 Lore: Since the War of Independence, a new fighter design has been produced
 ILLUSTRATOR: THOMAS DENMARK
 Title: Last Stand
-Collector’s Number: 2 U 44
+Collector's Number: 2 U 44
 Faction: Gongen
 Card Type: INTERRUPT (Lost)
 Cost: 2
@@ -515,7 +515,7 @@ Game Text: Reduce your casualties by 5 for each of your ≥ support icons at targe
 Lore: “We must defend the lifeblood of our NoBot champions.”
 ILLUSTRATOR: STEVE ELLIS
 Title: Rapid Fire
-Collector’s Number: 2 U 45
+Collector's Number: 2 U 45
 Faction: Gongen
 Card Type: ASSET (Character)
 Cost: 1
@@ -525,7 +525,7 @@ Game Text: This character is defense +2. If this character doesn’t have quickdra
 Lore: Medium range plasma cannons are deployed to clear the way for NoBots as they rush into battle.
 ILLUSTRATOR: PAUL BURROW
 Title: Strength of Arms
-Collector’s Number: 2 R 46
+Collector's Number: 2 R 46
 Faction: Gongen
 Card Type: ASSET
 Cost: 1
@@ -535,7 +535,7 @@ Game Text: Each time your Deigan unit is destroyed, if there are no cards stacke
 Lore: One warrior fights like two. Two fight like ten. Ten fight like a hundred.
 ILLUSTRATOR: CHRIS TREVAS
 Title: Sword Wall
-Collector’s Number: 2 R 47
+Collector's Number: 2 R 47
 Faction: Gongen
 Card Type: INTERRUPT (Lost)
 Cost: 1
@@ -545,7 +545,7 @@ Game Text: For each asset in play, that asset’s owner must choose to either lose
 Lore: Unlike firearms, Ikazuchi swords provide defense as well as attack.
 ILLUSTRATOR: CHRIS TREVAS
 Title: *Tachikaze
-Collector’s Number: 2 R 48
+Collector's Number: 2 R 48
 Faction: Gongen
 Card Type: SHIP (Capacity 6) • Tenno • Capital
 Cost: 3
@@ -558,7 +558,7 @@ Game Text: Transport 4 (Each time this ship moves, you may move with it up to fo
 Lore: “Like the wind from a katana’s stroke, like the last breath of our enemies.” – Tenryu naming ceremony, 2389
 ILLUSTRATOR: CHRISTIAN SCHWAGER
 Title: Takumi Shadow Warriors
-Collector’s Number: 2 R 49
+Collector's Number: 2 R 49
 Faction: Gongen
 Card Type CHARACTER • Deigan • Warrior • Unit
 Cost: 4
@@ -572,7 +572,7 @@ This character may have two weapons beneath it.
 Lore: Living in darkness, kagemusha cloud their individuality to intensify their might.
 ILLUSTRATOR: FRANCIS TSAI
 Title: Tamon Interceptor
-Collector’s Number: 2 C 50
+Collector's Number: 2 C 50
 Faction: Gongen
 Card Type: SHIP (Capacity 0) • Tenno • Fighter
 Cost: 2
@@ -585,7 +585,7 @@ Game Text: When this ship is destroyed, you may put it on top of its owner’s use
 Lore: The new Gongen fighters are designed to combat technology from the other side of the rift.
 ILLUSTRATOR: THOMAS DENMARK
 Title: Tataki Commander
-Collector’s Number: 2 U 51
+Collector's Number: 2 U 51
 Faction: Gongen
 Card Type: CHARACTER • Deigan • Warrior • Unit
 Cost: 3
@@ -598,7 +598,7 @@ Game Text: • Pay 1 energy ≈ Move this character to target adjacent site where a 
 Lore: Deigan assault warriors are known for their devotion to leaders like Namaru Komo. Veterans hold a revered place in Gongen society.
 ILLUSTRATOR: PAUL BURROW
 Title: *Tennaru Hari
-Collector’s Number: 2 R 52
+Collector's Number: 2 R 52
 Faction: Gongen
 Card Type: CHARACTER • Kizen • Ikazuchi • Unit
 Cost: 4
@@ -612,7 +612,7 @@ As long as this character has a weapon beneath him, he can’t be damaged.
 Lore: “A fallen comrade at your back only strengthens your footing. A fallen army behind you makes you invincible.”- Sido, Gongen Philosopher
 ILLUSTRATOR: APRIL LEE
 Title: Thunder-Edge Greatsword
-Collector’s Number: 2 C 53
+Collector's Number: 2 C 53
 Faction: Gongen
 Card Type: WEAPON (Character) • Melee
 Cost: 2
@@ -623,7 +623,7 @@ Game Text: When the character this weapon is beneath is destroyed, you may put t
 Lore: This two-meter monomolecular blade trades speed for striking power.
 ILLUSTRATOR: BRADLEY WILLIAMS
 Title: *Traginium Cache
-Collector’s Number: 2 U 54
+Collector's Number: 2 U 54
 Faction: Gongen
 Card Type: ASSET • Stockpile
 Cost: 0
@@ -633,7 +633,7 @@ Game Text: • Pay 1 energy ≈ If you have two fighters at the same sector and ther
 Lore: Once the needs of the NoBots became evident, the Gongen began to covet other traginium sources.
 ILLUSTRATOR: CHRISTIAN SCHWAGER
 Title: Transport Aide
-Collector’s Number: 2 C 55
+Collector's Number: 2 C 55
 Faction: Gongen
 Card Type: CHARACTER • Ikazuchi • Tech • Unit
 Cost: 4
@@ -646,7 +646,7 @@ Game Text: When this character enters play, if you have a card stacked on your s
 Lore: Equipped with the proper gear, techs like Miu Zhihuan are able to move dangerous materials on hazardous planets.
 ILLUSTRATOR: JOE BOULDEN
 Title: •Unbidden Martyr
-Collector’s Number: 2 R 56
+Collector's Number: 2 R 56
 Faction: Gongen
 Card Type: ORDER (Lost)
 Cost: 2
@@ -656,7 +656,7 @@ Game Text: As an additional cost to play this order, remove your target kizen fr
 Lore: As a well-spent day brings happy sleep, so life well used brings happy death.” – Leonardo da Vinc
 ILLUSTRATOR: ERIC LOFGREN
 Title: Zocho Interceptor
-Collector’s Number: 2 C 57
+Collector's Number: 2 C 57
 Faction: Gongen
 Card Type: SHIP (Capacity 0) • Tenno • Fighter
 Cost: 2
@@ -669,7 +669,7 @@ Game Text: This ship is power +1 for each of your opponent’s ships here.
 Lore: The interceptor model features almost 1G more thrust than previous Gongen designs.
 ILLUSTRATOR: THOMAS DENMARK
 Title: *Aris Thantos
-Collector’s Number: 2 R 58
+Collector's Number: 2 R 58
 Faction: Maverick
 Card Type: CHARACTER • Accord • Rogue • Unit
 Cost: 4
@@ -682,7 +682,7 @@ Game Text: Each time you drain here for X, you may make your opponent reveal X c
 Lore: "At last year’s Jove Invitational, I turned a handful of creds and a little info into a share of the winner’s loot.”
 ILLUSTRATOR: KIERAN YANNER
 Title: *Battleaxe Boden
-Collector’s Number: 2 R 59
+Collector's Number: 2 R 59
 Faction: Maverick
 Card Type: CHARACTER • Hellcats • Tech • Unit
 Cost: 3
@@ -696,7 +696,7 @@ Game Text: Piloting 2 (As long as this character is aboard a ship, that ship is 
 Lore: Three things she can’t stand: downtime for repairs, customs frigates, and lousy Reds.
 ILLUSTRATOR: WESLEY BURT
 Title: Begging for Mercy
-Collector’s Number: 2 R 60
+Collector's Number: 2 R 60
 Faction: Maverick
 Card Type: INTERRUPT (Lost)
 Cost: 0
@@ -706,7 +706,7 @@ Game Text: Choose a number and reveal the top card of your opponent’s reserve. I
 Lore: “Wealth is the parent of luxury and indolence, and poverty of meanness and viciousness, and both of discontent.” – Plato
 ILLUSTRATOR: ED COX
 Title: Belt Runner
-Collector’s Number: 2 C 61
+Collector's Number: 2 C 61
 Faction: Maverick
 Card Type: SHIP (Capacity 1) • Cartel • Fighter
 Cost: 3
@@ -719,7 +719,7 @@ Game Text: When this ship enters play, if you have a card stacked on your stockp
 Lore: When you absolutely, positively, have to get data back to Europa in twenty hours or less.
 ILLUSTRATOR: DENNIS CALERO
 Title: Careless Cat
-Collector’s Number: 2 U 62
+Collector's Number: 2 U 62
 Faction: Maverick
 Card Type: CHARACTER • Hellcats • Tech • Unit
 Cost: 2
@@ -733,7 +733,7 @@ As long as this character has a weapon beneath her, you generate 2 more energy h
 Lore: Flameout Jackson says that fuel tanks are for emptying. Her throttle has only two settings, off and wide open.
 ILLUSTRATOR: KIERAN YANNER
 Title: *Cat’s Claw
-Collector’s Number: 2 R 63
+Collector's Number: 2 R 63
 Faction: Maverick
 Card Type: SHIP (Capacity 1) • Hellcats • Inverter • Fighter
 Cost: 3
@@ -746,7 +746,7 @@ Game Text: Each time you play a character who has piloting aboard this ship, you
 Lore: No Earther convoy wants to see the Claw show up with Killer Cait mousing around.
 ILLUSTRATOR: MIKE BRUINSMA
 Title: Chameleon
-Collector’s Number: 2 R 64
+Collector's Number: 2 R 64
 Faction: Maverick
 Card Type: ASSET
 Cost: 4
@@ -756,7 +756,7 @@ Game Text: • Lose 2 energy from your hand ≈ Activate 3 energy. You may use this 
 Lore: The decrepitude of Cartel ships can provide perfect cover in the right situation.
 ILLUSTRATOR: CHRIS J. ANDERSON
 Title: *Cribber
-Collector’s Number: 2 C 65
+Collector's Number: 2 C 65
 Faction: Maverick
 Card Type: CHARACTER • Cartel • Bot • Unit
 Cost: 2
@@ -769,7 +769,7 @@ Game Text: Each time a player reveals a card for battle destiny during a battle 
 Lore: I’m a VisiTech model 770 bot. We can track more than a dozen independent targets, even while moving through a noisy club.”
 ILLUSTRATOR: JOSHUA theJAMES SHAW
 Title: Darkslider
-Collector’s Number: 2 C 66
+Collector's Number: 2 C 66
 Faction: Maverick
 Card Type: SHIP (Capacity 1) • Cartel • Inverter • Fighter
 Cost: 2
@@ -782,7 +782,7 @@ Game Text: • Pay 4 energy ≈ Invert this ship. / Each time you reveal a card for 
 Lore: “Make sure that turret can spin three-sixty. You never know who your friends are out here.”
 ILLUSTRATOR: STEVE ELLIS
 Title: Death Dealer
-Collector’s Number: 2 C 67
+Collector's Number: 2 C 67
 Faction: Maverick
 Card Type: SHIP (Capacity 0) • Hellcats • Inverter • Fighter
 Cost: 3
@@ -795,7 +795,7 @@ Game Text: • Pay 4 energy ≈ If this ship is at a sector that has a [Maverick] su
 Lore: Not all Maverick ships are designed for running.
 ILLUSTRATOR: DENNIS CALERO
 Title: Do Not Push
-Collector’s Number: 2 U 68
+Collector's Number: 2 U 68
 Faction: Maverick
 Card Type: ASSET
 Cost: 2
@@ -805,7 +805,7 @@ Game Text: Each interrupt costs 3 more energy to play.
 Lore: Seriously. Don’t.
 ILLUSTRATOR: ATHENA HUDDLESTON
 Title: *Empty Heart
-Collector’s Number: 2 U 69
+Collector's Number: 2 U 69
 Faction: Maverick
 Card Type: ASSET • Evidence
 Cost: 2
@@ -815,7 +815,7 @@ Game Text: Each time your total battle destiny is exactly 1 at the end of the ba
 Lore: “You could buy a year’s worth of air and coolant on Mercury with this information.” – Pepper Tokarates
 ILLUSTRATOR: BRADLEY WILLIAMS
 Title: •Field Report
-Collector’s Number: 2 R 70
+Collector's Number: 2 R 70
 Faction: Maverick
 Card Type: INTERRUPT (Lost)
 Cost: 1
@@ -825,7 +825,7 @@ Game Text: Make target pending drain at a location where you have no energy icon
 Lore: Pepper and Flameout settled their debts to The Gambler with evidence gathered from the Deigan base.
 ILLUSTRATOR: BRADLEY WILLIAMS
 Title: Fortune Seeker
-Collector’s Number: 2 C 71
+Collector's Number: 2 C 71
 Faction: Maverick
 Card Type: CHARACTER • Cartel • Warrior • Unit
 Cost: 3
@@ -838,7 +838,7 @@ Game Text: When this character enters play, you may reveal the top three cards o
 Lore: Pepper Tokarates hopes to pay off her new eyes with data scrounged from the abandoned Deigan mines.
 ILLUSTRATOR: KIERAN YANNER
 Title: Gray Market Middleman
-Collector’s Number: 2 C 72
+Collector's Number: 2 C 72
 Faction: Maverick
 Card Type: CHARACTER • Cartel • Rogue • Unit
 Cost: 3
@@ -851,7 +851,7 @@ Game Text: Quickdraw 1 (Add a • to each activated ability on a weapon beneath th
 Lore: Need a gun? Fuel? Air? Slick Tommy Jianbua can help you out. He asks only a nominal fee to cover expenses.
 ILLUSTRATOR: BRIAN ROOD
 Title: *Inquiry
-Collector’s Number: 2 U 73
+Collector's Number: 2 U 73
 Faction: Maverick
 Card Type: ASSET • Evidence
 Cost: 0
@@ -861,7 +861,7 @@ Game Text: Each time your total battle destiny is exactly 3 at the end of the ba
 Lore: “There’s got to be something down here. Why else would so many Gongs have died to defend it?” – Flameout Jackson
 ILLUSTRATOR: KIERAN YANNER
 Title: *Joker Danniko
-Collector’s Number: 2 R 74
+Collector's Number: 2 R 74
 Faction: Maverick
 Card Type: CHARACTER • Kizen • Cartel • Unit
 Cost: 3
@@ -874,7 +874,7 @@ Game Text: Quickdraw 1 (Add a • to each activated ability on a weapon beneath th
 Lore: Armed and dangerous, Joker is someone to keep an eye on while you’re having a drink at the Nest.
 ILLUSTRATOR: KIERAN YANNER
 Title: *Jovian Standoff
-Collector’s Number: 2 R 75
+Collector's Number: 2 R 75
 Faction: Maverick
 Card Type: ASSET (Unit)
 Cost: 2
@@ -884,7 +884,7 @@ Game Text: Dismiss this asset ≈ If this unit is at a site, make target pending d
 Lore: Sitting at the table with The Gambler often brings either a great blessing or a terrible price. Sometimes it’s hard to tell one from the other.
 ILLUSTRATOR: KIERAN YANNER
 Title: Little Nelly
-Collector’s Number: 2 C 76
+Collector's Number: 2 C 76
 Faction: Maverick
 Card Type: VEHICLE • Cogs • Unit
 Cost: 3
@@ -897,7 +897,7 @@ Game Text: Size 2, Transport 2 This vehicle is power +1 for each energy icon on 
 Lore: Cogs never stop wrenching on their machines, the fastest in the Sol System.
 ILLUSTRATOR: ATHENA HUDDLESTON
 Title: Long Odds
-Collector’s Number: 2 R 77
+Collector's Number: 2 R 77
 Faction: Maverick
 Card Type: INTERRUPT (Lost)
 Cost: 1
@@ -907,7 +907,7 @@ Game Text: Reveal the bottom card of your reserve, note its destiny and put it o
 Lore: When the threat level goes red, that’s when you begin to feel alive.
 ILLUSTRATOR: ATHENA HUDDLESTON
 Title: Max Retros
-Collector’s Number: 2 R 78
+Collector's Number: 2 R 78
 Faction: Maverick
 Card Type: INTERRUPT (Lost
 Cost: 1
@@ -917,7 +917,7 @@ Game Text: As an additional cost to play this interrupt, revert your inverter sh
 Lore: Pulling 4Gs of reverse thrust in a hog like the Rugged Empty is no picnic.
 ILLUSTRATOR: MIKE BRUINSMA
 Title: *Reliquaries
-Collector’s Number: 2 U 79
+Collector's Number: 2 U 79
 Faction: Maverick
 Card Type: ASSET • Evidence
 Cost: 1
@@ -927,7 +927,7 @@ Game Text: Each time your total battle destiny is exactly 5 at the end of the ba
 Lore: “Analysis of the containment vessel reveals atypical magnetic and gravitic residues.” – Deigan lab report
 ILLUSTRATOR: MICHELLE SPALDING
 Title: *Rugged Empty
-Collector’s Number: 2 U 80
+Collector's Number: 2 U 80
 Faction: Maverick
 Card Type: SHIP (Capacity 0) • Cartel • Inverter • Fighter
 Cost: 1
@@ -940,7 +940,7 @@ Game Text: Each time you win a battle here, you may invert this ship./ Revert th
 Lore: This model’s got lots of compartments. Useful for my boys’ small package trade.” – The Gambler
 ILLUSTRATOR: MIKE BRUINSMA
 Title: Snap Switch
-Collector’s Number: 2 R 81
+Collector's Number: 2 R 81
 Faction: Maverick
 Card Type: INTERRUPT (Lost)
 Cost: 0
@@ -950,7 +950,7 @@ Game Text: Until end of turn, switch tactics and defense of target character at 
 Lore: “Is that even possible?”
 ILLUSTRATOR: KIERAN YANNER
 Title: Synched Up
-Collector’s Number: 2 U 82
+Collector's Number: 2 U 82
 Faction: Maverick
 Card Type: ORDER (Used)
 Cost: 0
@@ -960,7 +960,7 @@ Game Text: Reveal three target cards from the top of your reserve. Put one of th
 Lore: “Sister Spotweld was Mother Teresa with a wrench and blowtorch.” – Your Life is Already Lost!
 ILLUSTRATOR: MICHELLE SPALDING
 Title: *Traginium Stash
-Collector’s Number: 2 U 83
+Collector's Number: 2 U 83
 Faction: Maverick
 Card Type: ASSET • Stockpile
 Cost: 0
@@ -970,7 +970,7 @@ Game Text: • Pay 1 energy ≈ • Pay 1 energy ≈ If your battle destiny is greater t
 Lore: “Make money, money by fair means if you can, if not, but any means money.” – Horace
 ILLUSTRATOR: ED COX
 Title: Wagner S70 Plasma Bolter
-Collector’s Number: 2 C 84
+Collector's Number: 2 C 84
 Faction: Maverick
 Card Type: WEAPON (Character) • Ranged
 Cost: 0
@@ -980,7 +980,7 @@ Game Text: • Pay 1 energy ≈ Choose target unit your opponent has in a site battl
 Lore: “You’ll shoot your photonic receptor element out!”
 ILLUSTRATOR: BRIAN ROOD
 Title: Widowmaker
-Collector’s Number: 2 C 85
+Collector's Number: 2 C 85
 Faction: Maverick
 Card Type: SHIP (Capacity 0) • Hellcats • Inverter • Fighter
 Cost: 3
@@ -993,7 +993,7 @@ Game Text: • Stack target card in your opponent’s lost pile face down on your st
 Lore: Neither the tricky handling nor the nickname scares off ‘Cat pilots.
 ILLUSTRATOR: MIKE BRUINSMA
 Title: Zhang Hotrod
-Collector’s Number: 2 U 86
+Collector's Number: 2 U 86
 Faction: Maverick
 Card Type: VEHICLE • Cartel • Unit
 Cost: 4
@@ -1006,7 +1006,7 @@ Game Text: Size 2, Transport 2 When you play this vehicle, you may put up to two
 Lore: Dismissed from Gongen service due to twitchy handling, salvaged Zhangs were re- engineered by Mav techs.
 ILLUSTRATOR: CHRIS J. ANDERSON
 Title: Alcove of Panacea
-Collector’s Number: 2 U 87
+Collector's Number: 2 U 87
 Faction: Shi
 Card Type: ASSET (Location)
 Cost: 2
@@ -1016,7 +1016,7 @@ Game Text: You may play this asset beneath one of your opponent’s locations. Eac
 Lore: "When a Crown dies, the Tilak fail.” – Shi axiom
 ILLUSTRATOR: ROBERTO CAMPUS
 Title: :*Ashmahi-Anant
-Collector’s Number: 2 R 88
+Collector's Number: 2 R 88
 Faction: Shi
 Card Type: CHARACTER • Kizen • Crown • Anant • Unit
 Cost: 2
@@ -1029,7 +1029,7 @@ Game Text: Piloting 3 •Pay 4 energy ≈ Choose target ship your opponent has in a 
 Lore: "We expected only the metal humans. The appearance of the four-legged rebels, however, changes nothing.”
 ILLUSTRATOR: JOSHUA theJAMES SHAW
 Title: Assault Carbine
-Collector’s Number: 2 C 89
+Collector's Number: 2 C 89
 Faction: Shi
 Card Type: WEAPON (Character) • Ranged
 Cost: 0
@@ -1039,7 +1039,7 @@ Game Text: • Pay 1 energy ≈ Choose target unit your opponent has in a site battl
 Lore: A Shi’s choice of weapon is dictated by its opposition. Earther troops can be dispatched with a carbine... most don’t warrant the honor of a vatarma.
 ILLUSTRATOR: DREW BAKER
 Title: Blinding Scream
-Collector’s Number: 2 U 90
+Collector's Number: 2 U 90
 Faction: Shi
 Card Type: INTERRUPT (Lost)
 Cost: 0
@@ -1049,7 +1049,7 @@ Game Text: You can’t play this interrupt unless you have a kizen at a location. 
 Lore: “Ability HX45: Active disruption of cognitive processes.” – Expanded Awareness Journal
 ILLUSTRATOR: KIERAN YANNER
 Title: Carabinier
-Collector’s Number: 2 C 91
+Collector's Number: 2 C 91
 Faction: Shi
 Card Type: CHARACTER • Anant • Warrior • Unit
 Cost: 2
@@ -1062,7 +1062,7 @@ Game Text: Quickdraw 1 (Add a • to each activated ability on a weapon beneath th
 Lore: Like many Shi warriors, Durasha is often assigned to protect valuable assets.
 ILLUSTRATOR: DREW BAKER
 Title: Claviger
-Collector’s Number: 2 U 92
+Collector's Number: 2 U 92
 Faction: Shi
 Card Type: CHARACTER • Anant • Warrior • Unit
 Cost: 4
@@ -1075,7 +1075,7 @@ Game Text: Scouting (You may play this character at a site that has no energy ic
 Lore: Ampatra relies on specialized equipment when tracking escaped Quay.
 ILLUSTRATOR:
 Title: Cornered
-Collector’s Number: 2 C 93
+Collector's Number: 2 C 93
 Faction: Shi
 Card Type: INTERRUPT (Used)
 Cost: 0
@@ -1085,7 +1085,7 @@ Game Text: Your opponent causes attrition –4 in a site battle where you have tar
 Lore: As the clavigers close in, escapees have nowhere to hide.
 ILLUSTRATOR: NICK STATHOPOULOS
 Title: Crippled
-Collector’s Number: 2 R 94
+Collector's Number: 2 R 94
 Faction: Shi
 Card Type: ASSET
 Cost: 3
@@ -1095,7 +1095,7 @@ Game Text: Each card you play costs one more [Shi] support icon to play. Each of
 Lore: The opening gambit of Dhanake-Tilak’s plan called for a quarrel to blunt the XeLabs fighter defenses.
 ILLUSTRATOR: SEAN McNALLY
 Title: Crown Vessel
-Collector’s Number: 2 U 95
+Collector's Number: 2 U 95
 Faction: Shi
 Card Type: SHIP (Capacity 3) • Sudeva • Capital
 Cost: 3
@@ -1108,7 +1108,7 @@ Game Text: • Lose 2 energy ≈ Make this ship and each unit aboard it immune to at
 Lore: “The eyes of the Sudeva see the whole galaxy.” – Shi axiom
 ILLUSTRATOR: JOE BOULDEN
 Title: *Dhanake-Tilak
-Collector’s Number: 2 R 96
+Collector's Number: 2 R 96
 Faction: Shi
 Card Type: CHARACTER • Kizen • Crown • Tilak • Unit
 Cost: 2
@@ -1121,7 +1121,7 @@ Game Text: This character is power +1 for each of your [Shi] support icons. As l
 Lore: “First task: recovery of agents. Second task: extinguish evidence.”
 ILLUSTRATOR: KIERAN YANNER
 Title: Eavesdropper
-Collector’s Number: 2 U 97
+Collector's Number: 2 U 97
 Faction: Shi
 Card Type: INTERRUPT (Lost)
 Cost: 2
@@ -1131,7 +1131,7 @@ Game Text: As an additional cost to play this interrupt, damage your target unit
 Lore: The first Tilak to enter XeLabs Yacht Works were trained reconnoiterers.
 ILLUSTRATOR: PAUL BURROW
 Title: Few Escape
-Collector’s Number: 2 R 98
+Collector's Number: 2 R 98
 Faction: Shi
 Card Type: INTERRUPT (Lost)
 Cost: 5
@@ -1141,7 +1141,7 @@ Game Text: You may play this interrupt only during your move phase. Destroy targ
 Lore: Tilak quarrels pursued the XeLabs ships fleeing the Yacht Works.
 ILLUSTRATOR: JOE BOULDEN
 Title: Hastecurrent Pursuer
-Collector’s Number: 2 C 99
+Collector's Number: 2 C 99
 Faction: Shi
 Card Type: SHIP (Capacity 1) • Anant • Fighter
 Cost: 4
@@ -1154,7 +1154,7 @@ Game Text: This ship costs 1 less energy to play at a sector for each of your op
 Lore: Hastecurrents sent to support Reaper Craft above Ganymede chased off Hellcat ships contracted to defend the Maverick mine.
 ILLUSTRATOR: JOE BOULDEN
 Title: Key Keeper
-Collector’s Number: 2 C 100
+Collector's Number: 2 C 100
 Faction: Shi
 Card Type: CHARACTER • Anant • Warrior • Unit
 Cost: 2
@@ -1167,7 +1167,7 @@ Game Text: As long as you have a card stacked on your stockpile asset, this char
 Lore: Spineslingers hold no surprises for veteran clavigers tasked with reclaiming them.
 ILLUSTRATOR: WESLEY BURT
 Title: Lifeseeker
-Collector’s Number: 2 C 101
+Collector's Number: 2 C 101
 Faction: Shi
 Card Type: CHARACTER • Tilak • Tech • Unit
 Cost: 1
@@ -1180,7 +1180,7 @@ Game Text: • Pay 5 energy ≈ Put target other damaged unit here in its owner’s ha
 Lore: When a patriarch is missing or captured, Asendar and its crew are called upon.
 ILLUSTRATOR: DREW BAKER
 Title: Ore Alembic
-Collector’s Number: 2 C 102
+Collector's Number: 2 C 102
 Faction: Shi
 Card Type: CHARACTER • Anant • Tech • Unit
 Cost: 1
@@ -1193,7 +1193,7 @@ Game Text: • Lose a stockpile asset from your hand ≈ Reduce your casualties in t
 Lore: Traginium’s importance to rift travel ensures that collection experts like Sanatha are well respected.
 ILLUSTRATOR: JOE BOULDEN
 Title: Protective Fire
-Collector’s Number: 2 U 103
+Collector's Number: 2 U 103
 Faction: Shi
 Card Type: INTERRUPT (Lost)
 Cost: 1
@@ -1203,7 +1203,7 @@ Game Text: Make target ship and each unit aboard it immune to attrition until en
 Lore: “Defend the Reaper Craft at all costs!” – Ashmahi-Anant
 ILLUSTRATOR: JOE BOULDEN
 Title: *Rantosh-Anant
-Collector’s Number: 2 R 104
+Collector's Number: 2 R 104
 Faction: Shi
 Card Type: CHARACTER • Crown • Anant • Unit
 Cost: 5
@@ -1216,7 +1216,7 @@ Game Text: Piloting 2 As long as this character is aboard your ship and your opp
 Lore: “It was no coincidence that Oligarch- Sudhand chose me to command the Ganymede mission. Our balances now stand equal.”
 ILLUSTRATOR: DREW BAKER
 Title: Reaper Craft
-Collector’s Number: 2 R 105
+Collector's Number: 2 R 105
 Faction: Shi
 Card Type: SHIP (Capacity 6) • Tilak • Inverter • Capital
 Cost: 2
@@ -1229,7 +1229,7 @@ Game Text: •Lose a stockpile asset from your hand ≈ Invert this ship./ • Revert 
 Lore: Collector ships replenish traginium stores that were exhausted with the opening of the rift.
 ILLUSTRATOR: JOE BOUlDEN
 Title: Resolute Quarrel
-Collector’s Number: 2 C 106
+Collector's Number: 2 C 106
 Faction: Shi
 Card Type: SHIP (Capacity 1) • Tilak • Fighter
 Cost: 3
@@ -1242,7 +1242,7 @@ Game Text: When this ship enters play, your opponent puts a card from his or her
 Lore: “Send in two flights of quarrels to make sure the Vinisha can approach safely.” – Dhanake-Tilak
 ILLUSTRATOR: JOE BOULDEN
 Title: Selsyn Maneuver
-Collector’s Number: 2 U 107
+Collector's Number: 2 U 107
 Faction: Shi
 Card Type: ASSET (Weapon)
 Cost: 0
@@ -1252,7 +1252,7 @@ Game Text: Each time an ability on the weapon this asset is beneath damages a sh
 Lore: Over many years, stability within squadrons has bred an awareness akin to telepathy.
 ILLUSTRATOR: JOE BOULDEN
 Title: Swiftwave Attacker
-Collector’s Number: 2 R 108
+Collector's Number: 2 R 108
 Faction: SHI
 Card Type: SHIP (Capacity 1) • Anant • Fighter
 Cost: 3
@@ -1265,7 +1265,7 @@ Game Text: Captain – Ashmahi-Anant (As long as Ashmahi-Anant is aboard this ship
 Lore: A veteran Swiftwave squadron provided protection for Anant capital ships.
 ILLUSTRATOR: JOE BOULDEN
 Title: Target of Opportunity
-Collector’s Number: 2 U 109
+Collector's Number: 2 U 109
 Faction: Shi
 Card Type: ASSET
 Cost: 1
@@ -1275,7 +1275,7 @@ Game Text: Each location where you have an Anant character gains a [Shi] support
 Lore: The Maverick mine on Ganymede was just another barbarian outpost waiting to be conquered.
 ILLUSTRATOR: JOE BOULDEN
 Title: Tilak House Guard
-Collector’s Number: 2 C 110
+Collector's Number: 2 C 110
 Faction: Shi
 Card Type: VEHICLE • FedGrav • Unit
 Cost: 5
@@ -1288,7 +1288,7 @@ Game Text: When this character enters play, you may draw a card from your reserv
 Lore: House guards perform duties beyond their ceremonial responsibilities.
 ILLUSTRATOR: KIERAN YANNER
 Title: *Tilak-Vinisha
-Collector’s Number: 2 R 111
+Collector's Number: 2 R 111
 Faction: Shi
 Card Type: SHIP (Capacity 6) • Tilak • Inverter • Capital
 Cost: 6
@@ -1301,7 +1301,7 @@ Game Text: When your opponent plays a ship here or moves a ship to here, you may
 Lore: The flagship of the Tilak fleet was sent to Venus to recover their planted quarrel and its pilot.
 ILLUSTRATOR: JOE BOULDEN
 Title: *Traginium Harvest
-Collector’s Number: 2 U 112
+Collector's Number: 2 U 112
 Faction: Shi
 Card Type: ASSET • Stockpile
 Cost: 1
@@ -1311,7 +1311,7 @@ Game Text: Each time an opponent’s battle phase ends, if your opponent didn’t pe
 Lore: Once their traginium stores are replenished, the Shi will regain the use of rift technology.
 ILLUSTRATOR: JOE BOULDEN
 Title: Undercurrents
-Collector’s Number: 2 R 113
+Collector's Number: 2 R 113
 Faction: Shi
 Card Type: INTERRUPT (Lost)
 Cost: 1
@@ -1321,7 +1321,7 @@ Game Text: As an additional cost to play this interrupt, lose 2 energy. Make eac
 Lore: “The walkers couldn’t see the elaborate trap we set for them on the second planet.” – Vidanar
 ILLUSTRATOR: KIERAN YANNER
 Title: *Vidanar
-Collector’s Number: 2 R 114
+Collector's Number: 2 R 114
 Faction: Shi
 Card Type: CHARACTER • Tilak • Tech • Unit
 Cost: 3
@@ -1334,7 +1334,7 @@ Game Text: • Lose 1 energy ≈ Look at the top X cards of your reserve, where X is
 Lore: “The nanites kept it alive, as expected. We do not know what the walkers have done to it.”
 ILLUSTRATOR: TERRY ROBINSON
 Title: *Anakatika
-Collector’s Number: 2 U 115
+Collector's Number: 2 U 115
 Faction: Quay
 Card Type: SHIP (Capacity 1) • Qurim • Fighter
 Cost: 1
@@ -1347,7 +1347,7 @@ Game Text: ••• Put two cards from your hand on top of your used pile in any orde
 Lore: The elite Anaka squadron led the attack on the Anant flagship.
 ILLUSTRATOR: DAIVD DEEN
 Title: Attack Plan
-Collector’s Number: 2 C 116
+Collector's Number: 2 C 116
 Faction: Quay
 Card Type: INTERRUPT (Lost)
 Cost: 1
@@ -1357,7 +1357,7 @@ Game Text: Invert your inverter. You may play this interrupt only during your co
 Lore: The sweetest land is land taken from your enemy. It comes with the satisfaction that you left them a bitter taste.
 ILLUSTRATOR: SEAN McNALLY
 Title: *Banak Ilnasit
-Collector’s Number: 2 R 117
+Collector's Number: 2 R 117
 Faction: Quay
 Card Type: CHARACTER • Kizen • Qurim • Unit
 Cost: 7
@@ -1370,7 +1370,7 @@ Game Text: Each time you win a battle here, you may damage target other unit her
 Lore: “Though we are new to the Council, the impact of the Qurim will soon resonate throughout this system.”
 ILLUSTRATOR: JOHN HOWE, COLOR BY KIERAN YANNER
 Title: Breaching
-Collector’s Number: 2 U 118
+Collector's Number: 2 U 118
 Faction: Quay
 Card Type: INTERRUPT (Used)
 Cost: 0
@@ -1380,7 +1380,7 @@ Game Text: Destroy target unit that doesn’t have piloting at a sector location.
 Lore: Each item of captured Shi hardware is carefully analyzed by the Qurim.
 ILLUSTRATOR: SEAN McNALLY
 Title: Clandestine Team
-Collector’s Number: 2 C 119
+Collector's Number: 2 C 119
 Faction: Quay
 Card Type: CHARACTER • Tahka • Predator • Unit
 Cost: 4
@@ -1393,7 +1393,7 @@ Game Text: • Pay 0 energy ≈ Move this character to a related location. You may o
 Lore: “Chuluk Squad 4, have you reached your objective?”
 ILLUSTRATOR: SEDONE THONGVILAY
 Title: Deft Attacker
-Collector’s Number: 2 C 120
+Collector's Number: 2 C 120
 Faction: Quay
 Card Type: SHIP (Capacity 1) • Qurim • Fighter
 Cost: 2
@@ -1406,7 +1406,7 @@ Game Text: As long as you have no more than one card in your used pile, this shi
 Lore: Show them that we know the Shi can be killed.”
 ILLUSTRATOR: DAVID DEEN
 Title: Encroaching Hekaton
-Collector’s Number: 2 C 121
+Collector's Number: 2 C 121
 Faction: Quay
 Card Type: SHIP (Capacity 1) • Luhus • Fighter
 Cost: 2
@@ -1419,7 +1419,7 @@ Game Text: When this ship enters play, your opponent loses 2 energy for each of 
 Lore: “Reliance on technology is no match for our innate skill. Their predictability will bring us an easy victory.” - Tukuran
 ILLUSTRATOR: DAVID DEEN
 Title: Extraction
-Collector’s Number: 2 R 122
+Collector's Number: 2 R 122
 Faction: Quay
 Card Type: ASSET
 Cost: 4
@@ -1429,7 +1429,7 @@ Game Text: When you play this asset, stack the top card of your opponent’s reser
 Lore: Many Quay have a fierce hunger for knowledge, instilled by years of vassalage. They temper their aggression with cunning, and value all information pried from their enemy.
 ILLUSTRATOR: JIM PAVELEC
 Title: Fill With Fear
-Collector’s Number: 2 R 123
+Collector's Number: 2 R 123
 Faction: Quay
 Card Type: INTERRUPT (Lost)
 Cost: 3
@@ -1439,7 +1439,7 @@ Game Text: As an additional cost to play this interrupt, revert your target inve
 Lore: “Have you seen how the twolegs cower? They are spineless and weak.”
 ILLUSTRATOR: PHILIPPE ‘HPX1’ GUYENNE
 Title: Flamecutter
-Collector’s Number: 2 R 124
+Collector's Number: 2 R 124
 Faction:
 Card Type: CHARACTER • Tahka • Inverter • Unit
 Cost:
@@ -1452,7 +1452,7 @@ Game Text: Each time you win a battle here and have no more than one card in you
 Lore: Takrat uses the fire of kundanaka to burn through even the thickest metalcrete walls.
 ILLUSTRATOR: JOHN HOWE- COLOR BY KIERAN YANNER
 Title: •Flare of Rage
-Collector’s Number: 2 U 125
+Collector's Number: 2 U 125
 Faction: Quay
 Card Type: INTERRUPT (Used)
 Cost: 0
@@ -1462,7 +1462,7 @@ Game Text: Target player puts his or her used pile beneath his or her reserve an
 Lore: “From him the fire shone forth, and our hearts and spirit fell before its brilliance.” – Higen Orochito
 ILLUSTRATOR: ERIC DESCHAMPS
 Title: Hekaton Flametongue
-Collector’s Number: 2 C 126
+Collector's Number: 2 C 126
 Faction: Quay
 Card Type: WEAPON (Fighter) • Ranged
 Cost: 0
@@ -1472,7 +1472,7 @@ Game Text: This ship is power +1 for each related location you control. • Pay 1 
 Lore: Although shorter in range than most shipboard weapons, the Flametongue is lethally effective.
 ILLUSTRATOR: JIM PAVELEC
 Title: Hullripper
-Collector’s Number: 2 C 127
+Collector's Number: 2 C 127
 Faction: Quay
 Card Type: CHARACTER • Tahka • Inverter • Unit
 Cost: 2
@@ -1485,7 +1485,7 @@ Game Text: • Reveal a location from your hand and put it on top of your used pil
 Lore: With a raking saw and several shovel-spines, Klutak penetrates natural barriers and vehicle armor alike.
 ILLUSTRATOR: JOSHUW theJAMES SHAW
 Title: Ilna Guide
-Collector’s Number: 2 C 128
+Collector's Number: 2 C 128
 Faction: Quay
 Card Type: CHARACTER • Qurim • Tech • Unit
 Cost: 2
@@ -1498,7 +1498,7 @@ Game Text: Piloting 1 (As long as this character is aboard a ship, that ship is 
 Lore: The Ilna’s talents lay primarily in shipbuilding. Some, like Alakan, are also able pilots.
 ILLUSTRATOR: SEAN McNALLY
 Title: Intimidation
-Collector’s Number: 2 U 129
+Collector's Number: 2 U 129
 Faction: Quay
 Card Type: ORDER (Used)
 Cost: 0
@@ -1508,7 +1508,7 @@ Game Text: Your opponent pays 2 energy for each Tahka unit you have at target ba
 Lore: “We will despoil their mine and claim their traginium and have sport with them as well!” – Katuka
 ILLUSTRATOR: ERIC DESCHAMPS
 Title: *Karaktika
-Collector’s Number: 2 R 130
+Collector's Number: 2 R 130
 Faction: Quay
 Card Type: SHIP (Capacity 4) • Tahka • Capital
 Cost: 5
@@ -1521,7 +1521,7 @@ Game Text: Characters aboard this ship don’t count against its capacity. • Lose 
 Lore: Karaktika was sent by Sitka to attack the Gongen mining facility on Ganymede.
 ILLUSTRATOR: JIM PAVELEC
 Title: *Katuka
-Collector’s Number: 2 U 131
+Collector's Number: 2 U 131
 Faction: Quay
 Card Type: CHARACTER • Tahka • Predator • Unit
 Cost: 2
@@ -1534,7 +1534,7 @@ Game Text: Quickdraw 1 (Add a • to each activated ability on a weapon beneath th
 Lore: “Do not doubt their leader will tell us what we want to know. I will ensure it.”
 ILLUSTRATOR: SEDONE THONGVILAY
 Title: *Lahrik
-Collector’s Number: 2 R 132
+Collector's Number: 2 R 132
 Faction: Quay
 Card Type: CHARACTER • Tahka • Inverter • Unit
 Cost: 2
@@ -1547,7 +1547,7 @@ Game Text: Each time an opponent’s unit is lost at this location, you may invert
 Lore: “We walk through walls. The twolegs have nowhere to hide.”
 ILLUSTRATOR: PHILIPPE ‘HPX1’ GUYENNE
 Title: Life Leech
-Collector’s Number: 2 R 133
+Collector's Number: 2 R 133
 Faction: Quay
 Card Type: INTERRUPT (Lost)
 Cost: 0
@@ -1557,7 +1557,7 @@ Game Text: As an additional cost to play this interrupt, put your other target c
 Lore: “I accepted his surrender. Posthumously.” – Kulak
 ILLUSTRATOR: SEAN McNALLY
 Title: Luhus Spearhead
-Collector’s Number: 2 C 134
+Collector's Number: 2 C 134
 Faction: Quay
 Card Type: CHARACTER • Luhus • Inverter • Unit
 Cost: 0
@@ -1570,7 +1570,7 @@ Game Text: Pay 2 energy ≈ Invert this character. You may use this ability only w
 Lore: Wahkat uses the searing potency of his kundanaka to terrify his enemies.
 ILLUSTRATOR: SEAN McNALLY
 Title: *Rakat
-Collector’s Number: 2 U 135
+Collector's Number: 2 U 135
 Faction: Quay
 Card Type: CHARACTER • Qurim • Tech • Unit
 Cost: 2
@@ -1583,7 +1583,7 @@ Game Text: Piloting 1 (As long as this character is aboard a ship, that ship is 
 Lore: “I have advised our chieftain that we should pursue an alliance with the Tahka.”
 ILLUSTRATOR: JOHN HOWE- COLOR BY KIERAN YANNER
 Title: Ravagers
-Collector’s Number: 2 C 136
+Collector's Number: 2 C 136
 Faction: Quay
 Card Type: CHARACTER • Tahka • Predator • Unit
 Cost: 2
@@ -1596,7 +1596,7 @@ Game Text: As long as you have a card stacked on your stockpile asset and this c
 Lore: They didn’t come to capture the traginium or the Gongen.
 ILLUSTRATOR: PHILIPPE ‘HPX1’ GUYENNE
 Title: Rousing Leap
-Collector’s Number: 2 R 137
+Collector's Number: 2 R 137
 Faction: Quay
 Card Type: INTERRUPT (Lost)
 Cost: 0
@@ -1606,7 +1606,7 @@ Game Text: As an additional cost to play this interrupt, lose five cards from yo
 Lore: As Katuka plunged towards the NoBot, her fellow Tahka fought with a newfound fury.
 ILLUSTRATOR: PHILIPPE‘HPX1’GUYENNE
 Title: Spineslinger
-Collector’s Number: 2 R 138
+Collector's Number: 2 R 138
 Faction: Quay
 Card Type: CHARACTER • Luhus • Predator • Unit
 Cost: 2
@@ -1619,7 +1619,7 @@ Game Text: This character can’t move. Dismiss this character and lose 2 energy ≈
 Lore: Slingers manipulate their carapace to hurl short-ranged volleys of barbed spines. It’s like a shotgun blast of razorwire.
 ILLUSTRATOR: JOHN HOWE- COLOR BY KIERAN YANNER
 Title: Suppressed
-Collector’s Number: 2 R 139
+Collector's Number: 2 R 139
 Faction: Quay
 Card Type: ASSET
 Cost: 2
@@ -1629,7 +1629,7 @@ Game Text: • Pay 2 energy ≈ Your opponent loses 2 energy. You may use this abili
 Lore: A Quay that smolders with the heat of inner fire is not easily forgotten... assuming one lives to remember.
 ILLUSTRATOR: CHRISTIAN PEARCE
 Title: Tahka Assault Craft
-Collector’s Number: 2 U 140
+Collector's Number: 2 U 140
 Faction: Quay
 Card Type: SHIP (Capacity 3) • Tahka • Capital
 Cost: 4
@@ -1642,7 +1642,7 @@ Game Text: When this ship enters play at a sector where you have no support icon
 Lore: Landing ships deliver dozens of predators planetside to take and hold enemy territory.
 ILLUSTRATOR: JOE BOULDEN
 Title: *Traginium Hoard
-Collector’s Number: 2 U 141
+Collector's Number: 2 U 141
 Faction: Quay
 Card Type: ASSET • Stockpile
 Cost: 1
@@ -1652,7 +1652,7 @@ Game Text: • Pay 1 energy ≈ If you control three or more battlegrounds and there
 Lore: “It matters not to me what it is for. It only matters that the Shi desire it.” – Sitka
 ILLUSTRATOR: PHILIPPE‘HPX1’GUYENNE
 Title: Construction Bot
-Collector’s Number: 2 C 142
+Collector's Number: 2 C 142
 Faction: Independent
 Card Type: CHARACTER • Bot • Unit
 Cost: 1
@@ -1664,7 +1664,7 @@ Game Text: • Reveal an Earther card from your hand and put it on top of your use
 Lore: No dangerous high rise work for humans any more.
 ILLUSTRATOR: JOSHUA theJAMES SHAW
 Title: Geisha Bot
-Collector’s Number: 2 C 143
+Collector's Number: 2 C 143
 Faction: Independent
 Card Type: CHARACTER • Bot • Unit
 Cost: 1
@@ -1676,7 +1676,7 @@ Game Text: • Reveal a Gongen card from your hand and put it on top of your used 
 Lore: Friends can take many forms – even manufactured.
 ILLUSTRATOR: BRIAN ROOD
 Title: Hunter Bot
-Collector’s Number: 2 C 144
+Collector's Number: 2 C 144
 Faction: Independent
 Card Type: CHARACTER • Bot • Unit
 Cost: 1
@@ -1688,7 +1688,7 @@ Game Text: • Reveal a Quay card from your hand and put it on top of your used pi
 Lore: Quay bots are built for warfare, not servitude.
 ILLUSTRATOR: JOSHUA theJAMES SHAW
 Title: Long Way Down
-Collector’s Number: 2 R 145
+Collector's Number: 2 R 145
 Faction: Independent
 Card Type: ASSET (Location)
 Cost: 1
@@ -1697,7 +1697,7 @@ Game Text: You may play this asset beneath one of your opponent’s locations. Eac
 Lore: “Just hold on!”
 ILLUSTRATOR: SEDONE THONGVILAY
 Title: Porter Bot
-Collector’s Number: 2 C 146
+Collector's Number: 2 C 146
 Faction: Independent
 Card Type: CHARACTER • Bot • Unit
 Cost: 1
@@ -1709,7 +1709,7 @@ Game Text: • Reveal a Shi card from your hand and put it on top of your used pil
 Lore: “How may I be of service?”
 ILLUSTRATOR: JOSHUA theJAMES SHAW
 Title: Prolonged Exposure
-Collector’s Number: 2 R 147
+Collector's Number: 2 R 147
 Faction: Independent
 Card Type: ASSET
 Cost: 2
@@ -1718,7 +1718,7 @@ Game Text: At the start of each player’s control phase, that player loses 1 ener
 Lore: It’s theorized that Traginium has many uses... and dangers... to discover.
 ILLUSTRATOR: WESLEY BURT
 Title: Restricted Passage
-Collector’s Number: 2 U 148
+Collector's Number: 2 U 148
 Faction: Independent
 Card Type: ASSET
 Cost: 4
@@ -1727,7 +1727,7 @@ Game Text: As an additional cost for a player to play a location that has no sup
 Lore: “Please present your registration and identification.”
 ILLUSTRATOR: SEDONE THONGVILAY
 Title: Server Bot
-Collector’s Number: 2 C 149
+Collector's Number: 2 C 149
 Faction: Independent
 Card Type: CHARACTER • Bot • Unit
 Cost: 1
@@ -1739,7 +1739,7 @@ Game Text: • Reveal a Maverick card from your hand and put it on top of your use
 Lore: Mavericks live in bars, and someone – or something – has to serve the drinks.
 ILLUSTRATOR: JOSHUA theJAMES SHAW
 Title: *Arethusa/Remote Power Plant
-Collector’s Number: 2 C 150
+Collector's Number: 2 C 150
 Faction: Independent
 Card Type: LOCATION (Sector) • Asteroid
 Destiny: 0
@@ -1748,7 +1748,7 @@ Energy: 2/1
 Game Text: As long as a player has an inverted ship here, he or she generates 2 more energy here.
 ILLUSTRATOR: DANNIS CALERO
 Title: Belt/Derelict Freighter
-Collector’s Number: 2 U 151
+Collector's Number: 2 U 151
 Faction: Independent
 Card Type: LOCATION (Sector) • Station
 Destiny: 0
@@ -1757,7 +1757,7 @@ Energy: 1 Quay
 Game Text: Encampment (Stack this card beneath target location where you have an energy icon, unit or ship. This card is no longer a location or sector and target gains this card’s energy and support icons that are on your side. You may stack only one encampment here.)
 ILLUSTRATOR: DAVID DEEN
 Title: Belt/Navigation Corridor
-Collector’s Number: 2 U 152
+Collector's Number: 2 U 152
 Faction: Independent
 Card Type: LOCATION (Sector) • Station
 Destiny: 0
@@ -1766,7 +1766,7 @@ Energy: 1/1
 Game Text: Encampment (Stack this card beneath target location where you have an energy icon, unit or ship. This card is no longer a location or sector and target gains this card’s energy and support icons that are on your side. You may stack only one encampment here.)
 ILLUSTRATOR: KIERAN YANNER
 Title: Belt/Pilgrims’ Holdings
-Collector’s Number: 2 U 153
+Collector's Number: 2 U 153
 Faction: Independent
 Card Type: LOCATION (Sector) • Asteroid
 Destiny: 0
@@ -1775,7 +1775,7 @@ Energy: 1/1
 Game Text: Encampment (Stack this card beneath target location where you have an energy icon, unit or ship. This card is no longer a location or sector and target gains this card’s energy and support icons that are on your side. You may stack only one encampment here.)
 ILLUSTRATOR: KIERAN YANNER
 Title: *Ganymede/Abandoned Mine
-Collector’s Number: 2 R 154
+Collector's Number: 2 R 154
 Faction: Independent
 Card Type: LOCATION (Site)
 Destiny: 3
@@ -1784,7 +1784,7 @@ Energy: 2/2
 Game Text: • Put a card stacked on your stockpile asset in its owner’s lost pile ≈ Make your target pending drain here +1. Any player may use this ability.
 ILLUSTRATOR: DAVID DEEN
 Title: *Ganymede/Captured Refinery
-Collector’s Number: 2 C 155
+Collector's Number: 2 C 155
 Faction: Independent
 Card Type: LOCATION (Site)
 Destiny: 0
@@ -1793,7 +1793,7 @@ Energy: 1/1
 Game Text: • Pay 3 energy ≈ Your opponent loses 1 energy for each of your inverted units here. You may use this ability only when you control this site during your control phase. Any player may use this ability.
 ILLUSTRATOR: FRANCIS TSAI
 Title: *Ganymede/Orbital Expanse
-Collector’s Number: 2 C 156
+Collector's Number: 2 C 156
 Faction: Independent
 Card Type: LOCATION (Sector) • Moon
 Destiny: 0
@@ -1802,7 +1802,7 @@ Energy: 2/1
 Game Text: Each ship here is tactics –1, unless that ship is a Shi ship.
 ILLUSTRATOR: JOE BOULDEN
 Title: *Ganymede/Subterranean Passage
-Collector’s Number:
+Collector's Number:
 Faction: Independent
 Card Type: LOCATION (Site) • Underground
 Destiny: 0
@@ -1811,7 +1811,7 @@ Energy: 1/1
 Game Text: Each time a player’s Quay character moves here, that player may pay 8 energy. If that player does, he or she destroys target character here.
 ILLUSTRATOR: PHILIPPE ‘HPX1’ GUYENNE
 Title: *Gongen/Michiyo Shrine
-Collector’s Number: 2 U 158
+Collector's Number: 2 U 158
 Faction: Independent
 Card Type: LOCATION (Site) • Port
 Destiny: 0
@@ -1820,7 +1820,7 @@ Energy: 2/1
 Game Text: When you play a NoBot here, it costs 3 less energy to play. Any player may use this ability.
 ILLUSTRATOR: CHRISTIAN PEARCE
 Title: Jupiter/Approach Route
-Collector’s Number: 2 U 159
+Collector's Number: 2 U 159
 Faction: Independent
 Card Type: LOCATION (Sector) • Planet
 Destiny: 0
@@ -1829,7 +1829,7 @@ Energy: 1/1
 Game Text: Encampment (Stack this card beneath target location where you have an energy icon, unit or ship. This card is no longer a location or sector and target gains this card’s energy and support icons that are on your side. You may stack only one encampment here.)
 ILLUSTRATOR: NICK STAHOPOULOS
 Title: *Last Chance/Outer Rim Station
-Collector’s Number: 2 U 160
+Collector's Number: 2 U 160
 Faction: Independent
 Card Type: LOCATION (Sector) • Station
 Destiny: 0
@@ -1838,7 +1838,7 @@ Energy: 1/0
 Game Text: Pay 5 energy ≈ Invert your target inverter ship here. You may use this ability only during your draw phase. Any player may use this ability.
 ILLUSTRATOR: NICK STAHOPOULOS
 Title: *Phobos/Disputed Territory
-Collector’s Number: 2 C 161
+Collector's Number: 2 C 161
 Faction: Independent
 Card Type: LOCATION (Sector) • Moon
 Destiny: 0
@@ -1847,7 +1847,7 @@ Energy: 1/1
 Game Text: Each time a player drains here, that player may pay 3 energy. If that player does, he or she retrieves a card.
 ILLUSTRATOR: NICK STAHOPOULOS
 Title: *Seyal/Dhanake’s Demesne
-Collector’s Number: 2 U 162
+Collector's Number: 2 U 162
 Faction: Independent
 Card Type: LOCATION (Site) • Port
 Destiny: 0
@@ -1856,7 +1856,7 @@ Energy: 2/1
 Game Text: Pay 4 energy ≈ Make your target kizen in a battle here immune to attrition until end of turn. Any player may use this ability.
 ILLUSTRATOR: DAVID DEEN
 Title: *Venus/Gula Mons Correctional Facility
-Collector’s Number: 2 U 163
+Collector's Number: 2 U 163
 Faction: Independent
 Card Type: LOCATION (Site)
 Destiny: 0
@@ -1865,7 +1865,7 @@ Energy: 2/1
 Game Text: You can’t drain here. As long as you control this location, as an additional cost for your opponent to play a ship or unit, he or she pays 1 energy.
 ILLUSTRATOR: KIERAN YANNER
 Title: Venus/Trade Route
-Collector’s Number: 2 U 164
+Collector's Number: 2 U 164
 Faction: Independent
 Card Type: LOCATION (Sector) • Station
 Destiny: 0
@@ -1874,7 +1874,7 @@ Energy: 1/1
 Game Text: Encampment (Stack this card beneath target location where you have an energy icon, unit or ship. This card is no longer a location or sector and target gains this card’s energy and support icons that are on your side. You may stack only one encampment here.)
 ILLUSTRATOR:
 Title: *Venus/Yacht Works
-Collector’s Number: 2 C 165
+Collector's Number: 2 C 165
 Faction: Independent
 Card Type: LOCATION (Sector) • Station
 Destiny: 0
@@ -1883,7 +1883,7 @@ Energy: 2/1
 Game Text: • Pay 4 energy ≈ Make your target Earther ship in a battle here power +5. Any player may use this ability.
 ILLUSTRATOR: STEPHEN CROWE
 Title: *Dagger Lead
-Collector’s Number: 2 PF 1
+Collector's Number: 2 PF 1
 Faction: Earther
 Card Type: VEHICLE • FedGrav • Inverter • Unit
 Cost: 6
@@ -1896,7 +1896,7 @@ Game Text: Size 2, Transport 1 • Invert this vehicle ≈ Undamage your target othe
 Lore: Howler’s command juggernaut has offspec mods the FedGrav designers never dreamed of.
 ILLUSTRATOR: DENNIS CALERO
 Title: *Killer Cait Grimalkin
-Collector’s Number: 2 PF 2
+Collector's Number: 2 PF 2
 Faction: Maverick
 Card Type: CHARACTER • Hellcats • Tech • Unit
 Cost: 5
