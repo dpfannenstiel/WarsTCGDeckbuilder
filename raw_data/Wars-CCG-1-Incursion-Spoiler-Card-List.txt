@@ -195,7 +195,8 @@ ILLUSTRATOR: SEDONE THONGVILAY
 Title: Escort Cruiser
 Collector’s Number: 1 C 18
 Faction: Earther
-Card Type: SHIP (Capacity 2) • iCom • Capital Cost: 6
+Card Type: SHIP (Capacity 2) • iCom • Capital
+Cost: 6
 Destiny: 2
 Support Cost: 2 Earther
 Power: 5
@@ -325,7 +326,8 @@ ILLUSTRATOR: PAULTOBIN
 Title: *Inca 1
 Collector’s Number: 1 R 30
 Faction: Earther
-Card Type: SHIP (Capacity 1) • iCom • Fighter Cost: 2
+Card Type: SHIP (Capacity 1) • iCom • Fighter
+Cost: 2
 Destiny: 4
 Support Cost:
 Power: 2
@@ -337,7 +339,8 @@ ILLUSTRATOR: STEPHENCROWE
 Title: *Inca 2
 Collector’s Number: 1 R 31
 Faction: Earther
-Card Type: SHIP (Capacity 1) • iCom • Fighter Cost: 3
+Card Type: SHIP (Capacity 1) • iCom • Fighter
+Cost: 3
 Destiny: 6
 Support Cost: 2 Earther
 Power: 2
@@ -400,7 +403,8 @@ ILLUSTRATOR: PETERFERGUSON
 Title: Juggernaut Tender
 Collector’s Number: 1 U 36
 Faction: Earther
-Card Type: SHIP (Capacity 8) • iCom • Capital Cost: 3
+Card Type: SHIP (Capacity 8) • iCom • Capital
+Cost: 3
 Destiny: 4
 Support Cost: 2 Earther
 Power: 3
@@ -431,7 +435,8 @@ ILLUSTRATOR: VSHANE
 Title: Luna Garrison Fighter
 Collector’s Number: 1 C 39
 Faction: Earther
-Card Type: SHIP (Capacity 1) • iCom • Fighter Cost: 3
+Card Type: SHIP (Capacity 1) • iCom • Fighter
+Cost: 3
 Destiny: 3
 Support Cost: 1 Earther
 Power: 2
@@ -517,7 +522,8 @@ ILLUSTRATOR: CORTNEYSKINNER
 Title: Survey Cruiser
 Collector’s Number: 1 C 48
 Faction: Earther
-Card Type: SHIP (Capacity 2) • iCom • Capital Cost: 5
+Card Type: SHIP (Capacity 2) • iCom • Capital
+Cost: 5
 Destiny: 1
 Support Cost: 2 Earther
 Power: 4
@@ -566,7 +572,8 @@ ILLUSTRATOR: ROBERTO CAMPUS
 Title: Venus Garrison Fighter
 Collector’s Number: 1 C 53
 Faction: Earther
-Card Type: SHIP (Capacity 1) • XeLabs • Fighter Cost: 3
+Card Type: SHIP (Capacity 1) • XeLabs • Fighter
+Cost: 3
 Destiny: 3
 Support Cost: 1 Earther
 Power: 2
@@ -760,7 +767,8 @@ ILLUSTRATOR: KAY ALLEN
 Title: Guardian-Class Carrier
 Collector’s Number: 1 C 71
 Faction: Gongen
-Card Type: SHIP (Capacity 6) • Tenno • Capital Cost: 4
+Card Type: SHIP (Capacity 6) • Tenno • Capital
+Cost: 4
 Destiny: 1
 Support Cost: 1 Gongen
 Power: 4
@@ -853,7 +861,8 @@ ILLUSTRATOR: DREWBAKER
 Title: *Jikoku
 Collector’s Number: 1 R 79
 Faction: Gongen
-Card Type: SHIP (Capacity 6) • Tenno • Capital Cost: 3
+Card Type: SHIP (Capacity 6) • Tenno • Capital
+Cost: 3
 Destiny: 1
 Support Cost: 1 Gongen
 Power: 3
@@ -865,7 +874,8 @@ ILLUSTRATOR: CHRISTIANSCHWAGER
 Title: Jikoku Fighter
 Collector’s Number: 1 C 80
 Faction: Gongen
-Card Type: SHIP (Capacity 1) • Tenno • Fighter Cost: 1
+Card Type: SHIP (Capacity 1) • Tenno • Fighter
+Cost: 1
 Destiny: 1
 Support Cost: 2 Gongen
 Power: 2
@@ -900,7 +910,8 @@ ILLUSTRATOR: ERICLOFGREN
 Title: *Komoku
 Collector’s Number: 1 C 83
 Faction: Gongen
-Card Type: SHIP (Capacity 6) • Tenno • Capital Cost: 3
+Card Type: SHIP (Capacity 6) • Tenno • Capital
+Cost: 3
 Destiny: 2
 Support Cost: 2 Gongen
 Power: 4
@@ -912,7 +923,8 @@ ILLUSTRATOR: CHRISTIANSCHWAGER
 Title: Komoku Fighter
 Collector’s Number: 1 R 84
 Faction: Gongen
-Card Type: SHIP (Capacity 1) • Tenno • Fighter Cost: 3
+Card Type: SHIP (Capacity 1) • Tenno • Fighter
+Cost: 3
 Destiny: 2
 Support Cost: 2 Gongen
 Power: 2
@@ -1152,7 +1164,8 @@ ILLUSTRATOR: ROBBURNS
 Title: *Tamon
 Collector’s Number: 1 R 107
 Faction: Gongen
-Card Type: SHIP (Capacity 6) • Tenno • Capital Cost: 7
+Card Type: SHIP (Capacity 6) • Tenno • Capital
+Cost: 7
 Destiny: 2
 Support Cost: 3 Gongen
 Power: 4
@@ -1166,7 +1179,8 @@ ROB BURNS
 Title: Tamon Fighter
 Collector’s Number: 1 C 108
 Faction: Gongen
-Card Type: SHIP (Capacity 1) • Tenno • Fighter Cost: 3
+Card Type: SHIP (Capacity 1) • Tenno • Fighter
+Cost: 3
 Destiny: 3
 Support Cost: 1 Gongen
 Power: 2
@@ -1178,7 +1192,8 @@ ILLUSTRATOR: ROBBURNS
 Title: *Zocho
 Collector’s Number: 1 U 109
 Faction: Gongen
-Card Type: SHIP (Capacity 6) • Tenno • Capital Cost: 4
+Card Type: SHIP (Capacity 6) • Tenno • Capital
+Cost: 4
 Destiny: 1
 Support Cost: 1 Gongen
 Power: 4
@@ -1190,7 +1205,8 @@ ILLUSTRATOR: CHRISTIANSCHWAGER
 Title: Zocho Fighter
 Collector’s Number: 1 C 110
 Faction: Gongen
-Card Type: SHIP (Capacity 1) • Tenno • Fighter Cost: 1
+Card Type: SHIP (Capacity 1) • Tenno • Fighter
+Cost: 1
 Destiny: 2
 Support Cost: 2 Gongen
 Power: 2
@@ -1412,7 +1428,8 @@ ILLUSTRATOR: CHRIS DIEN
 Title: *Hawk’s Wing
 Collector’s Number: 1 U 131
 Faction: Maverick
-Card Type: SHIP (Capacity 1) • Accord • Fighter Cost: 2
+Card Type: SHIP (Capacity 1) • Accord • Fighter
+Cost: 2
 Destiny: 3
 Support Cost: 1 Maverick
 Power: 2
@@ -1503,7 +1520,8 @@ ILLUSTRATOR: PETER FERGUSON
 Title: Modded Type IV
 Collector’s Number: 1 C 139
 Faction: Maverick
-Card Type: SHIP (Capacity 1) • Knaves • Fighter Cost: 4
+Card Type: SHIP (Capacity 1) • Knaves • Fighter
+Cost: 4
 Destiny: 4
 Support Cost: 1 Maverick
 Power: 3
@@ -1598,7 +1616,8 @@ ILLUSTRATOR: LORINWOOD
 Title: Raider
 Collector’s Number: 1 U 147
 Faction: Maverick
-Card Type: SHIP (Capacity 4) • Knaves • Capital Cost: 7
+Card Type: SHIP (Capacity 4) • Knaves • Capital
+Cost: 7
 Destiny: 2
 Support Cost: 1 Maverick
 Power: 5
@@ -1919,7 +1938,8 @@ ILLUSTRATOR: DREW BAKER
 Title: Damir Quarrel
 Collector’s Number: 1 U 176
 Faction: Shi
-Card Type: SHIP (Capacity 1) • Damir • Fighter Cost: 3
+Card Type: SHIP (Capacity 1) • Damir • Fighter
+Cost: 3
 Destiny: 4
 Support Cost: 1 Shi
 Power: 3
@@ -2164,7 +2184,8 @@ ILLUSTRATOR: CHRISAPPEL
 Title: Reliable Quarrel
 Collector’s Number: 1 R 200
 Faction: Shi
-Card Type: SHIP (Capacity 1) • Sudeva • Fighter Cost: 3
+Card Type: SHIP (Capacity 1) • Sudeva • Fighter
+Cost: 3
 Destiny: 3
 Support Cost: 1 Shi
 Power: 3
@@ -2199,7 +2220,8 @@ ILLUSTRATOR: MARIANNE PLUMRIDGE
 Title: Seyalshi Upholder
 Collector’s Number: 1 C 203
 Faction: Shi
-Card Type: SHIP (Capacity 1) • Damir • Fighter Cost: 3
+Card Type: SHIP (Capacity 1) • Damir • Fighter
+Cost: 3
 Destiny: 3
 Support Cost: 1 Shi
 Power: 3
@@ -2211,7 +2233,8 @@ ILLUSTRATOR: ROBBURNS
 Title: Squadron Lead
 Collector’s Number: 1 C 204
 Faction: Shi
-Card Type: SHIP (Capacity 1) • Vishal • Fighter Cost: 4
+Card Type: SHIP (Capacity 1) • Vishal • Fighter
+Cost: 4
 Destiny: 3
 Support Cost: 1 Shi
 Power: 3
@@ -2233,7 +2256,8 @@ ILLUSTRATOR: JOHNMORIARTY
 Title: Sudeva Escort
 Collector’s Number: 1 U 206
 Faction: Shi
-Card Type: SHIP (Capacity 1) • Sudeva • Fighter Cost: 3
+Card Type: SHIP (Capacity 1) • Sudeva • Fighter
+Cost: 3
 Destiny: 3
 Support Cost: 2 Shi
 Power: 3
@@ -2258,7 +2282,8 @@ ILLUSTRATOR: ALICEDUKE
 Title: Sudeva Quarrel
 Collector’s Number: 1 C 208
 Faction: Shi
-Card Type: SHIP (Capacity 1) • Sudeva • Fighter Cost: 3
+Card Type: SHIP (Capacity 1) • Sudeva • Fighter
+Cost: 3
 Destiny: 3
 Support Cost: 1 Shi
 Power: 3
@@ -2308,7 +2333,8 @@ ILLUSTRATOR: CHRIS APPEL
 Title: Tilak Quarrel
 Collector’s Number: 1 C 212
 Faction: Shi
-Card Type: SHIP (Capacity 1) • Tilak • Fighter Cost: 3
+Card Type: SHIP (Capacity 1) • Tilak • Fighter
+Cost: 3
 Destiny: 3
 Support Cost: 1 Shi
 Power: 3
@@ -2333,7 +2359,8 @@ ILLUSTRATOR: ROBBURNS
 Title: *Vatarva-Sudeva
 Collector’s Number: 1 R 214
 Faction: Shi
-Card Type: SHIP (Capacity 3) • Sudeva • Capital Cost: 4
+Card Type: SHIP (Capacity 3) • Sudeva • Capital
+Cost: 4
 Destiny: 4
 Support Cost: 3 Shi
 Power: 3
@@ -2355,7 +2382,8 @@ ILLUSTRATOR: SAMUEL ARAYA
 Title: Vishal Quarrel
 Collector’s Number: 1 R 216
 Faction: Shi
-Card Type: SHIP (Capacity 1) • Vishal • Fighter Cost: 3
+Card Type: SHIP (Capacity 1) • Vishal • Fighter
+Cost: 3
 Destiny: 3
 Support Cost: 2 Shi
 Power: 3
@@ -2459,7 +2487,8 @@ ILLUSTRATOR: KIERANYANNER
 Title: Chuluktika
 Collector’s Number: 1 U 226
 Faction: Quay
-Card Type: SHIP (Capacity 5) • Makal • Capital Cost: 1
+Card Type: SHIP (Capacity 5) • Makal • Capital
+Cost: 1
 Destiny: 3
 Support Cost: 1 Quay
 Power: 2
@@ -2550,7 +2579,8 @@ ILLUSTRATOR: BRITT MARTIN
 Title: Ilna Hekaton
 Collector’s Number: 1 C 235
 Faction: Quay
-Card Type: SHIP (Capacity 1) • Qurim • Fighter Cost: 1
+Card Type: SHIP (Capacity 1) • Qurim • Fighter
+Cost: 1
 Destiny: 3
 Support Cost: 1 Quay
 Power: 1
@@ -2585,7 +2615,8 @@ ILLUSTRATOR: JAMESRYMAN
 Title: Katal Life Ship
 Collector’s Number: 1 R 238
 Faction: Quay
-Card Type: SHIP (Capacity 4) • Katal • Capital Cost: 6
+Card Type: SHIP (Capacity 4) • Katal • Capital
+Cost: 6
 Destiny: 2
 Support Cost: 3 Quay
 Power: 4
@@ -2670,7 +2701,8 @@ ILLUSTRATOR: TREVORCLAXTON
 Title: *Luhustika
 Collector’s Number: 1 R 245
 Faction: Quay
-Card Type: SHIP (Capacity 4) • Luhus • Capital Cost: 7
+Card Type: SHIP (Capacity 4) • Luhus • Capital
+Cost: 7
 Destiny: 2
 Support Cost: 3 Quay
 Power: 5
@@ -2718,7 +2750,8 @@ ILLUSTRATOR: MATTIASSNYGG
 Title: *Makaltika
 Collector’s Number: 1 U 249
 Faction: Quay
-Card Type: SHIP (Capacity 4) • Makal • Capital Cost: 6
+Card Type: SHIP (Capacity 4) • Makal • Capital
+Cost: 6
 Destiny: 2
 Support Cost: 2 Quay
 Power: 4
@@ -2783,7 +2816,8 @@ ILLUSTRATOR: BRITTMARTIN
 Title: Qurim Life Ship
 Collector’s Number: 1 C 255
 Faction: Quay
-Card Type: SHIP (Capacity 4) • Qurim • Capital Cost: 6
+Card Type: SHIP (Capacity 4) • Qurim • Capital
+Cost: 6
 Destiny: 2
 Support Cost: 1 Quay
 Power: 5
@@ -2881,7 +2915,8 @@ ILLUSTRATOR: MATTIASSNYGG
 Title: Sitkatika Hekaton
 Collector’s Number: 1 C 264
 Faction: Quay
-Card Type: SHIP (Capacity 1) • Qurim • Fighter Cost: 1
+Card Type: SHIP (Capacity 1) • Qurim • Fighter
+Cost: 1
 Destiny: 4
 Support Cost: 1 Quay
 Power: 2
@@ -2928,7 +2963,8 @@ ILLUSTRATOR: MATTIAS SNYGG
 Title: Tahka Life Ship
 Collector’s Number: 1 C 268
 Faction: Quay
-Card Type: SHIP (Capacity 4) • Tahka • Capital Cost: 4
+Card Type: SHIP (Capacity 4) • Tahka • Capital
+Cost: 4
 Destiny: 2
 Support Cost: 2 Quay
 Power: 4
@@ -3022,7 +3058,8 @@ Game Text: Each time an interrupt is played, if no card is stacked on this asset
 Lore: “Those who cannot remember the past are condemned to repeat it.” – George Santayana
 ILLUSTRATOR: JAMESRYMAN
 Title: Corporate Transport Collector’s Number: 1 C 277 Faction: Independent
-Card Type: SHIP (Capacity 3) • Capital Cost: 3
+Card Type: SHIP (Capacity 3) • Capital
+Cost: 3
 Destiny: 3
 Power: 2
 Tactics: 1
@@ -3076,7 +3113,8 @@ Game Text: Put this character on top of its owner's used pile ≈ Your side of tar
 Lore: Sumo bots are programmed both for entertainment and more practical purposes. Their high utility and low maintenance make them perfect worker bots.
 ILLUSTRATOR: JOSHUATHEJAMESSHAW
 Title: Independent Transport Collector’s Number: 1 C 282 Faction: Independent
-Card Type: SHIP (Capacity 3) • Capital Cost: 3
+Card Type: SHIP (Capacity 3) • Capital
+Cost: 3
 Destiny: 3
 Power: 2
 Tactics: 1
@@ -3098,7 +3136,8 @@ Lore: In the Outer Rim, bots are unusual and eclectic. Many are programmed for s
 ILLUSTRATOR: JOSHUA THEJAMES SHAW
 Title: Opulent Transport
 Collector’s Number: 1 C 284 Faction: Independent
-Card Type: SHIP (Capacity 3) • Capital Cost: 3
+Card Type: SHIP (Capacity 3) • Capital
+Cost: 3
 Destiny: 3
 Power: 2
 Tactics: 1
@@ -3117,7 +3156,8 @@ Lore: Even a bot has its breaking point.
 ILLUSTRATOR: JOSHUATHEJAMESSHAW
 Title: Pilgrims’ Transport
 Collector’s Number: 1 C 286 Faction: Independent
-Card Type: SHIP (Capacity 3) • Capital Cost: 3
+Card Type: SHIP (Capacity 3) • Capital
+Cost: 3
 Destiny: 3
 Power: 2
 Tactics: 1
@@ -3146,7 +3186,8 @@ Destiny: 4
 Game Text: Until end of turn, your opponent can’t attack at target location where four or more of his or her units have entered play this turn. Lore: Avoiding a bad beat is an important skill beyond the Belt.
 ILLUSTRATOR: CHRISDIEN
 Title: Salvaged Transport Collector’s Number: 1 C 289 Faction: Independent
-Card Type: SHIP (Capacity 3) • Capital Cost: 3
+Card Type: SHIP (Capacity 3) • Capital
+Cost: 3
 Destiny: 3
 Power: 2
 Tactics: 1

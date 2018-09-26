@@ -168,7 +168,8 @@ ILLUSTRATOR: LIZ DANFORTH
 Title: *Pompeii
 Collector’s Number: 2 U 17
 Faction: Earther
-Card Type: SHIP (Capacity 4) • iCom • Capital Cost: 5
+Card Type: SHIP (Capacity 4) • iCom • Capital
+Cost: 5
 Destiny: 1
 Support Cost: 2 Earther
 Power: 4
@@ -231,7 +232,8 @@ ILLUSTRATOR: MICHELLE SPALDING
 Title: *Shadowsurfer
 Collector’s Number: 2 R 22
 Faction: Earther
-Card Type: SHIP (Capacity 3) • XeLabs • Capital Cost: 4
+Card Type: SHIP (Capacity 3) • XeLabs • Capital
+Cost: 4
 Destiny: 1
 Support Cost: 3 Earther
 Power: 3
@@ -278,7 +280,8 @@ ILLUSTRATOR: LIZ DANFORTH
 Title: *XeLabs Type IV
 Collector’s Number: 2 R 27
 Faction: Earther
-Card Type: SHIP (Capacity 1) • XeLabs • Fighter Cost: 2
+Card Type: SHIP (Capacity 1) • XeLabs • Fighter
+Cost: 2
 Destiny: 3
 Support Cost: 3 Earther
 Power: 2
@@ -290,7 +293,8 @@ ILLUSTRATOR: JOSHUA theJAMES SHAW
 Title: XeRacer
 Collector’s Number: 2 C 28
 Faction: Earther
-Card Type: SHIP (Capacity 2) • XeLabs • Fighter Cost: 3
+Card Type: SHIP (Capacity 2) • XeLabs • Fighter
+Cost: 3
 Destiny: 3
 Support Cost: 1 Earther
 Power: 3
@@ -436,7 +440,8 @@ ILLUSTRATOR: MARK EVANS
 Title: Jikoku Interceptor
 Collector’s Number: 2 C 41
 Faction: Gongen
-Card Type: SHIP (Capacity 0) • Tenno • Fighter Cost: 2
+Card Type: SHIP (Capacity 0) • Tenno • Fighter
+Cost: 2
 Destiny: 5
 Support Cost: 2 Gongen
 Power: 1
@@ -461,7 +466,8 @@ ILLUSTRATOR: APRIL LEE
 Title: Komoku Interceptor
 Collector’s Number: 2 U 43
 Faction: Gongen
-Card Type: SHIP (Capacity 0) • Tenno • Fighter Cost: 4
+Card Type: SHIP (Capacity 0) • Tenno • Fighter
+Cost: 4
 Destiny: 3
 Support Cost: 2 Gongen
 Power: 1
@@ -536,7 +542,8 @@ ILLUSTRATOR: FRANCIS TSAI
 Title: Tamon Interceptor
 Collector’s Number: 2 C 50
 Faction: Gongen
-Card Type: SHIP (Capacity 0) • Tenno • Fighter Cost: 2
+Card Type: SHIP (Capacity 0) • Tenno • Fighter
+Cost: 2
 Destiny: 3
 Support Cost: 2 Gongen
 Power: 1
@@ -612,7 +619,8 @@ ILLUSTRATOR: ERIC LOFGREN
 Title: Zocho Interceptor
 Collector’s Number: 2 C 57
 Faction: Gongen
-Card Type: SHIP (Capacity 0) • Tenno • Fighter Cost: 2
+Card Type: SHIP (Capacity 0) • Tenno • Fighter
+Cost: 2
 Destiny: 4
 Support Cost: 2 Gongen
 Power: 1
@@ -1032,7 +1040,8 @@ ILLUSTRATOR: SEAN McNALLY
 Title: Crown Vessel
 Collector’s Number: 2 U 95
 Faction: Shi
-Card Type: SHIP (Capacity 3) • Sudeva • Capital Cost: 3
+Card Type: SHIP (Capacity 3) • Sudeva • Capital
+Cost: 3
 Destiny: 2
 Support Cost2 Shi
 Power: 3
@@ -1076,7 +1085,8 @@ ILLUSTRATOR: JOE BOULDEN
 Title: Hastecurrent Pursuer
 Collector’s Number: 2 C 99
 Faction: Shi
-Card Type: SHIP (Capacity 1) • Anant • Fighter Cost: 4
+Card Type: SHIP (Capacity 1) • Anant • Fighter
+Cost: 4
 Destiny: 4
 Support Cost: 1 Shi
 Power: 3
@@ -1163,7 +1173,8 @@ ILLUSTRATOR: JOE BOUlDEN
 Title: Resolute Quarrel
 Collector’s Number: 2 C 106
 Faction: Shi
-Card Type: SHIP (Capacity 1) • Tilak • Fighter Cost: 3
+Card Type: SHIP (Capacity 1) • Tilak • Fighter
+Cost: 3
 Destiny: 3
 Support Cost: 2 Shi
 Power: 3
@@ -1183,7 +1194,8 @@ ILLUSTRATOR: JOE BOULDEN
 Title: Swiftwave Attacker
 Collector’s Number: 2 R 108
 Faction: SHI
-Card Type: SHIP (Capacity 1) • Anant • Fighter Cost: 3
+Card Type: SHIP (Capacity 1) • Anant • Fighter
+Cost: 3
 Destiny: 1
 Support Cost: 3 Shi
 Power: 3
@@ -1257,7 +1269,8 @@ ILLUSTRATOR: TERRY ROBINSON
 Title: *Anakatika
 Collector’s Number: 2 U 115
 Faction: Quay
-Card Type: SHIP (Capacity 1) • Qurim • Fighter Cost: 1
+Card Type: SHIP (Capacity 1) • Qurim • Fighter
+Cost: 1
 Destiny: 3
 Support Cost: 2 Quay
 Power: 2
@@ -1315,7 +1328,8 @@ ILLUSTRATOR: SEDONE THONGVILAY
 Title: Deft Attacker
 Collector’s Number: 2 C 120
 Faction: Quay
-Card Type: SHIP (Capacity 1) • Qurim • Fighter Cost: 2
+Card Type: SHIP (Capacity 1) • Qurim • Fighter
+Cost: 2
 Destiny: 5
 Support Cost: 1 Quay
 Power: 2
@@ -1327,7 +1341,8 @@ ILLUSTRATOR: DAVID DEEN
 Title: Encroaching Hekaton
 Collector’s Number: 2 C 121
 Faction: Quay
-Card Type: SHIP (Capacity 1) • Luhus • Fighter Cost: 2
+Card Type: SHIP (Capacity 1) • Luhus • Fighter
+Cost: 2
 Destiny: 2
 Support Cost: 1 Quay
 Power: 2
@@ -1544,7 +1559,8 @@ ILLUSTRATOR: CHRISTIAN PEARCE
 Title: Tahka Assault Craft
 Collector’s Number: 2 U 140
 Faction: Quay
-Card Type: SHIP (Capacity 3) • Tahka • Capital Cost: 4
+Card Type: SHIP (Capacity 3) • Tahka • Capital
+Cost: 4
 Destiny: 2
 Support Cost: 2 Quay
 Power: 4
