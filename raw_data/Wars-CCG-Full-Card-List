@@ -68,8 +68,7 @@ Cost: 3
 Destiny: 2
 Support Cost: 3 Earther
 Game Text: You may play this asset beneath one of your opponentÕs sites. Each unit your opponent plays here costs 1 more energy to play for each ship you have at each related sector.
-Lore: ÒIn a couple weeks theyÕll be eating rats.Ó
-Ð Horatio Hicks
+Lore: "In a couple weeks they'll be eating rats." - Horatio Hicks
 ILLUSTRATOR: STEPHEN CROWE
 <-- NEW CARD -->
 Title: CGC Grunt
@@ -344,8 +343,7 @@ Cost: 2
 Destiny: 6
 Support Cost: 3 Earther
 Game Text: You may play this interrupt only when you could perform an attack. Perform an attack at no cost at target location where a battle has already taken place this turn.
-Lore: ÒVictory belongs to the most persevering.Ó
-Ð Napoleon Bonaparte
+Lore: "Victory belongs to the most persevering." - Napoleon Bonaparte
 ILLUSTRATOR: DENNISCALERO
 <-- NEW CARD -->
 Title: *HowlerÕs Blades
@@ -368,7 +366,7 @@ Faction: Earther
 Card Type: SHIP (Capacity 1) ¥ iCom ¥ Fighter
 Cost: 2
 Destiny: 4
-Support Cost:
+Support Cost: 1 Earther
 Power: 2
 Tactics: 1
 Defense: 5
@@ -431,7 +429,6 @@ Defense: 0
 Game Text: As an additional cost for your opponent to use a support icon here, he or she pays 1 energy.
 Lore: McCarr mastered his craft as a Gongen agent. The Coordination and Intelligence Syndicate proved that his loyalty could be bought.
 ILLUSTRATOR: MATTIAS SNYGG
-1 Earther
 <-- NEW CARD -->
 Title: *James Howler
 Collector's Number: 1 R 35
@@ -1297,6 +1294,7 @@ Destiny: 6
 Support Cost: 1 Gongen
 Game Text: Target pending ship canÕt move until end of turn.
 Lore: The Gongen A.I. wastes little time in responding to threats to its people. Tenno assets are ever at its disposal.
+ILLUSTRATOR: ROB BURNS
 <-- NEW CARD -->
 Title: T.S.V. Command Post
 Collector's Number: 1 U 105
@@ -1336,8 +1334,6 @@ Defense: 5
 Game Text: Transport 4 (Each time this ship moves, you may move with it up to four of your fighters.) When this ship enters play, each player dismisses all other capitals here unless he or she dismisses a fighter here.
 Lore: ÒAs the North wind brings the chill of war and death so Tamon will stand sentinel.Ó Ð Tenryu naming ceremony, 2382
 ILLUSTRATOR: CHRISTIANSCHWAGER
-ILLUSTRATOR:
-ROB BURNS
 <-- NEW CARD -->
 Title: Tamon Fighter
 Collector's Number: 1 C 108
@@ -1863,7 +1859,7 @@ Tactics: 1/1
 Defense: 3/2
 Game Text: Each time you reveal a card for battle destiny that has destiny 6 or more, you may pay 3 energy. If you do, invert this ship.
 Lore: Heavily armed and very fast. One of them won ÒBest-LookingÓ at the 2389 Vesta Singleship Rally.
-ILLUSTRATOR:
+ILLUSTRATOR: LORIN WOOD
 <-- NEW CARD -->
 Title: Reload
 Collector's Number: 1 U 149
@@ -1911,7 +1907,6 @@ Defense: 6
 Game Text: Size 2, Transport 2 Each time a site battle ends here, if your battle destiny at the end of the power step was exactly 11, your opponent loses all cards from his or her hand.
 Lore: Defeating an enemy isnÕt enough. When resources are low, youÕve also got to be able to bring home the spoils.
 ILLUSTRATOR: BRYANHEYBOER
-LORIN WOOD
 <-- NEW CARD -->
 Title: Spassky Quickfire II
 Collector's Number: 1 C 153
@@ -3404,8 +3399,7 @@ Support Cost: 1 Quay
 Power: 1/3
 Tactics: 1/1
 Defense: 3/3
-Game Text: Pay 2 energy Å Invert this unit. /
-¥ Pay 2 energy Å You cause attrition +1 here until end of turn.
+Game Text: Pay 2 energy Å Invert this unit. / ¥ Pay 2 energy Å You cause attrition +1 here until end of turn.
 Lore: After kundanaka, their hides become ashen, and their minds burn with rage.
 ILLUSTRATOR: MATTIASSNYGG
 <-- NEW CARD -->
@@ -4540,8 +4534,7 @@ Card Type: WEAPON (NoBot) ¥ Ranged
 Cost: 1
 Destiny: 6
 Support Cost: 3 Gongen
-Game Text: This NoBot is defense +4.
-¥¥ Pay 2 energy Å Choose target unit your opponent has in a site battle here. Reveal the top two cards of your reserve, choose one and note its destiny, and put them on top of your used pile in any order. Damage target if its defense < that destiny.
+Game Text: This NoBot is defense +4. ¥¥ Pay 2 energy Å Choose target unit your opponent has in a site battle here. Reveal the top two cards of your reserve, choose one and note its destiny, and put them on top of your used pile in any order. Damage target if its defense < that destiny.
 Lore: ÒThe Shi taught the Quay to hate water. The NoBot kouhyou weapon taught them to fear it.Ó
 ILLUSTRATOR: CHRISTIAN PEARCE
 <-- NEW CARD -->
@@ -4701,15 +4694,14 @@ ILLUSTRATOR: CHRISTIAN SCHWAGER
 Title: Takumi Shadow Warriors
 Collector's Number: 2 R 49
 Faction: Gongen
-Card Type CHARACTER ¥ Deigan ¥ Warrior ¥ Unit
+Card Type: CHARACTER ¥ Deigan ¥ Warrior ¥ Unit
 Cost: 4
 Destiny: 1
 Support Cost: 3 Gongen
 Power: 5
 Tactics: 3
 Defense: 4
-Game Text: Quickdraw 1 (Add a ¥ to each activated ability on a weapon beneath this character that already has one.)
-This character may have two weapons beneath it.
+Game Text: Quickdraw 1 (Add a ¥ to each activated ability on a weapon beneath this character that already has one.) This character may have two weapons beneath it.
 Lore: Living in darkness, kagemusha cloud their individuality to intensify their might.
 ILLUSTRATOR: FRANCIS TSAI
 <-- NEW CARD -->
@@ -4751,8 +4743,7 @@ Support Cost: 3 Gongen
 Power: 4
 Tactics: 4
 Defense: 4
-Game Text: Quickdraw 2 (Add two ¥ to each activated ability on a weapon beneath this character that already has one.)
-As long as this character has a weapon beneath him, he canÕt be damaged.
+Game Text: Quickdraw 2 (Add two ¥ to each activated ability on a weapon beneath this character that already has one.) As long as this character has a weapon beneath him, he canÕt be damaged.
 Lore: ÒA fallen comrade at your back only strengthens your footing. A fallen army behind you makes you invincible.Ó- Sido, Gongen Philosopher
 ILLUSTRATOR: APRIL LEE
 <-- NEW CARD -->
@@ -4763,8 +4754,7 @@ Card Type: WEAPON (Character) ¥ Melee
 Cost: 2
 Destiny: 1
 Support Cost: 1 Gongen
-Game Text: When the character this weapon is beneath is destroyed, you may put this weapon in its ownerÕs hand.
-¥ Pay 1 energy Å Choose target unit your opponent has in a site battle here. Damage target if its defense < [D] + 2.
+Game Text: When the character this weapon is beneath is destroyed, you may put this weapon in its ownerÕs hand. ¥ Pay 1 energy Å Choose target unit your opponent has in a site battle here. Damage target if its defense < [D] + 2.
 Lore: This two-meter monomolecular blade trades speed for striking power.
 ILLUSTRATOR: BRADLEY WILLIAMS
 <-- NEW CARD -->
@@ -4842,8 +4832,7 @@ Support Cost: 3 Maverick
 Power: 3
 Tactics: 2
 Defense: 4
-Game Text: Piloting 2 (As long as this character is aboard a ship, that ship is power +2 and tactics +2.)
-¥ Pay 3 energy Å Move target ship this character is aboard. You may use this ability only during your deploy phase.
+Game Text: Piloting 2 (As long as this character is aboard a ship, that ship is power +2 and tactics +2.) ¥ Pay 3 energy Å Move target ship this character is aboard. You may use this ability only during your deploy phase.
 Lore: Three things she canÕt stand: downtime for repairs, customs frigates, and lousy Reds.
 ILLUSTRATOR: WESLEY BURT
 <-- NEW CARD -->
@@ -4882,8 +4871,7 @@ Support Cost: 2 Maverick
 Power: 2
 Tactics: 2
 Defense: 3
-Game Text: Quickdraw 1 (Add a ¥ to each activated ability on a weapon beneath this character that already has one.)
-As long as this character has a weapon beneath her, you generate 2 more energy here.
+Game Text: Quickdraw 1 (Add a ¥ to each activated ability on a weapon beneath this character that already has one.) As long as this character has a weapon beneath her, you generate 2 more energy here.
 Lore: Flameout Jackson says that fuel tanks are for emptying. Her throttle has only two settings, off and wide open.
 ILLUSTRATOR: KIERAN YANNER
 <-- NEW CARD -->
@@ -4959,7 +4947,7 @@ Collector's Number: 2 U 68
 Faction: Maverick
 Card Type: ASSET
 Cost: 2
-Destiny:4
+Destiny: 4
 Support Cost: 2 Maverick
 Game Text: Each interrupt costs 3 more energy to play.
 Lore: Seriously. DonÕt.
@@ -5257,7 +5245,7 @@ Tactics: 2
 Defense: 3
 Game Text: Scouting (You may play this character at a site that has no energy icons on your side.)
 Lore: Ampatra relies on specialized equipment when tracking escaped Quay.
-ILLUSTRATOR:
+ILLUSTRATOR: NOT LISTED
 <-- NEW CARD -->
 Title: Cornered
 Collector's Number: 2 C 93
@@ -5287,7 +5275,7 @@ Faction: Shi
 Card Type: SHIP (Capacity 3) ¥ Sudeva ¥ Capital
 Cost: 3
 Destiny: 2
-Support Cost2 Shi
+Support Cost: 2 Shi
 Power: 3
 Tactics: 2
 Defense: 5
@@ -5656,11 +5644,11 @@ ILLUSTRATOR: PHILIPPE ÔHPX1Õ GUYENNE
 <-- NEW CARD -->
 Title: Flamecutter
 Collector's Number: 2 R 124
-Faction:
+Faction: UNKNOWN
 Card Type: CHARACTER ¥ Tahka ¥ Inverter ¥ Unit
-Cost:
-Destiny:
-Support Cost:
+Cost: 99
+Destiny: 99
+Support Cost: 0
 Power: 2/4
 Tactics: 2/4
 Defense: 2/4
@@ -6051,7 +6039,7 @@ Game Text: Each ship here is tactics Ð1, unless that ship is a Shi ship.
 ILLUSTRATOR: JOE BOULDEN
 <-- NEW CARD -->
 Title: *Ganymede/Subterranean Passage
-Collector's Number:
+Collector's Number: 2 X 157
 Faction: Independent
 Card Type: LOCATION (Site) ¥ Underground
 Destiny: 0
@@ -6128,7 +6116,7 @@ Destiny: 0
 Support Cost: 1 Earther
 Energy: 1/1
 Game Text: Encampment (Stack this card beneath target location where you have an energy icon, unit or ship. This card is no longer a location or sector and target gains this cardÕs energy and support icons that are on your side. You may stack only one encampment here.)
-ILLUSTRATOR:
+ILLUSTRATOR: UNKNOWN
 <-- NEW CARD -->
 Title: *Venus/Yacht Works
 Collector's Number: 2 C 165
