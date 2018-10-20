@@ -39,7 +39,9 @@ cards.each { |card|
 		if cardline.count == 1 && cardline[0] != "\n" then 
 			puts card
 		end
-		traits.add(cardline[0])
+		if cardline[0] != "\n" then
+			traits.add(cardline[0])
+		end
 	end
 }
 
